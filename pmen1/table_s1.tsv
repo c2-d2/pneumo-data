@@ -1,0 +1,242 @@
+Strain	Country	Region	Year	Disease	Sample	Patient Age (Years)	Serotype	Inferred Serotype	ST	Inferred ST	MIC(Pen)	MIC(Chlor)	MIC(Tet)	MIC(Ery)	MacR Phenotype	Source	Surveillance Network	ENA Accession
+ARG 740	Argentina	Cap. Fed.	1995				23F	23F		81	1	R	R	S		Alexander Tomasz		ERS009226
+3122	Canada		1994		Bronchial wash		19A	19A	81	81						Dylan Pillai	OAHPP/CBSN	ERS009778
+9295	Canada		1997				19F	19F	81	81	0,1		8	0,5		Dylan Pillai	OAHPP/CBSN	ERS009779
+9426	Canada		1997				19F	19F	81	81	4		32	2		Dylan Pillai	OAHPP/CBSN	ERS009780
+11126	Canada		1998				19F	19F	81	81	4		32	1		Dylan Pillai	OAHPP/CBSN	ERS009781
+34117	Canada		2007				23F	23F	81	81						Dylan Pillai	OAHPP/CBSN	ERS009788
+36148	Canada		2008				23F	23F	81	81						Dylan Pillai	OAHPP/CBSN	ERS009785
+HK P1	China	Hong Kong	2000		Sputum		23F	23F	81	81	2		16	16	mef(A)	So Hyun Kim/Jae Hoon Song	ANSORP	ERS004773
+HK P38	China	Hong Kong	2000		Sputum		23F	23F	81	81	2		8	2	mef(A)	So Hyun Kim/Jae Hoon Song	ANSORP	ERS004775
+TW M30	China	Taiwan	2000		Blood		19F	19F	81	81	2		8	4	mef(A)	So Hyun Kim/Jae Hoon Song	ANSORP	ERS004791
+HK P57	China	Hong Kong	2001		Sputum		23F	23F	81	81	2		8	4	mef(A)	So Hyun Kim/Jae Hoon Song	ANSORP	ERS004779
+HK P58	China	Hong Kong	2001		Sputum		19F	19F	81	81	1		8	4	mef(A)	So Hyun Kim/Jae Hoon Song	ANSORP	ERS004778
+HK P65	China	Hong Kong	2001		Sputum		23F	23F	81	81	2		8	4	mef(A)	So Hyun Kim/Jae Hoon Song	ANSORP	ERS004781
+S-030	China		2006				15B	15C	83	83						Lesley McGee	CDC	ERS004844
+S-054	China		2006				15B	15C	83	83						Lesley McGee	CDC	ERS004880
+S-055	China		2006				15B	15C	83	83						Lesley McGee	CDC	ERS004845
+S-153	China		2006				23F	23F	81	81						Lesley McGee	CDC	ERS004846
+COL 252	Colombia	Bogota	1995				23F	23F		81	2	R	R	S		Alexander Tomasz		ERS009227
+385	Croatia		2001				23F	23F	285	81						Lesley McGee	CDC	ERS005718
+412	Croatia		2001				23F	23F	285	81						Lesley McGee	CDC	ERS004814
+118-87	Denmark		1987		Swab		23F	23F		81	2	12	16	0.125		Lotte Lambertsen	SSI	ERS005339
+484-93	Denmark		1993		Blood		23F	23F		DLV81	6	12	24	0.125		Lotte Lambertsen	SSI	ERS005341
+88-93	Denmark		1993		Sputum		23F	23F		81	3	10	24	256	ermB	Lotte Lambertsen	SSI	ERS005342
+135-94	Denmark		1994		Sputum		23F	23F		81	3	11	12	256	ermB	Lotte Lambertsen	SSI	ERS005340
+848-95	Denmark		1995		Nasopharynx		23F	23F		81	2	10	0.38	256	ermB	Lotte Lambertsen	SSI	ERS005344
+1392-96	Denmark		1996		Blood 		23F	23F		81	4	12	24	0.125		Lotte Lambertsen	SSI	ERS005343
+1437-96	Denmark		1996		Blood		23F	23F		81	8	11	12	0.125		Lotte Lambertsen	SSI	ERS005345
+933-98	Denmark		1998		Ear		23F	23F		81	4	11	16	0.125		Lotte Lambertsen	SSI	ERS005347
+BM4200	France	Paris	1978				23F	23F		1010					erm	Sylvain Brisse		ERS005337
+9300	France		2002	Pneumonia	Sinus aspirate culture	55	23F	23F	1598	1598	0,5		16	64	erm	Mark van der Linden	Pneumo World	ERS005295
+9409	France		2002	Pneumonia	Sputum	69	23F	23F	81	81	2		16		erm	Mark van der Linden	Pneumo World	ERS005293
+11865	France				Lung		23F	23F	81	81	1		1	64	 erm 	Mark van der Linden	Pneumo World	ERS005296
+11867	France				Lung		23F	23F	81	81	2		2	64	 erm 	Mark van der Linden	Pneumo World	ERS005298
+11868	France				Lung		23F	23F	81	81	1		1	64	 erm 	Mark van der Linden	Pneumo World	ERS005300
+11875	France				Respiratory tract		23F	23F	81	81	1		1	32	 erm 	Mark van der Linden	Pneumo World	ERS005299
+11876	France				Respiratory tract		23F	23F	81	81	1		1	64	 erm 	Mark van der Linden	Pneumo World	ERS005301
+11881	France				Respiratory tract		23F	23F	81	81	2		1	64	 erm 	Mark van der Linden	Pneumo World	ERS005302
+11883	France				Lung		23F	23F	81	81	1		1	8	 mef 	Mark van der Linden	Pneumo World	ERS005303
+2859	Germany		1992	Sinusitis		3	23F	23F	81	81	0,5		16	0,06		Mark van der Linden	NRCS	ERS005273
+2905	Germany		1992	Pneumonia	CSF	63	23F	23F	81	81	2		16	0,06		Mark van der Linden	NRCS	ERS005274
+2934	Germany		1992	Pleural empyema	Pleural fluid	99	23F	23F	81	81	1		16	0,12		Mark van der Linden	NRCS	ERS005275
+3027	Germany		1992	Meningitis	CSF	99	23F	23F	81	81	0,5		8	0,06		Mark van der Linden	NRCS	ERS005276
+3296	Germany		1992		CSF	6	23F	23F	81	81	0,5		64	128	erm	Mark van der Linden	NRCS	ERS005278
+3413	Germany		1992			85	23F	23F	81	81	0,5		16	0,12		Mark van der Linden	NRCS	ERS005277
+3696	Germany		1993			1	23F	23F	81	81	0,5		32	0,06		Mark van der Linden	NRCS	ERS005281
+3842	Germany		1993			67	23F	23F	81	81	0,5		16	0,12		Mark van der Linden	NRCS	ERS005279
+3848	Germany		1993	Sepsis	Blood	99	23F	23F	81	81	0,25		16	0,12		Mark van der Linden	NRCS	ERS005271
+3901	Germany		1993	Pneumonia		66	23F	23F	81	81	0,5		8	0,12		Mark van der Linden	NRCS	ERS005272
+4114	Germany		1994	Pneumonia	Blood	64	23F	23F	81	81	0,5		0,25	128	erm	Mark van der Linden	NRCS	ERS005280
+4545	Germany		1995			6	23F	23F	81	81	0,5		8	0,12		Mark van der Linden	NRCS	ERS005282
+PMEN1_4605	Germany		1995		Blood	51	23F	23F	81	81	0,5		2	0,12		Mark van der Linden	NRCS	ERS005284
+5195	Germany		1996		Sputum	59	23F	23F	81	81	0,25		8	0,12		Mark van der Linden	NRCS	ERS005287
+5204	Germany		1996	Nephritis	Swab	4	23F	23F	81	81	0,25		16	4		Mark van der Linden	NRCS	ERS005288
+24478	Germany		1997		Bronchial secretion	72		23F	81	81	1					Mark van der Linden	NRCS	ERS005316
+13150	Germany		1998	Otitis media	Swab	2	23F	23F	81	81	2		16			Mark van der Linden	NRCS	ERS005307
+277	Germany		1998		Blood	1	23F	23F	81	81	0,5		0,25	2	mef	Mark van der Linden	NRCS	ERS005269
+13804	Germany		1999	Sinusitis	Swab	55	23F	23F	81	81	2		32			Mark van der Linden	NRCS	ERS005308
+6025	Germany		2000	Pneumonia	Blood	80	23F	23F	1595	1595	1		0,5	32	erm	Mark van der Linden	NRCS	ERS005289
+6039	Germany		2000	Pneumonia	Blood	79	23F	23F	81	81	1		16	32	erm	Mark van der Linden	NRCS	ERS005290
+902	Germany		2001		Blood	00	23F	23F	81	81	0,5		8	32	erm	Mark van der Linden	NRCS	ERS005270
+4826	Germany		1995			63	19F	19F	1591	1591	1		8	8	mef	Mark van der Linden	NRCS	ERS005285
+Kor 136	Korea		1998		Sputum		23F	23F	81	81	2		NT	4	mefA	So Hyun Kim/Jae Hoon Song	ANSORP	ERS004799
+Kor 138	Korea		1998		Sputum		23F	23F	81	81	2		NT	8	mefA	So Hyun Kim/Jae Hoon Song	ANSORP	ERS004800
+Kor 146	Korea		1998		Tracheal aspirate		6A	06A	81	81	2		NT	>128	ermB	So Hyun Kim/Jae Hoon Song	ANSORP	ERS004802
+Kor 148	Korea		1998		Sputum		UT	14	81	81	1		NT	2	mefA	So Hyun Kim/Jae Hoon Song	ANSORP	ERS004804
+Kor 28	Korea		1999		Tracheal aspirate		19F	19F	81	81	2		NT	4	mefA	So Hyun Kim/Jae Hoon Song	ANSORP	ERS004789
+Kor 82	Korea		1999		Sputum		23F	23F	81	81	2		NT	>128	ermB/mefA	So Hyun Kim/Jae Hoon Song	ANSORP	ERS004797
+Kor 906	Korea		1999		Sputum		19F	19F	81	81	1		NT	4	mefA	So Hyun Kim/Jae Hoon Song	ANSORP	ERS004796
+Kor 909	Korea		1999		Tracheal aspirate		23B	19F	81	81	1		NT	4	mefA	So Hyun Kim/Jae Hoon Song	ANSORP	ERS004798
+Kor 910	Korea		1999		Sputum		23F	23F	81	81	1		NT	>128	ermB	So Hyun Kim/Jae Hoon Song	ANSORP	ERS004787
+Kor 14	Korea		2000		Sputum		6A	06A	81	81	4		8	8	mefA	So Hyun Kim/Jae Hoon Song	ANSORP	ERS004795
+Kor 16	Korea		2000		Sputum		23F	23F	81	81	2		8	>128	ermB/mefA	So Hyun Kim/Jae Hoon Song	ANSORP	ERS004794
+04-004	Korea		2004					19F	81	81	2		NT	1	mefA	So Hyun Kim/Jae Hoon Song	ANSORP	ERS004806
+04-036	Korea		2004					06A	81	81	2		NT	>128	ermB/mefA	So Hyun Kim/Jae Hoon Song	ANSORP	ERS004808
+04-124	Korea		2004					23F	81	81	2		NT	32	ermB/mefA	So Hyun Kim/Jae Hoon Song	ANSORP	ERS004801
+07-050	Korea		2007		Nasal/Nasopharynx		6A	06A	81	81	2		NT	1	mefA	So Hyun Kim/Jae Hoon Song	ANSORP	ERS004803
+07-117	Korea		2007		Tracheal aspirate		6A	06A	81	81	2		NT	2	ermB/mefA	So Hyun Kim/Jae Hoon Song	ANSORP	ERS004805
+08-B-120	Korea		2007		Blood		23F	23F	81	81	2		NT	>128	ermB/mefA	So Hyun Kim/Jae Hoon Song	ANSORP	ERS004807
+Mal M12	Malaysia		1999		CSF, blood		19F	19F	81	81	2		8	2	mef(A)	So Hyun Kim/Jae Hoon Song	ANSORP	ERS004782
+Mal M6	Malaysia		1999		Other		19F	19F	81	81	2		8	8	mef(A)	So Hyun Kim/Jae Hoon Song	ANSORP	ERS004780
+Mal P4	Malaysia		1999		Blood		19F	19F	81	81	2		8	4	mef(A)	So Hyun Kim/Jae Hoon Song	ANSORP	ERS004783
+13 HIM	Mexico	Mexico City	1994	Pneumonia	Pleural fluid		23F	23F		DLV81	4	R	R	S		Alexander Tomasz		ERS009222
+35 HIM	Mexico	Mexico City	1994	Pneumonia	Bronchuial aspirate		23F	23F		81	8	R	R	S		Alexander Tomasz		ERS009221
+46 HIM	Mexico	Mexico City	1994	Pneumonia	Blood		23F	23F		81	4	R	R	S		Alexander Tomasz		ERS009218
+9 HIM	Mexico	Mexico City	1994	Pneumonia	Pleural fluid		23F	23F		81	4	R	R	S		Alexander Tomasz		ERS009211
+109 HIM	Mexico	Mexico City	1995	Pneumonia	Blood		23F	23F		81	4	R	R	S		Alexander Tomasz		ERS009212
+11 CMN	Mexico	Mexico City	1995	Sepsis	Blood			23F		81	8	R	R	S		Alexander Tomasz		ERS009220
+23 CMN	Mexico	Mexico City	1995	Meningitis	CSF		23F	23F		81	4	R	R	S		Alexander Tomasz		ERS009217
+35 CMN	Mexico	Mexico City	1995	Sepsis	Blood		23F	23F		81	4	R	R	S		Alexander Tomasz		ERS009213
+36 CMN	Mexico	Mexico City	1995	Sepsis	Blood		23F	23F		81	4	R	R	S		Alexander Tomasz		ERS009214
+76 HIM	Mexico	Mexico City	1995	Sepsis	Blood		23F	23F		81	2	R	R	R		Alexander Tomasz		ERS009215
+132 HIM	Mexico	Mexico City	1996	Meningitis	CSF		23F	23F		81	4	R	R	S		Alexander Tomasz		ERS009219
+61 CMN	Mexico	Mexico City	1996	Pneumonia	Blood		23F	23F		SLV81	4	R	R	R		Alexander Tomasz		ERS009216
+8454	Portugal		2002	Chronic bronchitis	Sputum	72	23F	23F	81	81	1		32	64	erm	Mark van der Linden	NRCS	ERS005283
+23782	Russia		2003				23F	23F	81	81	2		16	32	mef +ermB	Sergei Sidorenko		ERS005323
+23784	Russia		2003				23F	23F	81	81	0,06		16	32	mef +ermB	Sergei Sidorenko		ERS005324
+23748	Russia		2004				23F	23F	81	81	2		16	32	mef +ermB	Sergei Sidorenko		ERS005319
+23771	Russia		2004	Asthma	Tracheal secretion	13	23F	23F	81	81	2		16	32	mef +ermB	Sergei Sidorenko		ERS005322
+23805	Russia		2004	Pneumonia	Sputum	41	23F	23F	81	81	2		16	32	mef +ermB	Sergei Sidorenko		ERS005327
+23841	Russia		2004	Bronchitis	Sputum	75		23F	81	81	2		16	32	mef +ermB	Sergei Sidorenko		ERS005325
+23809	Russia		2005	Pneumonia	Sputum	76	23F	23F	SLV81 ?	81	4		16	32	mef +ermB	Sergei Sidorenko		ERS005331
+23920	Russia		2005	Bronchitis	Sputum	71		23F	81	81	4		16	32	mef +ermB	Sergei Sidorenko		ERS005318
+SI M1	Singapore		2000		Blood & CSF		23F	23F	81	81	4		8	1	mef(A)	So Hyun Kim/Jae Hoon Song	ANSORP	ERS004784
+SI O1	Singapore		2000				19F	19F	81	81	2		8	4	mef(A)	So Hyun Kim/Jae Hoon Song	ANSORP	ERS004785
+SI O2	Singapore		2000				23F	23F	81	81	1		8	2	mef(A)	So Hyun Kim/Jae Hoon Song	ANSORP	ERS004776
+SI P12	Singapore		2000		Sputum		19F	19F	81	81	1		4	2	mef(A)	So Hyun Kim/Jae Hoon Song	ANSORP	ERS004777
+SA151	South Africa		1989		Blood	0	23F	23F		SLV81	2					Anne von Gottberg	NICD/GERMS-SA	ERS005268
+SA142	South Africa		1990		CSF		23F	23F		81	2					Anne von Gottberg	NICD/GERMS-SA	ERS005256
+SA148	South Africa		1990		Blood 	15	23F	23F		81	4					Anne von Gottberg	NICD/GERMS-SA	ERS005265
+SA150	South Africa		1990		Blood	0	23F	23F		81	2					Anne von Gottberg	NICD/GERMS-SA	ERS005267
+SA152	South Africa		1991		Blood		23F	23F		81	2					Anne von Gottberg	NICD/GERMS-SA	ERS005259
+SA141	South Africa		1995		CSF		23F	23F		81	2					Anne von Gottberg	NICD/GERMS-SA	ERS005249
+SA149	South Africa		1995		Blood		23F	23F		81	2					Anne von Gottberg	NICD/GERMS-SA	ERS005266
+SA140	South Africa		1996		Blood		23F	23F		81	4					Anne von Gottberg	NICD/GERMS-SA	ERS005247
+SA146	South Africa		1996		CSF	1	23F	23F		81	2					Anne von Gottberg	NICD/GERMS-SA	ERS005719
+SA147	South Africa		1996		Blood 	4	23F	23F		81	4					Anne von Gottberg	NICD/GERMS-SA	ERS005264
+SA153	South Africa		1996		Blood		23F	23F		81	4					Anne von Gottberg	NICD/GERMS-SA	ERS005260
+B743	South Africa		2001				23F	23F	81	81						Lesley McGee	CDC	ERS004830
+SA1	South Africa		2001		Blood 		23F	23F		81	0,75	12	16	64		Anne von Gottberg	NICD/GERMS-SA	ERS005185
+SA2	South Africa		2001		Blood & CSF	2	23F	23F		SLV81	1	16	8	64		Anne von Gottberg	NICD/GERMS-SA	ERS005714
+SA3	South Africa		2001		Blood	2	23F	23F		81	0,5	12	16	64		Anne von Gottberg	NICD/GERMS-SA	ERS005190
+SA4	South Africa		2001		Blood	1	23F	23F		SLV81	1	32	8	64		Anne von Gottberg	NICD/GERMS-SA	ERS005189
+SA5	South Africa		2001		Blood 	1	23F	23F		DLV81	0,5	12	4	64		Anne von Gottberg	NICD/GERMS-SA	ERS005193
+SA6	South Africa		2001		Blood & CSF	49	23F	23F		81	0,25	12	8	4		Anne von Gottberg	NICD/GERMS-SA	ERS005191
+SA10	South Africa		2002		Blood 	29	23F	23F		81	1	12	12	64		Anne von Gottberg	NICD/GERMS-SA	ERS005196
+SA12	South Africa		2002		Blood	30	23F	23F		81	1	16	16	64		Anne von Gottberg	NICD/GERMS-SA	ERS005188
+SA7	South Africa		2002		Blood & CSF	1	23F	23F		SLV81	1	12	12	64		Anne von Gottberg	NICD/GERMS-SA	ERS005192
+SA8	South Africa		2002		Blood	3	23F	23F		81	0,25	12	8	64		Anne von Gottberg	NICD/GERMS-SA	ERS005194
+SA9	South Africa		2002		Blood	0	23F	23F		81	0,25	8	12	64		Anne von Gottberg	NICD/GERMS-SA	ERS005195
+SA17	South Africa		2003	Lower respiratory tract infection	Blood	7	23F	23F		SLV81	1	8	4	256		Anne von Gottberg	NICD/GERMS-SA	ERS005201
+SA20	South Africa		2003	Meningitis	Blood & CSF	1	23F	23F		81	1	8	4	256		Anne von Gottberg	NICD/GERMS-SA	ERS005204
+SA21	South Africa		2003		Blood	2	23F	23F		81	1	16	4	256		Anne von Gottberg	NICD/GERMS-SA	ERS005206
+SA23	South Africa		2003		Blood	33	23F	23F		81	0,5	16	8	256		Anne von Gottberg	NICD/GERMS-SA	ERS005199
+SA25	South Africa		2003	Meningitis	CSF	35	23F	23F		81	1	8	16	256		Anne von Gottberg	NICD/GERMS-SA	ERS005202
+SA27	South Africa		2003	Gastroenteritis	Blood	1	23F	23F		SLV81	1	16	12	256		Anne von Gottberg	NICD/GERMS-SA	ERS005209
+SA29	South Africa		2004	Lower respiratory tract infection	Blood	1	23F	23F		81	1	24	8	256		Anne von Gottberg	NICD/GERMS-SA	ERS005213
+SA34	South Africa		2004	Lower respiratory tract infection	Blood & Pleural	30	23F	23F		81	1	24	12	256		Anne von Gottberg	NICD/GERMS-SA	ERS005219
+SA36	South Africa		2004	Lower respiratory tract infection	Pleural fluid	69	23F	23F		81	1	16	24	256		Anne von Gottberg	NICD/GERMS-SA	ERS005210
+SA57	South Africa		2005		Blood 	40	23F	23F		81	1	12	24	3		Anne von Gottberg	NICD/GERMS-SA	ERS005227
+SA61	South Africa		2005	Meningitis	Blood & CSF	9	23F	23F		2395	1	16	16	256		Anne von Gottberg	NICD/GERMS-SA	ERS005228
+SA101	South Africa		2006		CSF	0	23F	23F		81	1	12	3	256		Anne von Gottberg	NICD/GERMS-SA	ERS005244
+SA106	South Africa		2006		Blood 	5	23F	23F		81	1	12	4	256		Anne von Gottberg	NICD/GERMS-SA	ERS005235
+SA78	South Africa		2006	Lower respiratory tract infection	Blood	36	23F	23F		SLV81	1	8	24	4		Anne von Gottberg	NICD/GERMS-SA	ERS005236
+ATCC700669	Spain	Barcelona	1984				23F	23F	81	81						Tim Mitchell		ERS004873
+8140	Spain		2001	Chronic bronchitis	Sputum	56	19A	19A	81	81	2		32		erm	Mark van der Linden	Pneumo World	ERS005291
+8143	Spain		2001	Pneumonia	Sputum	70	19A	19A	81	81	2		16		erm	Mark van der Linden	Pneumo World	ERS005292
+B532	Spain		2001				23F	23F	81	81						Lesley McGee	CDC	ERS004875
+9029	Spain		2002	Pneumonia		95	19F	19F	81	81	4		16	0,5	mef	Mark van der Linden	Pneumo World	ERS005286
+257	Spain	Zaragosa	1989				23F	23F		81		N/A	R	S		Alexander Tomasz		ERS009210
+622	Spain	Madrid	1989				23F	23F		81		N/A	R	S		Alexander Tomasz		ERS009209
+11919	Spain				Blood		23F	23F	81	81	1		1	64	 erm 	Mark van der Linden	Pneumo World	ERS005305
+11923	Spain				Respiratory tract		23F	23F	81	81	1		1	64	 erm 	Mark van der Linden	Pneumo World	ERS005294
+11924	Spain				Respiratory tract		23F	23F	81	81	1		1	64	 erm 	Mark van der Linden	Pneumo World	ERS005297
+11925	Spain				Respiratory tract		23F	23F	81	81	0,5		0,5	1	 mef 	Mark van der Linden	Pneumo World	ERS005304
+11928	Spain				Respiratory tract		23F	23F	81	81	1		1	2	 mef 	Mark van der Linden	Pneumo World	ERS005306
+11930	Spain				Respiratory tract		23F	23F	81	81	1		1	64	 erm 	Mark van der Linden	Pneumo World	ERS005310
+11932	Spain				Respiratory tract		23F	23F	81	81	1		1	4	 erm 	Mark van der Linden	Pneumo World	ERS005311
+11933	Spain				Respiratory tract		23F	23F	81	81	1		2	64	 erm 	Mark van der Linden	Pneumo World	ERS005313
+11934	Spain				Respiratory tract		23F	23F	81	81	1		1	4	 mef 	Mark van der Linden	Pneumo World	ERS005312
+11935	Spain				Respiratory tract		23F	23F	81	81	1		2	64	 erm 	Mark van der Linden	Pneumo World	ERS005314
+11936	Spain				Respiratory tract		23F	23F	81	81	1		1	4	 mef 	Mark van der Linden	Pneumo World	ERS005315
+11937	Spain				Respiratory tract		23F	23F	81	81	1		2	64	 erm 	Mark van der Linden	Pneumo World	ERS005317
+Th 13	Thailand		2000		Sputum		19F	19F	81	81	1		8	2	mef(A)	So Hyun Kim/Jae Hoon Song	ANSORP	ERS004788
+Th 32	Thailand		2000				23F	23F	81	81	4		2	>128	erm(B)	So Hyun Kim/Jae Hoon Song	ANSORP	ERS004790
+Th 5	Thailand		2000		Sputum		19F	19F	81	81	2		8	4	mef(A)	So Hyun Kim/Jae Hoon Song	ANSORP	ERS004786
+Th 104	Thailand		2001		Sputum		23F	23F	81	81	2		8	4	mef(A)	So Hyun Kim/Jae Hoon Song	ANSORP	ERS004792
+BS1	Turkey		2005				23F	23F	81	81						Lesley McGee	CDC	ERS004833
+BS26	Turkey		2005				6A	06A	81	81						Lesley McGee	CDC	ERS004832
+DG104	Turkey		2005				23F	23F	81	SLV81						Lesley McGee	CDC	ERS004835
+DG116	Turkey		2005				23F	23F	81	81						Lesley McGee	CDC	ERS004836
+DG15	Turkey		2005				19F	19F	81	81						Lesley McGee	CDC	ERS004838
+DG18	Turkey		2005				6A	06A	81	81						Lesley McGee	CDC	ERS004837
+DG29	Turkey		2005				6A	06A	81	81						Lesley McGee	CDC	ERS004841
+DG80	Turkey		2005				6A	06A	81	81						Lesley McGee	CDC	ERS004839
+DG99	Turkey		2005				23F	23F	81	81						Lesley McGee	CDC	ERS004840
+GH10	Turkey		2005				23F	23F	81	81						Lesley McGee	CDC	ERS004842
+MA28	Turkey		2005				23F	23F	81	81						Lesley McGee	CDC	ERS004843
+LIV 5	UK	England	1990		Sputum		23	23F		81	2	32	>16	<=0.125		Bruno Pichon	HPA	ERS002795
+PLY 7	UK	England	1990		Nasopharynx		23	23F		81	0.5	8	>16	<=0.125		Bruno Pichon	HPA	ERS002796
+STO 19	UK	England	1990		Nasopharynx		23	23F		81	2	16	>16	<=0.125		Bruno Pichon	HPA	ERS002797
+STO 20	UK	England	1990		Ear		23	23F		81	2	16	>16	<=0.125		Bruno Pichon	HPA	ERS002798
+2PN05348	UK	England	2002		Blood	91	23F	23F	81	81						Bruno Pichon	HPA	ERS002781
+3PN00020	UK	England	2002	Meningitis	CSF	44	23F	23F	2532	2532						Bruno Pichon	HPA	ERS002782
+3PN00133	UK	England	2003		Blood	47	23F	23F	81	81						Bruno Pichon	HPA	ERS002783
+3PN00734	UK	England	2003		Blood	0	23F	23F	81	81						Bruno Pichon	HPA	ERS002784
+3PN01287	UK	England	2003		Blood	37	23F	23F	81	81						Bruno Pichon	HPA	ERS002785
+H034800032	UK	England	2003	Chest infection	Blood	80	23F	23F	81	81	1		>8	>16		Bruno Pichon	HPA	ERS002787
+H034960030	UK	England	2003	Chronic obstructive pulmonary	Blood	80	23F	23F	1623	81	1		>8	>16		Bruno Pichon	HPA	ERS002788
+H035220198	UK	England	2003		Blood	87	23F	23F	81	81	1		>8	>16		Bruno Pichon	HPA	ERS002789
+04-2922	UK	Scotland	2004				23F	23F	81	81						Tim Mitchell	SHLMPRL	ERS005364
+04-2937	UK	Scotland	2004				23F	23F	81	SLV81						Tim Mitchell	SHLMPRL	ERS005375
+H050340158	UK	England	2004		Blood	85	23F	23F	2508	2508						Bruno Pichon	HPA	ERS002790
+H050300113	UK	England	2005		Blood	14	23F	23F	81	81	2		>8	>16		Bruno Pichon	HPA	ERS002791
+H071440111	UK	England	2007		Blood	83	23F	23F	3456	3456	0.5		>8	16		Bruno Pichon	HPA	ERS002792
+H07528053101	UK	England	2007		Blood	34	19F	19F	81	81	1		>8	1		Bruno Pichon	HPA	ERS002793
+H08016017901	UK	England	2007	Shortage of breath	Blood	81	3	3	81	81	1		>8	4		Bruno Pichon	HPA	ERS002794
+UR 112	Uruguay	Montevideo	1993				23F	23F		81	2	R	R	S		Alexander Tomasz		ERS009223
+UR 208	Uruguay	Montevideo	1994				23F	23F		81	2	R	R	S		Alexander Tomasz		ERS009224
+UR 428	Uruguay	Montevideo	1996				23F	23F		81	2	R	R	S		Alexander Tomasz		ERS009225
+SVMC 10	USA	New York	1995				23F	23F		81	4	R	N/A	R		Alexander Tomasz		ERS009229
+SVMC 6	USA	New York	1995				23F	23F		81	2	R	N/A	R		Alexander Tomasz		ERS009228
+2231	USA	Maryland	1998	Pneumonia	Blood	42	23F	23F	81	81	4	16	>8	2		Lesley McGee	CDC	ERS004821
+2311	USA	Georgia	1998	Bacteraemia	Blood	1	23F	19F	81	81	2	16	>8	8		Lesley McGee	CDC	ERS002800
+2321	USA	Maryland	1998	Bacteraemia	Blood	81	23F	23F	81	81	0,5	16	>8	4		Lesley McGee	CDC	ERS004823
+228	USA		1999				23F	23F	81	81						Lesley McGee	CDC	ERS004811
+92	USA		2001	Pneumonia	Blood	79	19F	19F	81	81	2	16	>8	32		Lesley McGee	CDC	ERS004809
+111	USA		2001	Pneumonia	Blood	92	23F	23F	81	81	2	4	>8	4		Lesley McGee	CDC	ERS004810
+2167	USA	Connecticut	2002	Pneumonia	Blood	60	23F	23F	81	81	2	16	>8	2		Lesley McGee	CDC	ERS002799
+1590	USA	Georgia	2005	Pneumonia	Blood	63	23F	23F	81	81	2	>8	>8	>32		Lesley McGee	CDC	ERS004815
+1731	USA		2005	Pneumonia	Blood	59	19A	19A	81	2346	4	>8	>8	>32		Lesley McGee	CDC	ERS004881
+1788	USA		2005	Pneumonia	Blood	62	19A	19A	2346	2346	4	>8	>8	>32		Lesley McGee	CDC	ERS004816
+1789	USA		2005	Pneumonia	Blood	71	19A	19A	2346	2346	4	>8	>8	>32		Lesley McGee	CDC	ERS004817
+1842	USA		2005	Pneumonia	Blood	45	19A	19A	2346	2346	4	>8	>8	>32		Lesley McGee	CDC	ERS004818
+2097	USA		2005	Pneumonia	Blood	71	19A	19A	2346	2346	4	>8	>8	>32		Lesley McGee	CDC	ERS004819
+2098	USA		2005	Pneumonia	Blood	37	19A	19A	2346	2346	3	>8	>8	>32		Lesley McGee	CDC	ERS004882
+2615	USA		2006	Bacteraemia	Blood	31	19A	19F	81	81	4	>8	>8	4		Lesley McGee	CDC	ERS004824
+2682	USA		2006	Pneumonia	Blood	59	19A	19A	81	SLV81	4	>8	>8	>32		Lesley McGee	CDC	ERS004825
+2699	USA		2006		Blood	84	19A	19A	81	2346	4	>8	>8	>32		Lesley McGee	CDC	ERS004826
+3267	USA		2007	Pneumonia	Blood	75	19A	19A	81	2346	4	>8	>8	>32		Lesley McGee	CDC	ERS004827
+3350	USA		2007	Bacteraemia	Blood	1	19A	19A	81	2346	4	>8	>8	>32		Lesley McGee	CDC	ERS004828
+3355	USA		2007	Bacteraemia	Blood	35	19A	19A	81	2346	4	>8	>8	>32		Lesley McGee	CDC	ERS004829
+Clev 2	USA	Ohio	1989				23F	23F		81						Alexander Tomasz		ERS009230
+VII-17	USA	New York	1998		Sputum		23F	23F		81	2	R	R	R		Alexander Tomasz		ERS009201
+VII-22	USA	New York	1998		Eye		23F	23F		81	2	R	R	R		Alexander Tomasz		ERS009202
+VII-26	USA	New York	1998		Sputum		23F	23F		81	2	R	S	R		Alexander Tomasz		ERS009203
+VII-28	USA	New York	1998		Sputum		23F	23F		81	3	R	R	R		Alexander Tomasz		ERS009204
+VIII-1	USA	New York	1998		Sputum		23F	23F		81	3	R	R	R		Alexander Tomasz		ERS009205
+VIII-2	USA	New York	1998		Sputum		23F	23F		81	3	R	R	R		Alexander Tomasz		ERS009206
+VIII-6	USA	New York	1998		Sputum		23F	23F		81	2	R	R	R		Alexander Tomasz		ERS009207
+X-8	USA	New York	1998		Blood		23F	23F		81	2	R	R	R		Alexander Tomasz		ERS009208
+SB12	Vietnam	Ho Chi Minh City	1997	Bacteraemia	Blood	2	23F	23F	81	81	0,75	16	0,25	128		Christopher Parry/Steven Baker	OUCRU	ERS004762
+SB33	Vietnam	Ho Chi Minh City	1997	Bacteraemia	Blood	0	23F	23F	81	81	1	8	32	128		Christopher Parry/Steven Baker	OUCRU	ERS004767
+SB35	Vietnam	Ho Chi Minh City	1997	Bacteraemia	Blood	2	23F	23F	81	81	0,25	16	1	256		Christopher Parry/Steven Baker	OUCRU	ERS004774
+SB36	Vietnam	Ho Chi Minh City	1997	Bacteraemia	Blood	9	23F	23F	81	81	1	8	32	128		Christopher Parry/Steven Baker	OUCRU	ERS004771
+SB6	Vietnam	Ho Chi Minh City	1997			0	23F	23F	81	81	2	8	0,125	256		Christopher Parry/Steven Baker	OUCRU	ERS004759
+SB2	Vietnam	Ho Chi Minh City	1998	Bacteraemia		6	23F	23F	81	81	0,125	16	0,25	256		Christopher Parry/Steven Baker	OUCRU	ERS004753
+SB3	Vietnam	Ho Chi Minh City	1999	Meningitis	Blood	69	23F	23F	81	SLV81	1	16	64	256		Christopher Parry/Steven Baker	OUCRU	ERS004756
+SB31	Vietnam	Ho Chi Minh City	1999	Meningitis	CSF	17	23F	23F	81	SLV81	1,5	16	0,25	256		Christopher Parry/Steven Baker	OUCRU	ERS004765
+SB50	Vietnam	Ho Chi Minh City	1999	Bacteraemia	Blood	4	23F	23F	81	81	1,5	32	0,125	512		Christopher Parry/Steven Baker	OUCRU	ERS004769
+SB18	Vietnam	Ho Chi Minh City	2000	Meningitis	CSF	57	23F	23F	81	SLV81	1,5	8	32	512		Christopher Parry/Steven Baker	OUCRU	ERS004761
+VN B15	Vietnam		2000		Blood		NT	23F	81	81	2		0,06	>128	erm(B)	Christopher Parry/Steven Baker	OUCRU	ERS004793

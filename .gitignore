@@ -1,0 +1,11 @@
+.snakemake
+
+.DS_Store
+*.complete
+*.aln
+*.fa
+*.fasta
+*.sam
+*.bam
+~*
+*.sw?

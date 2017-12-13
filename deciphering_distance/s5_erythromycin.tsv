@@ -1,0 +1,2818 @@
+SNP position	P	Odds ratio	gene	product
+1383510	8.87E-31	0.288532	-	SpoU rRNA methylase family protein
+1383582	2.69E-30	0.301191	-	SpoU rRNA methylase family protein
+301254	1.36E-25	0.04190807	dexB	glucan 1,6-alpha-glucosidase
+391735	4.58E-25	0.06403929	gatB	aspartyl/glutamyl-tRNA amidotransferase subunit B
+906406	1.33E-23	0.07086337	hemH	ferrochelatase
+986650	1.33E-23	0.06301565	intergenic	n/a
+1741683	3.01E-23	4.249245	-	oligopeptidase
+903474	3.19E-23	0.06844874	intergenic	n/a
+987093	4.43E-23	0.3239307	-	hypothetical protein
+885514	5.75E-23	0.1127018	-	ADP-ribose pyrophosphatase
+885609	6.69E-23	0.1108298	-	ADP-ribose pyrophosphatase
+1043673	2.05E-22	0.1127018	acoC	dihydrolipoamide acetyltransferase
+1043854	2.05E-22	0.1146313	acoC	dihydrolipoamide acetyltransferase
+1800425	1.73E-21	3.025571	-	DegT/DnrJ/EryC1/StrS family amino sugar synthetase
+209442	2.08E-21	0.5540516	-	inner membrane component of ABC transporter
+1421187	3.44E-21	0.06407149	-	hypothetical protein
+669935	5.72E-21	1.888402	-	endonuclease/exonuclease/phosphatase family protein
+1985497	7.88E-21	0.7472306	intergenic	n/a
+1421096	3.33E-20	0.05865691	-	hypothetical protein
+222466	4.32E-20	0.1438993	intergenic	n/a
+1378814	9.60E-20	0.02784566	-	hypothetical protein
+905075	1.17E-19	0.3498478	pepT	peptidase T
+2034739	1.38E-19	0.2745223	gltX	glutamyl-tRNA synthetase
+1351205	3.46E-19	0.02624697	intergenic	n/a
+1358267	4.61E-19	0.02784566	intergenic	n/a
+894301	4.64E-19	1.087375	-	amino acid permease
+711000	9.87E-19	0.414864	ciaH	sensor histidine kinase
+508321	1.48E-18	0.8366926	intergenic	n/a
+1782925	1.66E-18	6.07826	trpE	anthranilate synthase component I
+512482	1.72E-18	2.729012	metE	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+1346844	2.20E-18	0.02901391	ptsK	HPr kinase/phosphorylase
+1351282	2.20E-18	0.02729338	intergenic	n/a
+1402932	5.44E-18	2.924786	-	hypothetical protein
+2058103	5.51E-18	2.455201	hasC	UTP-glucose-1-phosphate uridylyltransferase
+1145514	5.57E-18	3.323951	carB	carbamoyl phosphate synthase large subunit
+915392	5.72E-18	0.4751501	-	methyltransferase
+132921	6.40E-18	1.667614	intergenic	n/a
+511592	7.76E-18	Inf	metE	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+2198680	7.76E-18	Inf	-	cobalt transport protein
+174038	7.76E-18	Inf	-	CorA-like Mg2+ transporter protein
+1006760	7.76E-18	Inf	glgC	glucose-1-phosphate adenylyltransferase
+1412486	7.76E-18	Inf	gla	glycerol facilitator-aquaporin
+1435884	7.76E-18	Inf	-	GNAT family acetyltransferase
+1657300	7.76E-18	Inf	-	GntR family transcriptional regulator
+1537114	7.76E-18	Inf	metA	homoserine O-succinyltransferase
+1390122	7.76E-18	Inf	-	pyridoxal biosynthesis lyase PdxS
+1045075	7.76E-18	Inf	pdhB	pyruvate dehydrogenase E1 component,beta subunit
+423888	7.76E-18	Inf	intergenic	n/a
+211807	9.17E-18	1.765712	intergenic	n/a
+1043953	9.61E-18	0.3902973	acoC	dihydrolipoamide acetyltransferase
+663951	1.32E-17	1.575934	-	hypothetical protein
+2075093	2.06E-17	8.171096	malQ	4-alpha-glucanotransferase
+327454	2.08E-17	0.08994537	-	cell wall surface anchored protein
+1985521	2.08E-17	0.9615424	licC	PTS system, lichenan-specific IIc component
+2197296	2.13E-17	Inf	-	hypothetical protein
+2064940	2.13E-17	Inf	pbp1B	penicillin-binding protein 1B
+500589	2.14E-17	6.899289	-	beta-glucoside-specific phosphotransferase system (PTS), IIABC component
+503508	2.56E-17	4.002653	-	6-phospho-beta-glucosidase
+450731	2.64E-17	3.161736	-	type I restriction-modification system M protein
+1166664	2.87E-17	0.01905272	rpmE2	50S ribosomal protein L31 type B
+1165989	2.87E-17	0.01905272	-	hypothetical protein
+2038097	3.06E-17	0.08394175	-	ABC transporter ATP-binding protein
+2036853	3.06E-17	0.08394175	pgi	glucose-6-phosphate isomerase
+2036536	3.06E-17	0.08394175	pgi	glucose-6-phosphate isomerase
+634440	3.08E-17	0.8115147	thiM	hydroxyethylthiazole kinase
+669992	6.82E-17	3.591006	-	endonuclease/exonuclease/phosphatase family protein
+683990	7.11E-17	0.4790227	rpsP	30S ribosomal protein S16
+291286	7.68E-17	64.31845	mraW	S-adenosyl-methyltransferase MraW
+696850	8.79E-17	2.101656	-	permease
+453749	1.12E-16	3.578196	-	hypothetical protein
+454324	1.31E-16	0.1004794	-	hypothetical protein
+291982	1.34E-16	4.94476	pbpX	penicillin binding protein 2x
+512467	1.45E-16	3.229981	metE	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+512519	1.45E-16	3.32796	metE	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+297653	2.24E-16	3.67279	clpL	ATP-dependent protease ATP-binding subunit ClpL
+1344296	2.52E-16	1.557823	hemN	coproporphyrinogen III oxidase
+550519	2.54E-16	0.1416828	-	hypothetical protein
+870534	2.56E-16	33.80508	pmrA	multi-drug resistance efflux pump
+292017	2.89E-16	5.072139	pbpX	penicillin binding protein 2x
+858754	3.03E-16	2.658051	-	hypothetical protein
+704972	3.86E-16	1.083568	-	PEP-utilizing enzyme
+2135585	3.89E-16	0.08227731	fucI	L-fucose isomerase
+550732	4.53E-16	0	-	hypothetical protein
+2076488	4.73E-16	1.968011	malX	maltose/maltodextrin-binding protein precursor
+211621	5.12E-16	5.950958	intergenic	n/a
+480231	5.17E-16	0.08394175	-	hypothetical protein
+2069855	5.28E-16	2.304658	-	ribosomal RNA large subunit methyltransferase A
+500776	6.10E-16	0.4405135	-	beta-glucoside-specific phosphotransferase system (PTS), IIABC component
+915280	6.24E-16	0.4811471	-	methyltransferase
+480895	7.16E-16	7.510239	infB	translation initiation factor IF-2
+128367	7.25E-16	0.09126499	gidA	tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA
+908366	7.59E-16	2.846996	intergenic	n/a
+1387297	8.12E-16	0.3354204	ogt	methylated-DNA--protein-cysteine methyltransferase
+1453975	9.79E-16	0.5369696	-	hypothetical protein
+1897055	1.00E-15	0.4272809	-	hypothetical protein
+2073505	1.65E-15	3.717109	glgP	glycogen phosphorylase
+663761	1.75E-15	0.3992857	-	hypothetical protein
+190364	1.78E-15	0.4394037	-	phosphoribulokinase
+10676	1.83E-15	0.4822286	-	ATP-binding PP-loop family protein
+100137	2.10E-15	8.171096	-	hypothetical protein
+678325	2.15E-15	0.2745253	-	VanZ like family protein
+684917	2.53E-15	3.14685	-	hypothetical protein
+483511	2.76E-15	5.689226	rbfA	ribosome-binding factor A
+865683	3.13E-15	0.1325639	fbpS	fibronectin/fibrinogen-binding protein adherence and virulence protein A
+2053678	3.53E-15	0.3739827	pstB3	phosphate transporter ATP-binding protein
+1900998	3.56E-15	0	intergenic	n/a
+1613422	4.06E-15	6.582862	penA	penicillin-binding protein 2b
+1164795	4.55E-15	0.5906823	-	hypothetical protein
+2133266	4.68E-15	13.29199	-	alcohol dehydrogenase
+1560773	4.68E-15	4.586072	galE	UDP-glucose 4-epimerase
+73044	4.68E-15	13.29199	intergenic	n/a
+583371	5.02E-15	2.01892	-	sodium hydrogen exchange transporter
+858633	5.69E-15	5.93039	-	hypothetical protein
+2039249	5.70E-15	0.7248281	-	ABC transporter ATP-binding protein
+291557	6.03E-15	6.489007	ftsL	cell division protein
+469782	6.58E-15	0.1144974	blpA1	bacteriocin transport/processing ATP-binding protein BlpA
+2002234	6.60E-15	25.31672	-	PTS system ascorbate-specific transporter subunit IIC
+1159238	6.94E-15	0	ffh	signal recognition particle protein
+696917	7.91E-15	1.695643	-	permease
+1450298	8.63E-15	0.1378435	murE	UDP-N-acetylmuramoylalanyl-D-glutamate--L-lysine ligase
+1045544	8.76E-15	0.2502453	pdhB	pyruvate dehydrogenase E1 component,beta subunit
+127699	9.28E-15	2.53804	-	MutT/NUDIX hydrolase family protein
+135341	9.36E-15	0.2334239	-	DNA-binding/iron metalloprotein/AP endonuclease
+78474	1.03E-14	3.322466	intergenic	n/a
+330047	1.08E-14	0.0696372	-	cell wall surface anchored protein
+1168343	1.18E-14	1.639064	gdh	glutamate dehydrogenase
+454097	1.22E-14	0.08932653	-	hypothetical protein
+1669603	1.31E-14	4.507369	mvaA	3-hydroxy-3-methylglutaryl-coenzyme A reductase
+673390	1.56E-14	11.64734	intergenic	n/a
+514384	1.60E-14	4.005431	intergenic	n/a
+1992541	1.67E-14	2.307965	tkt	transketolase
+2185591	1.78E-14	1.768518	-	DHH family protein
+480092	1.99E-14	7.292399	-	hypothetical protein
+1122711	2.21E-14	6.847136	-	hypothetical protein
+1587446	2.32E-14	0.4332984	mtsB	metal cation ABC transporter ATP-binding protein
+454476	2.67E-14	0.4624283	intergenic	n/a
+917635	2.84E-14	1.462611	glyA	serine hydroxymethyltransferase
+206946	3.11E-14	0.4814739	-	hypothetical protein
+1566849	3.29E-14	Inf	-	acyltransferase
+34098	3.29E-14	Inf	sms	DNA repair protein RadA
+1579122	3.29E-14	Inf	-	hypothetical protein
+1452370	3.29E-14	Inf	-	hypothetical protein
+1849248	3.29E-14	Inf	-	peptide ABC transporter ATP-binding protein
+1449693	3.29E-14	Inf	intergenic	n/a
+906915	3.67E-14	2.027153	mscL	large-conductance mechanosensitive channel
+908948	3.67E-14	2.659982	intergenic	n/a
+211777	3.84E-14	1.75958	intergenic	n/a
+139559	4.76E-14	0.09126499	-	glycosyl transferase
+363409	5.05E-14	2.105588	tig	trigger factor
+871047	5.32E-14	7.972069	pmrA	multi-drug resistance efflux pump
+885289	5.70E-14	0.2158637	glmU	bifunctional N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyltransferase
+125789	5.75E-14	0.6196521	intergenic	n/a
+1400307	5.80E-14	0.228433	-	aldo/keto reductase family protein
+236348	6.17E-14	0.3798512	glmS	glucosamine--fructose-6-phosphate aminotransferase
+210298	7.10E-14	1.780511	-	ABC transporter permease
+511456	7.27E-14	Inf	metE	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+2035306	7.27E-14	0.4266539	gltX	glutamyl-tRNA synthetase
+136082	7.73E-14	5.779816	-	transposase
+549937	8.27E-14	0.9149364	-	uracil DNA glycosylase superfamily protein
+1164940	8.28E-14	0.1428091	-	hypothetical protein
+679500	8.40E-14	0	-	ABC transporter ATP-binding protein
+2173817	1.01E-13	7.729333	-	two-component system, sensor histidine kinase
+1992568	1.04E-13	2.462919	tkt	transketolase
+1120981	1.06E-13	1.618737	-	guanosine 5'-monophosphate oxidoreductase
+628791	1.06E-13	Inf	-	L-lactate oxidase-related protein
+467011	1.08E-13	0.07041019	blpC	peptide pheromone BlpC (bacteriocin-like peptide)
+327613	1.13E-13	0.4081343	-	cell wall surface anchored protein
+610955	1.14E-13	0.9042195	intergenic	n/a
+2042912	1.15E-13	0.1144925	mutS	DNA mismatch repair protein MutS
+127101	1.16E-13	0.17042	mnmA	tRNA-specific 2-thiouridylase MnmA
+1988156	1.19E-13	2.242653	intergenic	n/a
+1924157	1.26E-13	14.99116	rpoB	DNA-directed RNA polymerase subunit beta
+333372	1.27E-13	0.2008417	pbp1A	penicillin-binding protein 1A
+1612489	1.37E-13	9.71098	penA	penicillin-binding protein 2b
+602882	1.43E-13	1.943376	thyA	thymidylate synthase
+283271	1.53E-13	1.220967	ugl	unsaturated glucuronyl hydrolase
+10616	1.57E-13	0.5230549	-	ATP-binding PP-loop family protein
+1389649	1.62E-13	0.2120908	-	glutamine amidotransferase subunit PdxT
+269921	1.70E-13	0	rpsI	30S ribosomal protein S9
+2050480	1.78E-13	1.424267	phoR	alkaline phosphatase synthesis sensor protein
+1164648	1.81E-13	0.5909894	-	camphor resistance protein CrcB
+1160238	1.83E-13	0.0894733	ffh	signal recognition particle protein
+1981361	2.13E-13	12.42288	-	dicarboxylate carrier protein
+1353038	2.28E-13	0.2481923	intergenic	n/a
+443189	2.38E-13	0.1168942	glnA	glutamine synthetase
+1164734	2.45E-13	0.4259141	-	hypothetical protein
+454190	2.45E-13	0.09328253	-	hypothetical protein
+500027	2.47E-13	0	-	transcription antiterminator
+267970	2.51E-13	0	-	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+2129782	2.51E-13	0	-	hypothetical protein
+1991629	2.54E-13	0.1047451	-	hypothetical protein
+1344536	2.79E-13	0.1144974	hemN	coproporphyrinogen III oxidase
+1106682	2.95E-13	1.88619	uvrB	excinuclease ABC subunit B
+631521	3.06E-13	13.20893	lctO	L-lactate oxidase
+1982954	3.14E-13	0	intergenic	n/a
+1387255	3.18E-13	0.4257234	ogt	methylated-DNA--protein-cysteine methyltransferase
+1928562	3.38E-13	12.03496	-	transport protein
+857538	3.45E-13	0.3653424	-	ABC transporter ATP-binding protein
+135329	3.58E-13	0.2695736	-	DNA-binding/iron metalloprotein/AP endonuclease
+164425	3.96E-13	1.568487	mutL	DNA mismatch repair protein
+284013	4.08E-13	0	ugl	unsaturated glucuronyl hydrolase
+2033865	4.13E-13	0.6265221	intergenic	n/a
+2041271	4.19E-13	0.09538409	-	ABC transporter ATP-binding protein
+1430398	4.19E-13	0.05830677	atpB	F0F1 ATP synthase subunit A
+408520	4.19E-13	0.05830677	-	glutamine ABC transporter, glutamine-binding protein/permease protein
+708162	4.23E-13	0	pepN	lysyl-aminopeptidase
+716084	4.23E-13	0	-	peptidoglycan biosynthesis membrane protein
+1898028	4.47E-13	1.8577	intergenic	n/a
+917701	4.61E-13	1.429006	glyA	serine hydroxymethyltransferase
+177680	4.76E-13	0.6105395	-	metallopeptidase
+483557	4.94E-13	1.989776	rbfA	ribosome-binding factor A
+215968	5.26E-13	1.259719	-	sugar phosphotransferase system (PTS),lactose/cellobiose-specific family, IIA component
+467200	5.52E-13	1.99505	blpB	ABC transporter
+885876	5.91E-13	2.819848	-	ADP-ribose pyrophosphatase
+678841	7.05E-13	0	-	ABC transporter ATP-binding protein
+679148	7.05E-13	0	-	ABC transporter ATP-binding protein
+658811	7.05E-13	0	-	branched-chain amino acid ABC transporter, amino acid-binding protein
+675736	7.05E-13	0	holA	DNA polymerase III subunit delta
+670139	7.05E-13	0	-	endonuclease/exonuclease/phosphatase family protein
+670052	7.05E-13	0	-	endonuclease/exonuclease/phosphatase family protein
+1995682	7.05E-13	0	-	L-ascorbate 6-phosphate lactonase
+659771	7.05E-13	0	intergenic	n/a
+270294	7.05E-13	0	intergenic	n/a
+682957	7.05E-13	0	intergenic	n/a
+325410	7.26E-13	0	aliA	extracellular oligopeptide-binding protein
+1107090	7.28E-13	1.88619	uvrB	excinuclease ABC subunit B
+131219	7.44E-13	0	-	metallo-beta-lactamase superfamily protein
+1351615	7.51E-13	2.348684	intergenic	n/a
+679762	7.88E-13	0	-	ABC transporter ATP-binding protein
+480759	8.12E-13	0.1842144	infB	translation initiation factor IF-2
+1455314	9.21E-13	1.075054	-	cyclophilin type peptidyl-prolyl cis-trans isomerase protein
+299963	9.62E-13	0	-	hypothetical protein
+290493	9.68E-13	0	intergenic	n/a
+299741	1.05E-12	0	-	hypothetical protein
+876920	1.05E-12	19.84015	pepB	oligopeptidase
+547053	1.10E-12	1.988708	-	extracellular solute-binding protein
+537332	1.11E-12	14.43405	-	phosphoesterase
+1581731	1.15E-12	0.6511222	relA	GTP pyrophosphokinase
+2005519	1.16E-12	0	ackA	acetate kinase
+328853	1.16E-12	0	-	cell wall surface anchored protein
+328798	1.16E-12	0	-	cell wall surface anchored protein
+1087792	1.16E-12	0	-	formate/nitrate transport protein
+1973702	1.16E-12	0	pbp2A	penicillin-binding protein 2a
+1890471	1.16E-12	0	ply	pneumolysin (thiol-activated cytolysin)
+136432	1.16E-12	0	-	transposase
+136830	1.16E-12	0	-	transposase
+968404	1.16E-12	0	murZ	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+1818360	1.16E-12	0	-	zinc-binding dehydrogenase
+138376	1.16E-12	0	intergenic	n/a
+967742	1.16E-12	0	intergenic	n/a
+1806122	1.16E-12	0	intergenic	n/a
+677290	1.20E-12	0	-	hypothetical protein
+1141657	1.22E-12	0.3822883	-	phosphotransferase LicD1
+1780859	1.24E-12	21.68075	trpC	indole-3-glycerol-phosphate synthase
+666621	1.36E-12	2.822952	ftsX	cell division protein
+1592940	1.39E-12	2.086469	-	ABC transporter permease
+708190	1.43E-12	1.905463	pepN	lysyl-aminopeptidase
+864947	1.62E-12	0.09757504	fbpS	fibronectin/fibrinogen-binding protein adherence and virulence protein A
+922509	1.62E-12	1.257501	-	hypothetical protein
+419479	1.64E-12	13.81985	intergenic	n/a
+458276	1.69E-12	1.217915	dnaK	molecular chaperone DnaK
+96461	1.96E-12	0	-	extracellular solute-binding protein
+863271	1.97E-12	9.694787	lytB	endo-beta-N-acetylglucosaminidase
+763086	1.99E-12	2.035199	rpsA	30S ribosomal protein S1
+1953400	2.04E-12	9.694787	intergenic	n/a
+1296452	2.05E-12	0	thrB	homoserine kinase
+1123860	2.19E-12	4.177298	-	endonuclease
+918317	2.19E-12	1.338338	-	hypothetical protein
+543446	2.22E-12	20.75798	-	protease
+556922	2.22E-12	19.84015	intergenic	n/a
+1056225	2.22E-12	19.84015	intergenic	n/a
+675538	2.24E-12	12.20583	holA	DNA polymerase III subunit delta
+1616396	2.25E-12	2.909714	-	ROK family protein
+480738	2.34E-12	0.1879495	infB	translation initiation factor IF-2
+909242	2.40E-12	1.213532	asd	aspartate-semialdehyde dehydrogenase
+236312	2.41E-12	0.3812105	glmS	glucosamine--fructose-6-phosphate aminotransferase
+917690	2.51E-12	1.383481	glyA	serine hydroxymethyltransferase
+917669	2.51E-12	1.383481	glyA	serine hydroxymethyltransferase
+2052392	2.57E-12	0.1246711	-	ABC transporter permease
+1056938	2.63E-12	6.943878	pstI	phosphoenolpyruvate-protein phosphotransferase
+1056711	2.63E-12	6.677933	pstI	phosphoenolpyruvate-protein phosphotransferase
+1056567	2.63E-12	6.943878	pstI	phosphoenolpyruvate-protein phosphotransferase
+1056510	2.63E-12	6.677933	pstI	phosphoenolpyruvate-protein phosphotransferase
+675053	2.77E-12	13.81985	holA	DNA polymerase III subunit delta
+675486	2.77E-12	13.81985	holA	DNA polymerase III subunit delta
+408848	2.88E-12	2.095236	intergenic	n/a
+770478	2.90E-12	2.185846	csdB	cysteine desulfurase
+142980	3.31E-12	21.68075	-	acetyltransferase
+603095	3.39E-12	20.75798	thyA	thymidylate synthase
+603134	3.39E-12	20.75798	thyA	thymidylate synthase
+1574260	3.49E-12	1.719764	-	sensor histidine kinase protein
+773352	3.73E-12	21.68075	-	D-alanyl-D-alanine carboxypeptidase
+1579251	3.86E-12	20.75798	-	hypothetical protein
+896145	3.86E-12	1.255032	phtD	pneumococcal histidine triad protein D (bvh-11-2)
+1898617	4.09E-12	0	-	cell wall-binding amidase
+1928325	4.10E-12	5.072067	-	transport protein
+1895299	4.22E-12	1.83795	-	hypothetical protein
+1449677	4.23E-12	1.382672	intergenic	n/a
+1294471	4.56E-12	19.84015	-	ABC transporter ATP-binding protein
+1804798	4.56E-12	19.84015	-	ABC transporter ATP-binding protein/permease
+525882	4.56E-12	13.20893	-	ABC transporter permease
+1393408	4.56E-12	19.84015	-	ApbE family protein
+2046117	4.56E-12	21.68075	argS	arginyl-tRNA synthetase
+2046555	4.56E-12	19.84015	argS	arginyl-tRNA synthetase
+2045791	4.56E-12	6.300592	argS	arginyl-tRNA synthetase
+1459029	4.56E-12	13.81985	asnC	asparaginyl-tRNA synthetase
+1460023	4.56E-12	20.75798	aspC	aspartate aminotransferase
+1459941	4.56E-12	20.75798	aspC	aspartate aminotransferase
+1016046	4.56E-12	19.84015	addB	ATP-dependent exonuclease subunit B
+1989604	4.56E-12	19.84015	adhE	bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+2126694	4.56E-12	19.84015	arcC	carbamate kinase
+1786808	4.56E-12	13.20893	-	cation transporter
+2067939	4.56E-12	19.84015	-	cation transporting ATPase
+1543562	4.56E-12	6.575933	-	DEAD/DEAH box helicase
+1837300	4.56E-12	19.84015	-	deoxyribonucleotide triphosphate pyrophosphatase/hypothetical protein
+1481811	4.56E-12	19.84015	dapB	dihydrodipicolinate reductase
+163970	4.56E-12	20.75798	mutL	DNA mismatch repair protein
+164872	4.56E-12	20.75798	mutL	DNA mismatch repair protein
+164756	4.56E-12	19.84015	mutL	DNA mismatch repair protein
+887794	4.56E-12	31.65056	-	DNA polymerase III subunit epsilon
+753267	4.56E-12	20.75798	parE	DNA topoisomerase IV subunit B
+752675	4.56E-12	19.84015	parE	DNA topoisomerase IV subunit B
+1586092	4.56E-12	19.84015	pepO	endopeptidase O
+1986841	4.56E-12	19.84015	-	exported PTS system protein
+1852990	4.56E-12	19.84015	-	extracellular oligopeptide-binding protein
+1079927	4.56E-12	19.84015	fps	geranyltranstransferase
+1387571	4.56E-12	19.84015	-	GNAT family acetyltransferase
+1682239	4.56E-12	19.84015	gmk	guanylate kinase
+1380019	4.56E-12	19.84015	-	haloacid dehalogenase-like hydrolase
+1085584	4.56E-12	19.84015	-	hypothetical protein
+1423142	4.56E-12	19.84015	-	hypothetical protein
+1051473	4.56E-12	19.84015	-	hypothetical protein
+1692078	4.56E-12	19.84015	-	hypothetical protein
+2087466	4.56E-12	19.84015	-	hypothetical protein
+423441	4.56E-12	19.84015	-	hypothetical protein
+1829530	4.56E-12	19.84015	-	iron compound ABC transporter permease
+2004087	4.56E-12	19.84015	-	membrane protein OxaA 1 precursor
+539366	4.56E-12	20.75798	-	metallo-beta-lactamase superfamily protein
+914758	4.56E-12	19.84015	-	methyltransferase
+870439	4.56E-12	19.84015	pmrA	multi-drug resistance efflux pump
+2114071	4.56E-12	19.84015	gcnA	N-acetyl-beta-D-glucosaminidase
+876828	4.56E-12	19.84015	pepB	oligopeptidase
+876947	4.56E-12	19.84015	pepB	oligopeptidase
+2125929	4.56E-12	19.84015	arcB	ornithine carbamoyltransferase
+1847519	4.56E-12	4.917619	-	peptide ABC transporter ATP-binding protein
+2019600	4.56E-12	19.84015	-	pyrrolidone-carboxylate peptidase
+168716	4.56E-12	20.75798	ribD	riboflavin biosynthesis protein
+834380	4.56E-12	19.84015	-	RNA pseudouridylate synthase
+833903	4.56E-12	19.84015	-	RNA pseudouridylate synthase
+1834703	4.56E-12	19.84015	scpA	segregation and condensation protein A
+1842507	4.56E-12	20.75798	-	sugar phosphotransferase system (PTS), IIABC component
+569825	4.56E-12	10.34763	-	sugar phosphotransferase system (PTS), IIB component
+242481	4.56E-12	19.84015	-	surface-anchored pullulanase
+1590324	4.56E-12	19.84015	tpx	thiol peroxidase
+603218	4.56E-12	20.75798	thyA	thymidylate synthase
+603254	4.56E-12	20.75798	thyA	thymidylate synthase
+527691	4.56E-12	19.84015	-	two-component system, response regulator
+1808389	4.56E-12	5.145032	xpt	xanthine phosphoribosyltransferase
+1808776	4.56E-12	19.84015	xpt	xanthine phosphoribosyltransferase
+591634	4.56E-12	20.75798	zmpB	zinc metalloproteinase ZmpB
+2149078	4.56E-12	19.84015	adcA	zinc-binding protein AdcA precursor
+2208054	4.56E-12	19.84015	intergenic	n/a
+1082943	4.56E-12	13.20893	intergenic	n/a
+930532	4.56E-12	20.75798	intergenic	n/a
+1350572	4.56E-12	21.68075	intergenic	n/a
+1738180	4.56E-12	19.84015	intergenic	n/a
+1763650	4.56E-12	22.60849	intergenic	n/a
+79076	4.56E-12	21.68075	intergenic	n/a
+540571	4.56E-12	13.81985	intergenic	n/a
+1072975	4.56E-12	10.34763	intergenic	n/a
+2162968	4.56E-12	19.84015	intergenic	n/a
+1806220	4.56E-12	19.84015	intergenic	n/a
+770782	4.58E-12	1.96998	iscU	FeS assembly NifU-like protein
+771630	4.58E-12	1.990961	sufB	FeS assembly protein SufB
+1168023	4.99E-12	0.7917377	intergenic	n/a
+1089120	5.05E-12	37.906	gyrA	DNA gyrase subunit A
+508775	5.16E-12	0.4326541	-	integral membrane protein
+1546606	5.16E-12	0.5095386	-	pyridine nucleotide-disulfide oxidoreductase
+1924466	5.59E-12	0.3875368	rpoB	DNA-directed RNA polymerase subunit beta
+954665	5.73E-12	4.839227	ppc	phosphoenolpyruvate carboxylase
+1047233	5.86E-12	0.7688239	-	multidrug resistance protein
+617331	5.86E-12	1.813149	murD	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase
+632384	5.92E-12	1.221726	intergenic	n/a
+1399660	6.13E-12	0.5858129	-	hypothetical protein
+1102260	6.31E-12	20.75798	-	hypothetical protein
+654882	6.33E-12	0	-	fatty-acid binding protein
+290545	6.70E-12	10.94346	intergenic	n/a
+662696	6.72E-12	19.84015	-	branched-chain amino acid transport ATP-binding protein
+551865	6.72E-12	19.84015	brnQ	branched-chain amino acid transport system carrier protein
+1785403	6.72E-12	19.84015	-	LacI-family transcriptional regulator (catabolite control protein)
+796202	6.72E-12	19.84015	-	type I restriction modification system restriction protein
+789055	6.72E-12	19.84015	-	type I RM modification enzyme
+1146933	6.72E-12	19.84015	intergenic	n/a
+208878	7.47E-12	1.198376	-	ABC transporter permease
+1121544	7.77E-12	2.209836	intergenic	n/a
+634383	7.80E-12	1.940091	thiM	hydroxyethylthiazole kinase
+884979	8.17E-12	2.863358	glmU	bifunctional N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyltransferase
+377426	8.21E-12	1.606104	-	aspartate kinase
+282281	8.29E-12	0	intergenic	n/a
+1815978	8.48E-12	4.917619	galK	galactokinase
+9485	9.04E-12	0.1378435	-	hypothetical protein
+1612954	9.09E-12	5.662372	penA	penicillin-binding protein 2b
+885978	9.52E-12	2.13129	-	ADP-ribose pyrophosphatase
+523019	9.91E-12	19.84015	-	hypothetical protein
+506562	9.91E-12	10.34763	pheT	phenylalanyl-tRNA synthetase subunit beta
+555245	1.08E-11	20.75798	intergenic	n/a
+143402	1.14E-11	5.590648	-	acetyltransferase
+1569636	1.16E-11	5.626449	-	hypothetical protein
+502003	1.23E-11	0.03652396	-	beta-glucoside-specific phosphotransferase system (PTS), IIABC component
+915427	1.23E-11	1.406319	-	methyltransferase
+899030	1.24E-11	0.5205828	phtE	pneumococcal histidine triad protein E (Bvh-3)
+1834338	1.25E-11	5.210135	scpB	segregation and condensation protein B
+284226	1.34E-11	0	agaV	N-acetylgalactosamine-specific phosphotransferase system (PTS), IIB component
+286193	1.34E-11	0	agaD	N-acetylgalactosamine-specific phosphotransferase system (PTS), IID component
+1889662	1.45E-11	0.111258	ply	pneumolysin (thiol-activated cytolysin)
+1889755	1.45E-11	0.111258	ply	pneumolysin (thiol-activated cytolysin)
+1125630	1.45E-11	15.67244	intergenic	n/a
+885750	1.50E-11	0.5587758	-	ADP-ribose pyrophosphatase
+1993954	1.50E-11	0.03236951	tkt	transketolase
+1147094	1.60E-11	20.75798	carA	carbamoyl phosphate synthase small subunit
+626336	1.65E-11	Inf	intergenic	n/a
+1597247	1.83E-11	15.05157	gpmA	phosphoglyceromutase
+893405	1.83E-11	1.748902	intergenic	n/a
+219172	1.86E-11	18.92721	pflD	formate acetyltransferase
+443828	1.86E-11	18.92721	glnA	glutamine synthetase
+9815	1.86E-11	18.92721	-	hypothetical protein
+221120	1.86E-11	0.8496886	intergenic	n/a
+817083	1.86E-11	19.84015	intergenic	n/a
+1414864	1.86E-11	18.92721	intergenic	n/a
+520286	2.16E-11	19.84015	-	leucine-rich protein
+520647	2.16E-11	19.84015	-	leucine-rich protein
+1899953	2.29E-11	0.604154	-	drug/sodium antiporter
+1350400	2.31E-11	0.2120908	intergenic	n/a
+1670466	2.39E-11	13.81985	mvaA	3-hydroxy-3-methylglutaryl-coenzyme A reductase
+1050153	2.54E-11	9.006745	mutX	mutator MutX protein (7,8-dihydro-8-oxoguanine-triphosphatase)
+1057056	2.57E-11	7.493219	pstI	phosphoenolpyruvate-protein phosphotransferase
+1167951	2.74E-11	4.917619	intergenic	n/a
+1351534	2.89E-11	0.2543761	intergenic	n/a
+680226	2.96E-11	1.500275	-	ABC transporter ATP-binding protein
+525252	3.21E-11	0.6217189	-	ABC transporter ATP-binding protein
+629853	3.23E-11	7.185816	lysS	lysyl-tRNA synthetase
+456160	3.27E-11	1.608973	intergenic	n/a
+1992922	3.44E-11	0.1047451	tkt	transketolase
+702214	3.50E-11	0.4603429	-	hypothetical protein
+857289	3.53E-11	0.5292678	-	ABC transporter ATP-binding protein
+197992	3.53E-11	1.887579	intergenic	n/a
+1065630	3.65E-11	1.607989	lacE2	lactose-specific phosphotransferase system (PTS), IIBC component 2
+2200914	3.66E-11	18.92721	pgsA	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+2200793	3.66E-11	18.92721	cbiO	cobalt transporter ATP-binding subunit
+189331	3.66E-11	18.92721	-	GNAT family acetyltransferase
+1597461	3.66E-11	13.66681	-	hypothetical protein
+2211898	3.66E-11	18.92721	-	hypothetical protein
+1065527	3.66E-11	18.92721	lacE2	lactose-specific phosphotransferase system (PTS), IIBC component 2
+1821197	3.66E-11	18.92721	-	nicotinamide mononucleotide transporter
+441406	3.66E-11	18.92721	pgk	phosphoglycerate kinase
+1633809	3.66E-11	18.92721	nanA	sialidase A (neuraminidase A)
+139442	3.66E-11	18.92721	intergenic	n/a
+810973	3.66E-11	18.92721	intergenic	n/a
+1947799	4.02E-11	0.7699541	-	ABC transporter ATP-binding protein
+1105461	4.14E-11	0.8303991	uvrB	excinuclease ABC subunit B
+1739169	4.40E-11	13.81985	-	hypothetical protein
+2053182	4.69E-11	0.6431268	-	ABC transporter permease
+1558235	4.69E-11	22.64314	cmk	cytidylate kinase
+886798	4.93E-11	14.09621	mtnN	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+1163919	5.10E-11	0.1861388	intergenic	n/a
+841471	5.30E-11	1.654747	holB	DNA polymerase III subunit delta'
+767942	5.30E-11	18.92721	sufC	FeS assembly ATPase SufC, ABC transporter ATP-binding protein
+303849	5.33E-11	3.636181	wzg	capsule biosynthesis integral membrane regulatory protein Wzg
+502551	5.59E-11	2.19226	-	6-phospho-beta-glucosidase
+32937	5.69E-11	9.434606	dut	deoxyuridine 5'-triphosphate nucleotidohydrolase
+1049722	5.70E-11	1.421683	pyrC	dihydroorotase
+840983	5.76E-11	1.494873	holB	DNA polymerase III subunit delta'
+1980745	6.06E-11	6.12296	intergenic	n/a
+112119	6.21E-11	13.20893	-	peptidoglycan-binding protein
+209485	7.27E-11	0.5715922	-	inner membrane component of ABC transporter
+674913	7.67E-11	18.92721	holA	DNA polymerase III subunit delta
+1890404	7.71E-11	0.0209027	ply	pneumolysin (thiol-activated cytolysin)
+1381094	8.47E-11	13.81985	intergenic	n/a
+1828855	9.25E-11	5.771971	intergenic	n/a
+1290206	9.26E-11	2.851444	-	chlorohydrolase
+1342729	9.39E-11	2.241452	-	haloacid dehalogenase-like hydrolase
+1550848	9.71E-11	8.113016	pepQ	Xaa-Pro dipeptidase
+1649630	1.01E-10	13.29199	-	hypothetical protein
+46504	1.03E-10	0.4623073	plsX	glycerol-3-phosphate acyltransferase PlsX
+480959	1.06E-10	2.558023	infB	translation initiation factor IF-2
+179199	1.07E-10	0.5344615	spxA	Spx family transcriptional regulator
+1927887	1.10E-10	0.2868534	intergenic	n/a
+712702	1.11E-10	0.6845496	-	peptidase
+271078	1.16E-10	0.3837682	intergenic	n/a
+1600099	1.19E-10	12.20583	ileS	isoleucyl-tRNA synthetase
+616717	1.21E-10	2.090524	murD	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase
+816688	1.22E-10	1.550134	-	hypothetical protein
+1377960	1.25E-10	13.20893	-	beta-lactamase
+1973960	1.34E-10	1.464342	pbp2A	penicillin-binding protein 2a
+637379	1.36E-10	2.463895	-	ABC transporter ATP-binding protein
+878268	1.42E-10	1.903136	-	O-methyltransferase
+1553137	1.44E-10	Inf	-	hypothetical protein
+1553301	1.44E-10	Inf	-	hypothetical protein
+1554007	1.44E-10	Inf	thiD	phosphomethylpyrimidine kinase
+1553893	1.44E-10	Inf	thiD	phosphomethylpyrimidine kinase
+1553787	1.44E-10	Inf	thiD	phosphomethylpyrimidine kinase
+1553623	1.44E-10	Inf	thiD	phosphomethylpyrimidine kinase
+1553566	1.44E-10	Inf	thiD	phosphomethylpyrimidine kinase
+857436	1.48E-10	0.4177468	-	ABC transporter ATP-binding protein
+5594	1.54E-10	2.550809	trcF	transcription-repair coupling factor
+6405	1.54E-10	2.550809	trcF	transcription-repair coupling factor
+1348428	1.56E-10	2.661178	nagB	glucosamine-6-phosphate isomerase
+794795	1.62E-10	11.6	-	type I restriction modification system restriction protein
+1593956	1.62E-10	11.6	intergenic	n/a
+632398	1.66E-10	1.1551	intergenic	n/a
+1652495	1.72E-10	13.81985	intergenic	n/a
+2053080	1.75E-10	1.697522	-	ABC transporter permease
+1652449	1.76E-10	1.36097	intergenic	n/a
+1863260	1.78E-10	0.5798133	msmR	AraC family transcriptional regulator
+1948831	1.83E-10	0.450294	-	hypothetical protein
+162420	1.84E-10	6.535476	intergenic	n/a
+452333	1.90E-10	1.508851	-	type I restriction-modification system R protein
+2177462	2.07E-10	6.432998	clpC	stress response-related Clp ATPase
+2103695	2.08E-10	0.8987998	-	PTS multi-domain regulator
+700847	2.10E-10	3.028473	-	hypothetical protein
+337302	2.11E-10	5.771971	-	hypothetical protein
+1953815	2.23E-10	1.66561	intergenic	n/a
+1479457	2.24E-10	0.5903501	-	ABC transporter ATP-binding protein
+1454924	2.27E-10	0.5820879	-	hypothetical protein
+461917	2.47E-10	11.27353	-	ABC transporter ATP-binding protein
+684765	2.67E-10	0.1960667	intergenic	n/a
+1798014	2.69E-10	1.027783	-	sortase-sorted surface anchored protein
+964593	2.87E-10	0.08378919	-	glycosyltransferase
+1020879	3.16E-10	6.637921	addA	ATP-dependent exonuclease subunit A
+2217531	3.27E-10	5.793799	-	sensor histidine kinase
+1895620	3.33E-10	0.3793013	-	hypothetical protein
+628856	3.49E-10	10.34763	intergenic	n/a
+332799	3.54E-10	7.950497	pbp1A	penicillin-binding protein 1A
+163183	3.56E-10	0.5798152	-	DNA-binding protein
+2080257	3.56E-10	1.43181	malA	maltodextrose utilization protein MalA
+2069467	3.70E-10	0.5280385	-	ribosomal RNA large subunit methyltransferase A
+499834	3.87E-10	0.2843488	-	transcription antiterminator
+1558588	4.25E-10	0.07513217	-	hypothetical protein
+424906	4.37E-10	2.924218	-	ABC transporter ATP-binding protein
+568125	4.55E-10	2.803644	-	surface-anchored serine protease
+2072887	4.69E-10	4.67177	glgP	glycogen phosphorylase
+1129959	4.92E-10	0.385915	intergenic	n/a
+301725	4.97E-10	0.5263926	dexB	glucan 1,6-alpha-glucosidase
+161339	5.08E-10	8.636719	-	integral membrane protein
+824769	5.28E-10	3.733488	intergenic	n/a
+1803674	5.58E-10	1.416078	-	ABC transporter ATP-binding protein/permease
+1300088	5.64E-10	0.6599327	-	hypothetical protein
+677684	5.66E-10	0.1683038	-	radical SAM superfamily protein
+967227	5.72E-10	0	intergenic	n/a
+2160266	5.72E-10	0	intergenic	n/a
+816599	5.85E-10	1.801528	-	hypothetical protein
+11133	6.09E-10	0.2096264	-	ATP-binding PP-loop family protein
+635206	6.22E-10	1.57643	intergenic	n/a
+1289853	6.44E-10	1.382875	intergenic	n/a
+913874	6.62E-10	2.349646	prfA	peptide chain release factor 1
+621501	6.65E-10	1.584209	pyrE	orotate phosphoribosyltransferase
+777189	6.95E-10	2.004989	-	DeoR family regulatory protein
+1671246	6.97E-10	1.795685	mvaS	3-hydroxy-3-methylglutaryl coenzyme A synthase
+1550200	7.25E-10	Inf	pepQ	Xaa-Pro dipeptidase
+1550590	7.25E-10	Inf	pepQ	Xaa-Pro dipeptidase
+1550605	7.25E-10	Inf	pepQ	Xaa-Pro dipeptidase
+1551022	7.25E-10	Inf	pepQ	Xaa-Pro dipeptidase
+211763	7.46E-10	1.52378	intergenic	n/a
+603281	7.53E-10	6.41342	thyA	thymidylate synthase
+1355262	7.67E-10	4.507369	-	nicotinate phosphoribosyltransferase
+1550080	7.67E-10	Inf	pepQ	Xaa-Pro dipeptidase
+1550006	7.67E-10	Inf	pepQ	Xaa-Pro dipeptidase
+1550884	7.67E-10	Inf	pepQ	Xaa-Pro dipeptidase
+1838370	7.80E-10	13.20893	glr	glutamate racemase
+1090638	7.81E-10	6.010332	gyrA	DNA gyrase subunit A
+677078	7.88E-10	0.1793601	-	hypothetical protein
+434324	8.02E-10	0.5991369	-	Na+/Pi-cotransporter protein
+1671102	8.31E-10	5.257979	mvaS	3-hydroxy-3-methylglutaryl coenzyme A synthase
+2188725	8.32E-10	5.781079	comFC	late competence protein
+2121444	8.43E-10	1.844122	-	alpha-1,2-mannosidase
+220931	9.01E-10	2.653942	fsaA	fructose-6-phosphate aldolase
+1554139	9.12E-10	Inf	thiD	phosphomethylpyrimidine kinase
+1554686	9.12E-10	Inf	truA	tRNA pseudouridine synthase A
+1554409	9.12E-10	Inf	truA	tRNA pseudouridine synthase A
+546772	9.46E-10	2.528551	-	extracellular solute-binding protein
+1554224	9.50E-10	Inf	truA	tRNA pseudouridine synthase A
+1829083	9.53E-10	13.20893	intergenic	n/a
+1447060	9.69E-10	1.345889	-	extracellular oligopeptide-binding protein
+1554175	9.85E-10	Inf	truA	tRNA pseudouridine synthase A
+547859	1.01E-09	0.5234111	-	nitroreductase family protein
+220891	1.08E-09	2.783853	fsaA	fructose-6-phosphate aldolase
+1613545	1.09E-09	5.62975	penA	penicillin-binding protein 2b
+917981	1.11E-09	1.191396	-	hypothetical protein
+674944	1.12E-09	15.67244	holA	DNA polymerase III subunit delta
+1782385	1.13E-09	0.3559812	trpG	anthranilate synthase component II
+697213	1.14E-09	3.268825	-	permease
+10531	1.18E-09	2.285485	-	ATP-binding PP-loop family protein
+904514	1.18E-09	4.157976	pepT	peptidase T
+301494	1.26E-09	0.1123553	dexB	glucan 1,6-alpha-glucosidase
+152140	1.30E-09	3.129763	-	peptidase
+913784	1.32E-09	2.233193	prfA	peptide chain release factor 1
+1562614	1.33E-09	1.276628	-	NIF3 (NGG1p interacting factor 3) family protein
+850502	1.34E-09	2.316859	-	PhoH-like protein
+346977	1.35E-09	1.421392	mvaK2	phosphomevalonate kinase
+504151	1.39E-09	0.06878043	intergenic	n/a
+1796046	1.41E-09	2.272566	-	hypothetical protein
+616899	1.51E-09	2.181563	murD	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase
+11501	1.54E-09	1.704131	-	ATP-binding PP-loop family protein
+1482352	1.57E-09	1.958662	-	DegV family protein
+701086	1.57E-09	1.997224	intergenic	n/a
+1106988	1.62E-09	2.474996	uvrB	excinuclease ABC subunit B
+1107021	1.62E-09	2.474996	uvrB	excinuclease ABC subunit B
+1106955	1.62E-09	2.474996	uvrB	excinuclease ABC subunit B
+198357	1.66E-09	2.576622	rpsH	30S ribosomal protein S8
+1835520	1.70E-09	6.880058	xerD	site-specific tyrosine recombinase XerD-like protein
+1344314	1.78E-09	3.310504	hemN	coproporphyrinogen III oxidase
+1596242	1.78E-09	3.310504	-	hypothetical protein
+735211	1.78E-09	2.482244	-	hypothetical protein
+121404	1.78E-09	0	-	hypothetical protein
+367937	1.78E-09	3.310504	-	hypothetical protein
+1780193	1.78E-09	2.024003	trpC	indole-3-glycerol-phosphate synthase
+733784	1.78E-09	3.310504	deoB	phosphopentomutase
+921521	1.78E-09	3.310504	-	RNA methyltransferase
+874667	1.78E-09	3.733488	-	tellurite resistance protein TehB
+1778637	1.78E-09	3.310504	trpB	tryptophan synthase subunit beta
+151942	1.78E-09	3.310504	intergenic	n/a
+1621719	1.86E-09	7.493219	-	extracellular solute-binding lipoprotein
+636304	1.94E-09	2.506374	-	ABC transporter ATP-binding protein
+2058783	1.99E-09	8.636719	-	rhomboid family membrane protein
+529136	1.99E-09	4.54975	-	two-component system, sensor histidine kinase
+915493	2.10E-09	1.620085	-	methyltransferase
+469012	2.13E-09	0.5236375	blpA1	bacteriocin transport/processing ATP-binding protein BlpA
+747055	2.14E-09	17.11589	-	ABC transporter ATP-binding protein
+159102	2.14E-09	18.01914	-	response regulator protein
+609969	2.14E-09	17.11589	intergenic	n/a
+739591	2.14E-09	17.11589	intergenic	n/a
+1304704	2.21E-09	1.212726	-	LicD-family phosphotransferase
+867894	2.26E-09	4.768814	era	GTP-binding protein Era
+870870	2.33E-09	5.775107	pmrA	multi-drug resistance efflux pump
+1643889	2.40E-09	9.889907	aroF1	phospho-2-dehydro-3-deoxyheptonate aldolase
+499954	2.41E-09	0.3071462	-	transcription antiterminator
+291540	2.57E-09	4.925829	intergenic	n/a
+1051856	2.60E-09	3.736911	-	haloacid dehalogenase-like hydrolase
+1046267	2.67E-09	0.5491573	pdhA	pyruvate dehydrogenase E1 component,alpha subunit
+362590	2.68E-09	0.757715	tig	trigger factor
+461239	2.70E-09	1.233497	-	hypothetical protein
+1161128	2.71E-09	1.654662	-	hypothetical protein
+1836002	2.75E-09	5.88864	xerD	site-specific tyrosine recombinase XerD-like protein
+1816074	2.76E-09	3.84852	galK	galactokinase
+864375	2.80E-09	9.056883	lytB	endo-beta-N-acetylglucosaminidase
+400980	2.88E-09	0.2706007	alsS	acetolactate synthase catalytic subunit
+1587298	3.06E-09	0.3149419	intergenic	n/a
+2163974	3.11E-09	0.6724245	glpO	alpha-glycerophosphate oxidase
+330406	3.13E-09	2.434947	-	cell wall surface anchored protein
+1142385	3.14E-09	0	-	phosphotransferase LicD1
+1930936	3.14E-09	0	murA1	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+221083	3.15E-09	1.594091	fsaA	fructose-6-phosphate aldolase
+227920	3.16E-09	0.9039345	ruvB	Holliday junction DNA helicase RuvB
+1427467	3.25E-09	3.066754	atpA	F0F1 ATP synthase subunit alpha
+581736	3.34E-09	3.733488	-	hypothetical protein
+583665	3.34E-09	3.733488	-	sodium hydrogen exchange transporter
+706971	3.35E-09	12.60129	pepN	lysyl-aminopeptidase
+518783	3.56E-09	0.6142258	cysS	cysteinyl-tRNA synthetase
+1383738	3.79E-09	0.7313242	-	thioredoxin reductase
+224303	3.81E-09	0.7388053	leuS	leucyl-tRNA synthetase
+2002621	3.91E-09	5.118008	-	hypothetical protein
+753182	3.96E-09	2.117426	parE	DNA topoisomerase IV subunit B
+1612897	4.02E-09	5.497435	penA	penicillin-binding protein 2b
+438255	4.13E-09	3.323629	-	endo-beta-N-acetylglucosaminidase
+1471188	4.28E-09	0.4907419	-	hypothetical protein
+2163281	4.54E-09	5.781079	glpO	alpha-glycerophosphate oxidase
+1550116	4.77E-09	Inf	pepQ	Xaa-Pro dipeptidase
+747731	4.91E-09	0	-	ABC transporter ATP-binding protein
+182787	4.91E-09	0	-	lipoprotein
+877096	4.91E-09	0	pepB	oligopeptidase
+200444	4.91E-09	0	intergenic	n/a
+1902165	5.01E-09	3.733488	recA	recombinase A
+2060375	5.21E-09	6.150326	-	peptidase
+1288939	5.45E-09	4.377157	rplL	50S ribosomal protein L7/L12
+1789175	5.46E-09	0.5698223	-	iron ABC transporter ATP-binding protein
+1799875	5.62E-09	1.147792	-	DegT/DnrJ/EryC1/StrS family amino sugar synthetase
+535140	5.67E-09	9.889907	-	glutamine transporter, ATP-binding protein
+256899	5.68E-09	0	pepC	aminopeptidase C
+480711	5.80E-09	3.023754	infB	translation initiation factor IF-2
+986428	5.91E-09	0.5535314	-	hypothetical protein
+75570	5.97E-09	52.86516	-	beta-galactosidase
+1549946	6.32E-09	Inf	intergenic	n/a
+2080272	6.55E-09	1.44811	malA	maltodextrose utilization protein MalA
+499873	6.56E-09	0.324374	-	transcription antiterminator
+1361157	6.58E-09	0.7404005	intergenic	n/a
+516193	6.64E-09	3.360651	pnpA	polynucleotide phosphorylase/polyadenylase
+331500	6.69E-09	1.773582	intergenic	n/a
+507222	7.03E-09	5.370429	pheT	phenylalanyl-tRNA synthetase subunit beta
+1792012	7.21E-09	1.900666	intergenic	n/a
+438449	7.29E-09	1.986443	-	endo-beta-N-acetylglucosaminidase
+1549604	7.51E-09	Inf	-	aminotransferase
+1350573	7.62E-09	1.620588	intergenic	n/a
+300533	7.81E-09	0.8607819	-	hypothetical protein
+866211	8.04E-09	4.973573	fbpS	fibronectin/fibrinogen-binding protein adherence and virulence protein A
+667619	8.39E-09	0	-	glucose-specific phosphotransferase system (PTS), IIABC component
+892601	8.44E-09	0.1593563	-	cytochrome c-type biogenesis protein
+1596173	8.50E-09	0.8004173	-	hypothetical protein
+2048393	8.52E-09	0.4248427	-	hypothetical protein
+24548	8.59E-09	0.1680008	purA	adenylosuccinate synthetase
+183429	8.59E-09	0.1680008	-	cardiolipin synthetase
+440235	8.59E-09	0.1680008	-	endo-beta-N-acetylglucosaminidase
+274203	8.59E-09	0.1680008	-	glutathione peroxidase
+966088	8.59E-09	0.1680008	obgE	GTPase ObgE
+275535	8.59E-09	0.1680008	-	hyaluronate lyase
+110917	8.59E-09	0.1593563	sdhA	L-serine dehydratase, alpha chain
+53476	8.59E-09	0.1680008	-	phosphoribosylformylglycinamidine synthase protein
+53577	8.59E-09	0.1593563	-	phosphoribosylformylglycinamidine synthase protein
+922002	9.02E-09	4.973573	-	RNA methyltransferase
+327859	9.39E-09	0.5045065	-	cell wall surface anchored protein
+1921914	9.81E-09	0.1866107	rpoC	DNA-directed RNA polymerase subunit beta'
+2018950	1.02E-08	0.8944717	-	hypothetical protein
+902945	1.08E-08	0.6639063	-	pneumococcal histidine triad protein E truncation
+444946	1.10E-08	0.125994	intergenic	n/a
+333282	1.14E-08	4.004976	pbp1A	penicillin-binding protein 1A
+332247	1.15E-08	6.321509	pbp1A	penicillin-binding protein 1A
+7984	1.15E-08	2.661158	trcF	transcription-repair coupling factor
+144186	1.20E-08	0	ugd	UDP-glucose 6-dehydrogenase
+144984	1.20E-08	0	intergenic	n/a
+907134	1.21E-08	1.034845	mscL	large-conductance mechanosensitive channel
+142219	1.21E-08	1.457651	intergenic	n/a
+1389410	1.25E-08	1.254581	-	glutamine amidotransferase subunit PdxT
+848939	1.33E-08	1.293508	-	hypothetical protein
+2102069	1.38E-08	9.889907	ulaA	PTS system ascorbate-specific transporter subunit IIC
+2101265	1.38E-08	9.889907	ulaA	PTS system ascorbate-specific transporter subunit IIC
+2081779	1.48E-08	4.862833	malR	maltose operon transcriptional repressor
+682992	1.51E-08	0.9168748	intergenic	n/a
+1383301	1.52E-08	1.325857	-	SpoU rRNA methylase family protein
+1938504	1.52E-08	0.1047451	intergenic	n/a
+176778	1.56E-08	0.2884657	uvrA	excinuclease ABC subunit A
+1659127	1.61E-08	3.001459	intergenic	n/a
+641422	1.68E-08	11.39571	thiD	phosphomethylpyrimidine kinase
+1889881	1.70E-08	0.6959038	ply	pneumolysin (thiol-activated cytolysin)
+1332446	1.74E-08	0.9004525	-	extracellular amino acid-binding protein
+290923	1.77E-08	0.821231	mraW	S-adenosyl-methyltransferase MraW
+1825310	1.78E-08	3.81392	-	MarR-family transcriptional regulator
+1639504	1.83E-08	0.5684268	recG	ATP-dependent DNA helicase RecG
+502593	1.89E-08	2.026938	-	6-phospho-beta-glucosidase
+1874815	1.89E-08	1.101146	recX	recombination regulator RecX
+2103934	1.93E-08	0.4966473	-	PTS multi-domain regulator
+1539900	1.96E-08	10.79492	intergenic	n/a
+2090871	2.04E-08	2.262453	hisS	histidyl-tRNA synthetase
+1445016	2.05E-08	1.748192	-	ABC transporter ATP-binding protein
+1128402	2.27E-08	15.05157	intergenic	n/a
+189827	2.28E-08	0.4437198	nrdG	anaerobic ribonucleoside-triphosphate reductase activating protein
+154358	2.34E-08	0.1680008	-	ABC transporter ATP-binding protein
+1641715	2.34E-08	1.627464	alr	alanine racemase
+1297008	2.37E-08	1.612413	thrB	homoserine kinase
+287904	2.38E-08	2.090429	-	heparinase II/III-like protein
+1847423	2.40E-08	1.395589	-	peptide ABC transporter ATP-binding protein
+2215138	2.43E-08	1.023983	intergenic	n/a
+904296	2.49E-08	1.243392	intergenic	n/a
+918035	2.64E-08	1.180831	-	hypothetical protein
+1586850	2.73E-08	0.5869324	pepO	endopeptidase O
+1430472	2.78E-08	1.60046	atpB	F0F1 ATP synthase subunit A
+9714	2.86E-08	2.418394	-	hypothetical protein
+765673	2.95E-08	2.488584	dnaH	DNA polymerase III subunits gamma/tau
+1589728	2.98E-08	0.5351171	mtsA	metal ABC transporter substrate-binding lipoprotein precursor
+1976561	3.11E-08	0.3922785	plr	glyceraldehyde-3-phosphate dehydrogenase, plasmin receptor
+1918603	3.17E-08	2.488262	-	ABC transporter ATP-binding protein
+1454491	3.23E-08	0.4176966	-	hypothetical protein
+2181398	3.28E-08	0.3689466	-	hypothetical protein
+219085	3.48E-08	2.644854	pflD	formate acetyltransferase
+1613503	3.48E-08	1.986958	penA	penicillin-binding protein 2b
+1992419	3.57E-08	0.2884657	intergenic	n/a
+221815	3.71E-08	0.1762499	gldA	glycerol dehydrogenase
+1782679	3.81E-08	2.097992	trpE	anthranilate synthase component I
+184942	3.84E-08	Inf	-	hypothetical protein
+362716	3.94E-08	1.181651	tig	trigger factor
+567001	4.03E-08	1.223104	-	surface-anchored serine protease
+2134829	4.11E-08	1.11295	fucI	L-fucose isomerase
+1404236	4.11E-08	2.72932	-	oxidoreductase
+212439	4.17E-08	1.352637	intergenic	n/a
+1579893	4.26E-08	1.894315	-	hypothetical protein
+1535416	4.27E-08	2.331776	tpiA	triosephosphate isomerase
+139071	4.63E-08	0.3023917	intergenic	n/a
+1380615	4.70E-08	0.2695736	-	haloacid dehalogenase-like hydrolase
+162821	4.71E-08	1.359277	-	hypothetical protein
+2121137	5.05E-08	1.682368	-	alpha-1,2-mannosidase
+638682	5.09E-08	4.566634	-	coenzyme
+1892442	5.40E-08	2.148257	intergenic	n/a
+110722	5.44E-08	0.2879755	sdhA	L-serine dehydratase, alpha chain
+193966	5.69E-08	4.491638	intergenic	n/a
+955310	6.00E-08	0.5767208	ppc	phosphoenolpyruvate carboxylase
+1196210	6.09E-08	2.041834	-	IS861 transposase Orf1
+2130603	6.09E-08	2.041834	intergenic	n/a
+1658861	6.36E-08	0.7779791	-	hypothetical protein
+2006429	6.44E-08	Inf	ackA	acetate kinase
+2010994	6.44E-08	Inf	-	competence protein
+396999	6.44E-08	3.275346	-	glycosyl transferase
+350014	6.44E-08	Inf	-	sensor histidine kinase
+390121	6.55E-08	2.41988	nusB	transcription antitermination protein NusB
+1816762	6.62E-08	1.121711	galR	galactose operon repressor
+1107944	6.63E-08	0.6830229	-	CAAX amino terminal protease family protein
+986802	6.65E-08	5.660782	intergenic	n/a
+1474887	6.88E-08	0.4590187	-	cation transporting ATPase
+100315	7.22E-08	0.2192582	-	hypothetical protein
+1130378	7.28E-08	0.4434485	-	hypothetical protein
+281967	7.35E-08	15.3237	idnO	gluconate 5-dehydrogenase
+1145257	7.44E-08	16.21742	carB	carbamoyl phosphate synthase large subunit
+207121	7.52E-08	0.1936417	-	hypothetical protein
+208537	7.52E-08	0.1936417	-	phosphoglycerate mutase family protein
+2054173	7.61E-08	0.2518961	pstB3	phosphate transporter ATP-binding protein
+1561296	7.86E-08	0.2051731	-	hypothetical protein
+1948874	8.81E-08	1.230321	-	hypothetical protein
+2094832	9.02E-08	1.682368	-	DNA-binding protein
+871177	9.12E-08	1.635392	intergenic	n/a
+910812	9.42E-08	0.4049022	dapA	dihydrodipicolinate synthase
+665862	9.87E-08	1.642594	ftsE	cell division ATP-binding protein
+170367	1.06E-07	6.300592	intergenic	n/a
+1145835	1.09E-07	15.3237	carB	carbamoyl phosphate synthase large subunit
+1146087	1.09E-07	15.3237	carB	carbamoyl phosphate synthase large subunit
+1477343	1.09E-07	5.079321	-	cation efflux family protein
+1536297	1.09E-07	15.3237	-	DNA replication protein DnaD
+1538699	1.09E-07	15.3237	-	methyltransferase
+1661329	1.12E-07	0.5896163	-	ABC transporter ATP-binding protein
+1383414	1.12E-07	1.473263	-	SpoU rRNA methylase family protein
+528442	1.13E-07	4.595755	-	two-component system, sensor histidine kinase
+1931722	1.15E-07	0.8141447	murA1	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+155625	1.19E-07	4.855744	-	hypothetical protein
+1661362	1.22E-07	1.72698	-	ABC transporter ATP-binding protein
+634116	1.29E-07	0.2019127	thiM	hydroxyethylthiazole kinase
+1990396	1.32E-07	0.1246711	adhE	bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+1559963	1.33E-07	0.5473539	-	membrane glycosyl transferase
+1161249	1.33E-07	1.475348	-	phosphohydrolase
+975822	1.38E-07	0.1680008	radC	DNA repair protein RadC
+391685	1.42E-07	0.1689729	gatB	aspartyl/glutamyl-tRNA amidotransferase subunit B
+1329935	1.44E-07	0.252568	-	hypothetical protein
+1673143	1.44E-07	1.56402	-	hypothetical protein
+292233	1.45E-07	11.99689	pbpX	penicillin binding protein 2x
+1148525	1.47E-07	1.36335	pyrB	aspartate carbamoyltransferase catalytic subunit
+1990537	1.50E-07	0.4185659	adhE	bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+1097334	1.54E-07	1.542202	mutY	A/G-specific adenine glycosylase
+1099320	1.54E-07	1.318898	fhs1	formate--tetrahydrofolate ligase
+1587079	1.55E-07	8.425912	intergenic	n/a
+391550	1.60E-07	0.1776049	gatB	aspartyl/glutamyl-tRNA amidotransferase subunit B
+369242	1.60E-07	0.1776049	mutS2	DNA mismatch repair protein
+970416	1.60E-07	0.1776049	-	DNA-binding protein
+758445	1.60E-07	0.1680008	-	extracellular oligopeptide-binding protein
+771502	1.60E-07	0.1776049	sufB	FeS assembly protein SufB
+1087751	1.60E-07	0.1680008	-	formate/nitrate transport protein
+889118	1.60E-07	0.1776049	-	glycerophosphodiester phosphodiesterase
+615198	1.60E-07	0.1776049	-	hypothetical protein
+279614	1.60E-07	0.1776049	kgdA	keto-hydroxyglutarate-aldolase/keto-deoxy-phosphogluconate aldolase
+1059703	1.60E-07	0.1593563	-	ribonucleotide-diphosphate reductase subunit alpha
+737528	1.60E-07	0.1776049	intergenic	n/a
+903868	1.60E-07	0.1593563	intergenic	n/a
+1056311	1.60E-07	0.1776049	intergenic	n/a
+169664	1.62E-07	1.752551	intergenic	n/a
+978531	1.63E-07	0.2277975	-	cysteine desulfurase
+324649	1.72E-07	0.19838	aliA	extracellular oligopeptide-binding protein
+686805	1.72E-07	1.130726	trmD	tRNA (guanine-N(1)-)-methyltransferase
+736580	1.80E-07	11.27353	intergenic	n/a
+95268	1.88E-07	0.252568	-	binding-protein-dependent transport system membrane protein
+41977	1.88E-07	0.252568	-	CoA-binding protein
+42088	1.88E-07	0.252568	-	CoA-binding protein
+45495	1.88E-07	0.252568	recO	DNA repair protein RecO
+45101	1.88E-07	0.252568	recO	DNA repair protein RecO
+45293	1.88E-07	0.2395637	recO	DNA repair protein RecO
+45071	1.88E-07	0.252568	recO	DNA repair protein RecO
+437703	1.88E-07	0.2073334	-	endo-beta-N-acetylglucosaminidase
+45889	1.88E-07	0.252568	plsX	glycerol-3-phosphate acyltransferase PlsX
+46246	1.88E-07	0.252568	plsX	glycerol-3-phosphate acyltransferase PlsX
+45670	1.88E-07	0.252568	plsX	glycerol-3-phosphate acyltransferase PlsX
+45874	1.88E-07	0.252568	plsX	glycerol-3-phosphate acyltransferase PlsX
+45820	1.88E-07	0.252568	plsX	glycerol-3-phosphate acyltransferase PlsX
+42289	1.88E-07	0.252568	intergenic	n/a
+1885764	1.88E-07	0.252568	intergenic	n/a
+1990471	1.89E-07	0.4102181	adhE	bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+1107108	1.89E-07	2.441217	uvrB	excinuclease ABC subunit B
+1560680	1.89E-07	1.510161	galE	UDP-glucose 4-epimerase
+1408937	1.92E-07	0.2395637	tufA	elongation factor Tu
+1681373	1.94E-07	1.674412	priA	primosome assembly protein PriA
+1550533	2.02E-07	1.695204	pepQ	Xaa-Pro dipeptidase
+197462	2.06E-07	Inf	rplE	50S ribosomal protein L5
+804767	2.06E-07	Inf	pfk	6-phosphofructokinase
+260830	2.06E-07	Inf	adhP	alcohol dehydrogenase
+256913	2.06E-07	27.32328	pepC	aminopeptidase C
+256497	2.06E-07	27.32328	pepC	aminopeptidase C
+2067395	2.06E-07	Inf	-	cation transporting ATPase
+1306297	2.06E-07	Inf	-	cell envelope-related transcriptional attenuator domain protein
+1306357	2.06E-07	Inf	-	cell envelope-related transcriptional attenuator domain protein
+245251	2.06E-07	Inf	fus	elongation factor G
+257314	2.06E-07	27.32328	manN	mannose-specific phosphotransferase system (PTS), IID component
+196700	2.06E-07	Inf	intergenic	n/a
+138090	2.06E-07	Inf	intergenic	n/a
+1430425	2.07E-07	0	atpB	F0F1 ATP synthase subunit A
+1360175	2.07E-07	0	-	peptidase
+1098929	2.09E-07	1.498113	fhs1	formate--tetrahydrofolate ligase
+1351378	2.10E-07	0.2917097	intergenic	n/a
+1351329	2.10E-07	0.2917097	intergenic	n/a
+1316012	2.12E-07	2.583314	intergenic	n/a
+1976999	2.13E-07	25.37339	plr	glyceraldehyde-3-phosphate dehydrogenase, plasmin receptor
+2002635	2.18E-07	0.8757837	-	hypothetical protein
+605697	2.20E-07	0.6691875	-	GTPase
+219755	2.23E-07	2.635098	pflD	formate acetyltransferase
+1566651	2.24E-07	0.2171005	-	acyltransferase
+2080946	2.27E-07	4.791784	malA	maltodextrose utilization protein MalA
+898838	2.28E-07	0.5770257	phtE	pneumococcal histidine triad protein E (Bvh-3)
+181353	2.29E-07	10.34763	-	folylpolyglutamate synthase
+2104920	2.29E-07	0.5846264	-	hypothetical protein
+2049049	2.31E-07	0.04433405	phoP	alkaline phosphatase synthesis transcriptional regulatory protein
+1347198	2.35E-07	0	ptsK	HPr kinase/phosphorylase
+622957	2.35E-07	1.095916	-	hypothetical protein
+700151	2.41E-07	0.3934421	-	PadR family transcriptional regulator
+39213	2.47E-07	1.395838	polA	DNA polymerase I
+363313	2.49E-07	0.5937162	tig	trigger factor
+619324	2.54E-07	0.5184887	divIB	cell division protein DivIB/FtsQ
+1162045	2.59E-07	5.891751	-	phosphohydrolase
+1949972	2.78E-07	10.50028	-	hypothetical protein
+1308483	2.82E-07	0	aroA	3-phosphoshikimate 1-carboxyvinyltransferase
+50772	2.82E-07	0	-	bacteriocin transport accessory protein
+1108218	2.82E-07	0	-	CAAX amino terminal protease family protein
+1455901	2.82E-07	0	-	cyclophilin type peptidyl-prolyl cis-trans isomerase protein
+2152496	2.82E-07	0	dltD	D-alanyl-lipoteichoic acid biosynthesis protein
+976050	2.82E-07	0	radC	DNA repair protein RadC
+729507	2.82E-07	0	glnQ3	glutamine transporter, ATP-binding protein 3
+1604421	2.82E-07	0	-	hypothetical protein
+1594348	2.82E-07	0	-	hypothetical protein
+2092120	2.82E-07	0	-	Major Facilitator Superfamily protein
+375479	2.82E-07	0	serS	seryl-tRNA synthetase
+1990501	2.87E-07	0.4102181	adhE	bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+2090552	2.87E-07	0.648769	hisS	histidyl-tRNA synthetase
+810440	2.92E-07	0.4580593	-	hypothetical protein
+232311	2.94E-07	0.385915	proS	prolyl-tRNA synthetase
+1613086	2.99E-07	6.506368	penA	penicillin-binding protein 2b
+214169	3.00E-07	0.1604466	-	DeoR family regulatory protein
+24241	3.00E-07	0.6641896	intergenic	n/a
+1626384	3.02E-07	1.199669	-	oxidoreductase
+211395	3.03E-07	2.617903	intergenic	n/a
+1549196	3.15E-07	5.12217	-	aminotransferase
+184997	3.18E-07	0.9041238	-	hypothetical protein
+753633	3.22E-07	1.14088	parE	DNA topoisomerase IV subunit B
+1990459	3.37E-07	0.4289547	adhE	bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+299663	3.39E-07	1.509901	-	hypothetical protein
+1479769	3.46E-07	0.4653697	-	ABC transporter ATP-binding protein
+1565204	3.48E-07	6.646074	-	cation-transporting ATPase
+1697237	3.56E-07	6.677933	-	hypothetical protein
+1568510	3.71E-07	0.6297108	intergenic	n/a
+809198	3.79E-07	0.7510154	-	lipoprotein
+214841	3.84E-07	0.4505785	-	sugar-binding regulatory protein
+772065	3.88E-07	0.5017226	sufB	FeS assembly protein SufB
+1067245	3.88E-07	1.335446	lacF	PTS system, lactose-specific IIA component
+975264	3.91E-07	0.5583431	pcrA	ATP-dependent DNA helicase
+970265	3.91E-07	0.5668701	-	DNA-binding protein
+877212	3.93E-07	0.1776049	pepB	oligopeptidase
+1998120	3.94E-07	0.6031404	araD	L-ribulose-5-phosphate 4-epimerase
+1148465	4.06E-07	1.041889	pyrB	aspartate carbamoyltransferase catalytic subunit
+2183005	4.07E-07	0	cbpD	choline binding protein D
+338175	4.14E-07	4.917619	-	hypothetical protein
+346580	4.17E-07	8.086991	mvaD	mevalonate diphosphate decarboxylase
+345036	4.17E-07	7.640721	mvaK1	mevalonate kinase
+259249	4.18E-07	0.4507957	manL	mannose-specific phosphotransferase system (PTS), IIAB component
+1660458	4.21E-07	0.563534	-	hypothetical protein
+734747	4.23E-07	4.0572	deoB	phosphopentomutase
+2049125	4.25E-07	0.04433405	phoP	alkaline phosphatase synthesis transcriptional regulatory protein
+2049089	4.25E-07	0.04717399	phoP	alkaline phosphatase synthesis transcriptional regulatory protein
+611855	4.26E-07	10.79492	-	BipA family GTPase
+2156376	4.33E-07	0.8624206	dltA	D-alanine--poly(phosphoribitol) ligase subunit 1
+1048870	4.38E-07	0.1883379	pyrC	dihydroorotase
+280794	4.40E-07	0	-	hypothetical protein
+968569	4.40E-07	0	murZ	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+2165179	4.41E-07	0.7604173	glpK	glycerol kinase
+1049612	4.44E-07	1.119591	pyrC	dihydroorotase
+1808214	4.49E-07	2.107656	intergenic	n/a
+1943551	4.59E-07	0.51577	-	RmuC family protein
+1928461	4.77E-07	1.528522	-	transport protein
+1016196	4.78E-07	0.252568	addB	ATP-dependent exonuclease subunit B
+39520	4.84E-07	1.350074	polA	DNA polymerase I
+880621	4.85E-07	0.8924527	intergenic	n/a
+44850	4.96E-07	0.2670166	-	aromatic amino acid aminotransferase
+43912	4.96E-07	0.2670166	-	aromatic amino acid aminotransferase
+44178	4.96E-07	0.2670166	-	aromatic amino acid aminotransferase
+670680	4.99E-07	1.253977	-	helicase
+703486	5.04E-07	0.7046859	-	NUDIX family protein
+1681085	5.10E-07	0.6060123	priA	primosome assembly protein PriA
+895068	5.17E-07	1.986958	intergenic	n/a
+1690202	5.26E-07	0.9302209	-	isochorismatase
+259357	5.36E-07	10.19977	manL	mannose-specific phosphotransferase system (PTS), IIAB component
+1792074	5.38E-07	0.4248427	galE	UDP-glucose 4-epimerase
+169383	5.41E-07	0.2577569	intergenic	n/a
+866373	5.43E-07	0.4184958	fbpS	fibronectin/fibrinogen-binding protein adherence and virulence protein A
+1303474	5.62E-07	Inf	-	glycosyl transferase
+159886	5.66E-07	1.340058	-	hypothetical protein
+2132789	5.73E-07	Inf	intergenic	n/a
+1163136	5.80E-07	0.6820991	-	haloacid dehalogenase-like hydrolase
+635848	6.07E-07	0.09394115	-	hypothetical protein
+1332898	6.10E-07	1.15262	-	extracellular amino acid-binding protein
+1690516	6.15E-07	5.88864	-	isochorismatase
+1046848	6.17E-07	1.249275	-	multidrug resistance protein
+401803	6.24E-07	3.293892	ilvH	acetolactate synthase 3 regulatory subunit
+88407	6.25E-07	0.2987773	intergenic	n/a
+1980724	6.29E-07	0	intergenic	n/a
+1121659	6.44E-07	2.514666	intergenic	n/a
+1429746	6.50E-07	1.400746	atpF	F0F1 ATP synthase subunit B
+507671	6.65E-07	3.282549	pheT	phenylalanyl-tRNA synthetase subunit beta
+1103099	6.84E-07	1.700214	-	hypothetical protein
+1571407	7.00E-07	1.323666	thrS	threonyl-tRNA synthetase
+2113121	7.11E-07	2.117322	gcnA	N-acetyl-beta-D-glucosaminidase
+620464	7.11E-07	5.673215	intergenic	n/a
+2220349	7.24E-07	2.146488	htrA	serine protease
+836369	7.25E-07	0.9335501	cbpE	choline binding protein E
+1106703	7.48E-07	0.5407724	uvrB	excinuclease ABC subunit B
+1164169	7.56E-07	2.707079	-	camphor resistance protein CrcB
+1741986	7.70E-07	2.103788	rsmE	16S ribosomal RNA methyltransferase 
+1647053	7.74E-07	3.922561	secA	preprotein translocase subunit SecA
+990467	7.81E-07	0	ribC	bifunctional riboflavin kinase/FMN adenylyltransferase
+1985989	7.83E-07	0.8552979	licC	PTS system, lichenan-specific IIc component
+1090371	7.87E-07	1.414255	gyrA	DNA gyrase subunit A
+175401	8.00E-07	0.9849125	uvrA	excinuclease ABC subunit A
+2064490	8.02E-07	1.884612	pbp1B	penicillin-binding protein 1B
+430991	8.07E-07	4.499279	rpoE	DNA-directed RNA polymerase subunit delta
+100300	8.10E-07	0.2215688	-	hypothetical protein
+335785	8.14E-07	11.99689	-	RNA methylase family protein
+365521	8.17E-07	2.352832	-	hypothetical protein
+179233	8.17E-07	0.3378155	intergenic	n/a
+1140381	8.23E-07	8.53562	-	polysaccharide biosynthesis flippase
+1049155	8.43E-07	0.4483625	pyrC	dihydroorotase
+365548	8.49E-07	2.179104	-	hypothetical protein
+347285	8.54E-07	7.640721	mvaK2	phosphomevalonate kinase
+1377686	8.59E-07	1.404137	-	beta-lactamase
+2189947	8.72E-07	2.328664	comFA	late competence protein
+1667455	8.89E-07	1.146293	scrB	sucrose-6-phosphate hydrolase
+2208041	8.95E-07	1.025847	intergenic	n/a
+1452508	9.07E-07	0.9211632	-	hypothetical protein
+203927	9.23E-07	1.419492	rpsM	30S ribosomal protein S13
+1040771	9.71E-07	1.666817	-	lipoate-protein ligase A
+1408892	1.05E-06	0.252568	tufA	elongation factor Tu
+99465	1.06E-06	1.620228	-	hypothetical protein
+49681	1.07E-06	Inf	-	bacteriocin transport/processing ATP-binding protein
+95871	1.17E-06	0.4908464	-	binding-protein-dependent transport system membrane protein
+2079244	1.17E-06	0.5588743	malD	maltose/maltodextrin ABC transport system permease protein
+1143232	1.18E-06	2.17761	-	phosphotransferase LicD2
+1143217	1.18E-06	2.17761	-	phosphotransferase LicD2
+1305739	1.19E-06	2.383254	-	cell envelope-related transcriptional attenuator domain protein
+2094386	1.19E-06	1.317978	intergenic	n/a
+1417666	1.20E-06	0.4588259	pgmA	phosphomannomutase
+1874946	1.23E-06	1.187416	recX	recombination regulator RecX
+1885721	1.23E-06	1.28303	intergenic	n/a
+162960	1.26E-06	0.58632	-	DNA-binding protein
+987479	1.29E-06	0.3760865	-	hypothetical protein
+2056484	1.32E-06	1.563809	gpsA	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+468238	1.35E-06	2.294248	blpB	ABC transporter
+2047263	1.48E-06	0.1421807	argS	arginyl-tRNA synthetase
+337436	1.53E-06	4.839227	-	hypothetical protein
+984667	1.53E-06	1.807742	intergenic	n/a
+1947104	1.55E-06	0.5528318	ksgA	dimethyladenosine transferase
+1652284	1.55E-06	Inf	-	hypothetical protein
+121035	1.56E-06	0.4293497	-	hypothetical protein
+1451017	1.56E-06	0.5852302	murE	UDP-N-acetylmuramoylalanyl-D-glutamate--L-lysine ligase
+1338950	1.59E-06	0.7635819	-	NOL1/NOP2/sun family protein
+504693	1.59E-06	1.142992	pheS	phenylalanyl-tRNA synthetase subunit alpha
+2018057	1.60E-06	1.13442	tgt	queuine tRNA-ribosyltransferase
+1046125	1.64E-06	1.845436	pdhA	pyruvate dehydrogenase E1 component,alpha subunit
+1937966	1.65E-06	0.4798086	-	OxaA-like protein precursor
+193953	1.68E-06	4.491638	intergenic	n/a
+2056249	1.71E-06	1.682939	intergenic	n/a
+1336763	1.74E-06	0.6166825	-	phosphate ABC transporter permease
+299406	1.79E-06	Inf	-	hypothetical protein
+1040102	1.80E-06	4.175438	xerS	site-specific tyrosine recombinase XerS
+520061	1.81E-06	1.535557	-	leucine-rich protein
+1885700	1.87E-06	1.345922	intergenic	n/a
+164725	1.90E-06	0.6462268	mutL	DNA mismatch repair protein
+1874025	1.91E-06	1.714095	-	RNA methyltransferase
+185490	1.92E-06	0.8417358	-	hypothetical protein
+210391	1.97E-06	1.131945	-	ATP-binding component of ABC transporter
+923213	1.97E-06	0.5805751	-	regulatory protein
+923234	1.97E-06	0.6029293	intergenic	n/a
+1888961	1.98E-06	2.013012	intergenic	n/a
+1389111	1.99E-06	4.094584	-	hemolysin-III-like membrane protein
+753024	2.02E-06	0.1416828	parE	DNA topoisomerase IV subunit B
+582039	2.02E-06	0.9161002	-	sodium hydrogen exchange transporter
+771183	2.03E-06	Inf	sufB	FeS assembly protein SufB
+1977894	2.03E-06	Inf	-	puttaive FtsX-family transport protein
+647256	2.03E-06	Inf	spxB	pyruvate oxidase
+213945	2.06E-06	1.373666	-	DeoR family regulatory protein
+1303415	2.06E-06	0.5410685	-	glycosyl transferase
+1302717	2.10E-06	0.7846472	-	glycosyl transferase
+1612432	2.11E-06	2.685621	penA	penicillin-binding protein 2b
+1624741	2.24E-06	1.489936	-	N-acetylmannosamine-6-phosphate 2-epimerase
+1997587	2.25E-06	2.03965	intergenic	n/a
+1306486	2.27E-06	0.4490095	-	cell envelope-related transcriptional attenuator domain protein
+2013770	2.35E-06	0.04180109	intergenic	n/a
+746002	2.38E-06	0.1883379	-	lipoprotein
+739936	2.38E-06	0.1776049	-	topology modulation protein
+1411392	2.38E-06	0.1883379	intergenic	n/a
+36380	2.38E-06	0.1883379	intergenic	n/a
+547500	2.39E-06	14.10117	-	extracellular solute-binding protein
+1392689	2.41E-06	0.3201858	-	ApbE family protein
+2166494	2.41E-06	1.030098	intergenic	n/a
+2198571	2.42E-06	0.5805751	-	cobalt transport protein
+1798575	2.42E-06	0.1776049	intergenic	n/a
+1816699	2.47E-06	1.012423	galR	galactose operon repressor
+1129529	2.49E-06	3.036863	-	CutC family protein
+677304	2.52E-06	1.120045	-	hypothetical protein
+714977	2.54E-06	1.029348	-	bifunctional ATP-dependent DNA helicase/DNA polymerase III subunit epsilon
+977785	2.57E-06	0.252568	-	hypothetical protein
+1097206	2.59E-06	0.549674	mutY	A/G-specific adenine glycosylase
+1802841	2.71E-06	1.491851	-	ABC transporter ATP-binding protein/permease
+283803	2.71E-06	2.960112	ugl	unsaturated glucuronyl hydrolase
+1063439	2.75E-06	0.3044612	lacR1	lactose phosphotransferase system repressor 1
+583422	2.75E-06	2.291237	-	sodium hydrogen exchange transporter
+1362837	2.78E-06	0.3044612	-	DNA modification methylase
+1376200	2.78E-06	0.3201858	-	GntR family transcriptional regulator
+1107850	2.85E-06	3.304403	-	CAAX amino terminal protease family protein
+1107556	2.85E-06	3.304403	-	CAAX amino terminal protease family protein
+1050001	2.86E-06	0.6266539	mutX	mutator MutX protein (7,8-dihydro-8-oxoguanine-triphosphatase)
+1064333	2.96E-06	0.08394175	lacG2	6-phospho-beta-galactosidase
+1063976	2.96E-06	0.08566897	lacG2	6-phospho-beta-galactosidase
+1064357	2.96E-06	0.08566897	lacG2	6-phospho-beta-galactosidase
+206805	3.01E-06	0.2794007	-	hypothetical protein
+1049887	3.16E-06	0.2073334	mutX	mutator MutX protein (7,8-dihydro-8-oxoguanine-triphosphatase)
+1889707	3.23E-06	0.6418872	ply	pneumolysin (thiol-activated cytolysin)
+670714	3.25E-06	0.2670166	-	helicase
+145357	3.25E-06	0.0874626	-	hypothetical protein
+1058071	3.25E-06	0.2670166	pstI	phosphoenolpyruvate-protein phosphotransferase
+929459	3.25E-06	0.2395637	intergenic	n/a
+164266	3.38E-06	0.3184472	mutL	DNA mismatch repair protein
+699275	3.40E-06	Inf	metG	methionyl-tRNA synthetase
+1531915	3.49E-06	11.26552	clpX	ATP-dependent protease ATP-binding subunit ClpX
+1562326	3.51E-06	1.616004	-	FAD dependent oxidoreductase
+612686	3.60E-06	0.252568	-	BipA family GTPase
+1570302	3.60E-06	0.6197318	intergenic	n/a
+623118	3.65E-06	0.9049224	-	hypothetical protein
+2035501	3.70E-06	1.636433	gltX	glutamyl-tRNA synthetase
+835851	3.83E-06	0.6075809	cbpE	choline binding protein E
+10754	3.84E-06	2.097941	-	ATP-binding PP-loop family protein
+2218165	3.85E-06	2.215521	-	sensor histidine kinase
+2220151	3.85E-06	2.363923	htrA	serine protease
+1100088	4.03E-06	4.917619	fhs1	formate--tetrahydrofolate ligase
+542188	4.08E-06	0.4728911	murN	peptidoglycan branched peptide synthesis protein
+1019663	4.12E-06	0	addA	ATP-dependent exonuclease subunit A
+1526964	4.13E-06	0.5137775	-	hypothetical protein
+631399	4.17E-06	1.492899	lctO	L-lactate oxidase
+1740879	4.18E-06	0.470952	-	oligopeptidase
+1930808	4.55E-06	1.893776	epuA	competence associated protein
+1105341	4.68E-06	0.430271	uvrB	excinuclease ABC subunit B
+816852	4.83E-06	1.296651	intergenic	n/a
+698598	4.98E-06	Inf	metG	methionyl-tRNA synthetase
+1128909	5.02E-06	10.19977	-	hypothetical protein
+394608	5.27E-06	2.334814	intergenic	n/a
+1304791	5.29E-06	Inf	-	LicD-family phosphotransferase
+174077	5.31E-06	Inf	-	CorA-like Mg2+ transporter protein
+282022	5.34E-06	28.83533	idnO	gluconate 5-dehydrogenase
+540370	5.36E-06	1.562182	-	esterase
+1042919	5.43E-06	1.359734	acoL	dihydrolipoamide dehydrogenase
+286441	5.46E-06	2.794281	-	hypothetical protein
+718942	5.48E-06	0.7773327	gyrB	DNA gyrase subunit B
+955796	5.57E-06	0.9339467	ppc	phosphoenolpyruvate carboxylase
+74947	5.65E-06	1.306153	-	beta-galactosidase
+737188	5.67E-06	0.7633284	intergenic	n/a
+1965280	5.69E-06	2.098734	intergenic	n/a
+813891	5.74E-06	1.164577	-	transcription accessory protein
+2063464	5.81E-06	0.9009354	pbp1B	penicillin-binding protein 1B
+53590	5.82E-06	0.9688576	-	phosphoribosylformylglycinamidine synthase protein
+1403388	5.88E-06	0.3830718	-	oxidoreductase
+43746	5.89E-06	0.3735983	-	aromatic amino acid aminotransferase
+1375957	5.90E-06	0.4546251	-	GntR family transcriptional regulator
+174706	5.98E-06	Inf	intergenic	n/a
+1148605	6.00E-06	3.003902	pyrB	aspartate carbamoyltransferase catalytic subunit
+8101	6.00E-06	12.67068	trcF	transcription-repair coupling factor
+449868	6.23E-06	1.597055	-	type I restriction-modification system M protein
+2025149	6.26E-06	0.3340778	-	threonine synthase
+269735	6.54E-06	0.8928992	rplM	50S ribosomal protein L13
+1534473	6.61E-06	0.09394115	-	exported choline-binding glycosyl hydrolase
+155085	6.64E-06	0.2470158	-	ABC transporter system permease protein
+268569	6.68E-06	0.2300435	-	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+1658989	6.72E-06	0.8188697	-	hypothetical protein
+1863420	6.76E-06	0.2151016	msmR	AraC family transcriptional regulator
+618540	6.78E-06	0.6405993	murG	UDP diphospho-muramoyl pentapeptide beta-N acetylglucosaminyl transferase
+601877	6.83E-06	2.131411	glkA	glucokinase
+664175	6.84E-06	0.5655647	-	hypothetical protein
+1578781	6.92E-06	20.75798	scaR	metal-dependent transcriptional regulator
+1307013	6.94E-06	2.225497	pheA	prephenate dehydratase
+2125299	6.95E-06	3.068817	arcB	ornithine carbamoyltransferase
+1682284	7.05E-06	1.219393	gmk	guanylate kinase
+1297752	7.06E-06	2.634171	hom	homoserine dehydrogenase
+229846	7.08E-06	1.574613	uppS	UDP pyrophosphate synthase
+629718	7.14E-06	2.251026	lysS	lysyl-tRNA synthetase
+262993	7.15E-06	20.14179	-	permease
+657710	7.20E-06	0.4656908	clpP	ATP-dependent Clp protease proteolytic subunit
+696455	7.28E-06	2.749939	-	permease
+1588458	7.36E-06	0.5327963	mtsC	metal cation ABC transporter membrane protein
+539186	7.45E-06	0.9180145	-	metallo-beta-lactamase superfamily protein
+1616485	7.57E-06	2.296416	nanH	N-acetylneuraminate lyase
+522904	7.62E-06	2.037051	-	hypothetical protein
+817322	7.63E-06	1.24397	-	ABC transporter ATP-binding protein
+1302126	7.76E-06	0.5737893	-	glycosyl transferase
+1484072	7.77E-06	0.5939634	glmM	phosphoglucosamine mutase
+1665214	7.78E-06	0.7103909	scrA	sucrose-specific phosphotransferase system (PTS), IIABC component
+101705	7.85E-06	9.378769	-	hypothetical protein
+292059	7.90E-06	0.179838	pbpX	penicillin binding protein 2x
+1588197	7.97E-06	0.5374331	mtsC	metal cation ABC transporter membrane protein
+1613770	8.01E-06	4.486245	penA	penicillin-binding protein 2b
+337904	8.32E-06	Inf	-	hypothetical protein
+564042	8.32E-06	Inf	-	surface-anchored serine protease
+351599	8.47E-06	0.2797865	intergenic	n/a
+1402890	8.54E-06	0.3201858	-	hypothetical protein
+2064067	8.54E-06	0.6896226	pbp1B	penicillin-binding protein 1B
+236465	8.60E-06	0.4872445	glmS	glucosamine--fructose-6-phosphate aminotransferase
+657937	8.62E-06	1.745697	clpP	ATP-dependent Clp protease proteolytic subunit
+42006	8.68E-06	0.252568	-	CoA-binding protein
+45053	8.68E-06	0.2395637	recO	DNA repair protein RecO
+2133126	8.69E-06	0	-	alcohol dehydrogenase
+1019432	8.69E-06	0.8830622	addA	ATP-dependent exonuclease subunit A
+804344	8.70E-06	23.62041	pfk	6-phosphofructokinase
+248615	8.70E-06	23.62041	polC	DNA polymerase III PolC
+2148796	8.70E-06	1.596932	adcA	zinc-binding protein AdcA precursor
+1823009	8.95E-06	0.3994474	-	glycine/betaine ABC transporter
+210184	8.98E-06	0.8922223	-	ABC transporter permease
+811400	9.23E-06	1.954129	-	hypothetical protein
+696933	9.57E-06	0.6583096	-	permease
+579278	9.65E-06	0.1604466	-	hypothetical protein
+1052201	9.68E-06	2.870402	-	haloacid dehalogenase-like hydrolase
+1414698	9.84E-06	0.5560216	-	hypothetical protein
+224288	9.94E-06	1.824555	leuS	leucyl-tRNA synthetase
+213470	1.00E-05	0.1943853	-	pyruvate formate-lyase activating enzyme
+676581	1.01E-05	0.745303	sodA	superoxide dismutase
+2185318	1.03E-05	1.379476	rplI	50S ribosomal protein L9
+987452	1.05E-05	0.3700809	-	hypothetical protein
+1688922	1.06E-05	0	-	methyltransferase
+903463	1.07E-05	0.6671795	intergenic	n/a
+1161567	1.08E-05	7.070842	-	phosphohydrolase
+1161590	1.08E-05	7.070842	-	phosphohydrolase
+299173	1.09E-05	0.2171005	intergenic	n/a
+878646	1.10E-05	6.150326	-	O-methyltransferase
+1555235	1.12E-05	41.23733	-	Major Facilitator Superfamily protein
+2118019	1.14E-05	4.566634	-	hypothetical protein
+882504	1.14E-05	1.888871	-	hypothetical protein
+814194	1.14E-05	1.179894	-	transcription accessory protein
+760274	1.15E-05	0.6188614	-	hypothetical protein
+818358	1.16E-05	1.254666	-	ABC transporter permease
+533421	1.22E-05	1.754179	-	amino acid ABC transporter permease
+2019688	1.22E-05	0.7947531	-	pyrrolidone-carboxylate peptidase
+1634458	1.27E-05	0.78371	nanA	sialidase A (neuraminidase A)
+1443359	1.28E-05	1.640502	-	cystathionine gamma-synthase
+1972324	1.29E-05	3.704534	intergenic	n/a
+216595	1.30E-05	0.106799	-	sugar phosphotransferase system (PTS), IIC component
+384239	1.32E-05	9.607721	fabF	3-oxoacyl-(acyl carrier protein) synthase II
+1922928	1.34E-05	2.061745	rpoC	DNA-directed RNA polymerase subunit beta'
+608803	1.36E-05	1.218615	-	LysR family transcriptional regulator
+51832	1.40E-05	1.745567	-	bacteriocin transport accessory protein
+1760836	1.40E-05	0.4851626	-	Mga-like regulatory protein
+1591171	1.41E-05	0.5629188	-	ABC transporter permease
+1589150	1.41E-05	0.551475	mtsA	metal ABC transporter substrate-binding lipoprotein precursor
+808850	1.42E-05	0.7412861	-	lipoprotein
+285823	1.43E-05	Inf	agaD	N-acetylgalactosamine-specific phosphotransferase system (PTS), IID component
+1664951	1.43E-05	2.441662	scrA	sucrose-specific phosphotransferase system (PTS), IIABC component
+257927	1.44E-05	0.3505433	manN	mannose-specific phosphotransferase system (PTS), IID component
+2206021	1.44E-05	0.5595651	recF	recombination protein F
+1360494	1.47E-05	2.378933	-	peptidase
+685097	1.49E-05	0.4514177	-	hypothetical protein
+174788	1.50E-05	0.2663744	intergenic	n/a
+88222	1.50E-05	1.461695	intergenic	n/a
+848693	1.54E-05	0.8599421	-	hypothetical protein
+52468	1.54E-05	1.309605	purC	phosphoribosylaminoimidazole-succinocarboxamide synthase
+1105025	1.57E-05	1.541371	-	hypothetical protein
+1302561	1.59E-05	0.4394037	-	glycosyl transferase
+738120	1.61E-05	12.60129	intergenic	n/a
+1302678	1.67E-05	2.910796	-	glycosyl transferase
+1302654	1.67E-05	2.910796	-	glycosyl transferase
+1302969	1.67E-05	2.66427	-	glycosyl transferase
+1304008	1.67E-05	2.910796	-	glycosyl transferase
+1302813	1.67E-05	2.910796	-	glycosyl transferase
+1302957	1.67E-05	2.910796	-	glycosyl transferase
+1302888	1.67E-05	3.071983	-	glycosyl transferase
+1303429	1.67E-05	2.910796	-	glycosyl transferase
+1303978	1.67E-05	3.071983	-	glycosyl transferase
+1303387	1.67E-05	2.910796	-	glycosyl transferase
+1303594	1.67E-05	2.910796	-	glycosyl transferase
+1304020	1.67E-05	2.910796	-	glycosyl transferase
+1303695	1.67E-05	3.234022	-	glycosyl transferase
+523918	1.69E-05	8.243485	-	ABC transporter permease
+666366	1.69E-05	8.243485	ftsX	cell division protein
+590928	1.69E-05	8.243485	-	hypothetical protein
+1050227	1.69E-05	8.243485	mutX	mutator MutX protein (7,8-dihydro-8-oxoguanine-triphosphatase)
+1093796	1.69E-05	0.123611	-	plasmid addiction system, toxin protein
+1676420	1.69E-05	8.243485	-	protein phosphatase
+1067909	1.69E-05	8.243485	lacT2	transcription antiterminator LacT 2
+1638918	1.69E-05	8.243485	intergenic	n/a
+1294025	1.71E-05	0.6070578	-	ABC transporter ATP-binding protein
+1563171	1.80E-05	0.3996632	-	NIF3 (NGG1p interacting factor 3) family protein
+1563158	1.80E-05	0.3996632	-	NIF3 (NGG1p interacting factor 3) family protein
+527260	1.81E-05	0.3193665	intergenic	n/a
+702245	1.84E-05	0.2103184	-	hypothetical protein
+480942	1.86E-05	0.4936756	infB	translation initiation factor IF-2
+1458451	1.92E-05	1.757377	asnC	asparaginyl-tRNA synthetase
+1081800	1.92E-05	2.04976	xseA	exodeoxyribonuclease VII large subunit
+1750043	1.94E-05	0.5209855	-	phage-like protein
+1683922	1.96E-05	1.18597	-	hypothetical protein
+2117898	1.99E-05	3.304403	-	glycosyl hydrolase
+811304	2.01E-05	1.407246	-	hypothetical protein
+1740486	2.01E-05	3.071091	-	oligopeptidase
+292431	2.01E-05	2.707238	pbpX	penicillin binding protein 2x
+678004	2.05E-05	1.340095	-	radical SAM superfamily protein
+171967	2.08E-05	0	-	carboxypeptidase
+175551	2.10E-05	Inf	uvrA	excinuclease ABC subunit A
+666076	2.14E-05	1.413294	ftsE	cell division ATP-binding protein
+1425130	2.15E-05	0.4483625	atpD	F0F1 ATP synthase subunit beta
+2134724	2.15E-05	1.137875	fucI	L-fucose isomerase
+508227	2.15E-05	0.930993	pheT	phenylalanyl-tRNA synthetase subunit beta
+796421	2.19E-05	0.3858279	-	type I restriction modification system restriction protein
+53728	2.22E-05	0.9569321	-	phosphoribosylformylglycinamidine synthase protein
+1554784	2.23E-05	0.9649695	truA	tRNA pseudouridine synthase A
+663336	2.24E-05	3.518014	intergenic	n/a
+1922511	2.31E-05	0.2642724	rpoC	DNA-directed RNA polymerase subunit beta'
+267119	2.31E-05	14.43469	folE	GTP cyclohydrolase I
+430000	2.32E-05	Inf	-	hypothetical protein
+202784	2.36E-05	0.3996632	adk	adenylate kinase
+1090566	2.36E-05	4.769558	gyrA	DNA gyrase subunit A
+1977314	2.39E-05	2.911357	plr	glyceraldehyde-3-phosphate dehydrogenase, plasmin receptor
+1887735	2.39E-05	1.430568	-	MarR family transcriptional regulator
+2152379	2.40E-05	0.4382879	dltD	D-alanyl-lipoteichoic acid biosynthesis protein
+197749	2.41E-05	0.4294177	rpsN	30S ribosomal protein S14
+172778	2.42E-05	4.67177	intergenic	n/a
+1590162	2.50E-05	2.997156	tpx	thiol peroxidase
+684484	2.50E-05	0.2238473	intergenic	n/a
+445182	2.62E-05	3.912394	intergenic	n/a
+619419	2.63E-05	0.9656069	divIB	cell division protein DivIB/FtsQ
+1928581	2.64E-05	0.6161046	-	transport protein
+93660	2.65E-05	0.6349559	intergenic	n/a
+686694	2.67E-05	0.1572121	trmD	tRNA (guanine-N(1)-)-methyltransferase
+1348140	2.70E-05	2.910796	nagB	glucosamine-6-phosphate isomerase
+2118052	2.72E-05	3.304403	-	hypothetical protein
+296784	2.73E-05	0.1825415	clpL	ATP-dependent protease ATP-binding subunit ClpL
+1471326	2.75E-05	1.325434	-	hypothetical protein
+904590	2.76E-05	3.029972	pepT	peptidase T
+392270	2.87E-05	4.653905	gatB	aspartyl/glutamyl-tRNA amidotransferase subunit B
+392249	2.87E-05	4.653905	gatB	aspartyl/glutamyl-tRNA amidotransferase subunit B
+727547	2.87E-05	2.61808	clpE	ATP-dependent Clp protease ATP-binding subunit
+1535764	2.96E-05	2.394459	tpiA	triosephosphate isomerase
+1952085	2.98E-05	0.5894418	-	hypothetical protein
+1952646	2.98E-05	0.5894418	-	TatD related DNase
+1574567	3.02E-05	5.025554	-	response regulator protein
+1688868	3.05E-05	0.5730469	-	methyltransferase
+671220	3.06E-05	1.562096	-	helicase
+1889195	3.10E-05	1.652607	intergenic	n/a
+1974247	3.13E-05	1.346222	pbp2A	penicillin-binding protein 2a
+1303318	3.15E-05	0.4438464	-	glycosyl transferase
+1136762	3.18E-05	0.6691272	-	LicB-family membrane protein
+894385	3.19E-05	0	-	amino acid permease
+487809	3.19E-05	0	-	hypothetical protein
+895928	3.19E-05	0	lmb	laminin binding protein
+483310	3.19E-05	0	intergenic	n/a
+1126147	3.25E-05	0.4992039	-	hypothetical protein
+2089539	3.25E-05	0.620143	-	hypothetical protein
+452266	3.28E-05	0.09163987	-	type I restriction-modification system R protein
+451383	3.33E-05	1.92557	-	type I restriction-modification system R protein
+891262	3.45E-05	0.6013482	-	hypothetical protein
+227887	3.48E-05	1.181446	ruvB	Holliday junction DNA helicase RuvB
+867422	3.58E-05	1.955616	dgk	diacylglycerol kinase
+505215	3.64E-05	1.150483	pheS	phenylalanyl-tRNA synthetase subunit alpha
+402081	3.69E-05	0.2424236	ilvC	ketol-acid reductoisomerase
+1361275	3.71E-05	2.021656	intergenic	n/a
+1612116	3.73E-05	Inf	recR	recombination protein RecR
+366180	3.76E-05	1.959854	spi	signal peptidase I
+987769	3.78E-05	0.3887275	intergenic	n/a
+2175784	3.78E-05	2.092556	intergenic	n/a
+1574202	3.82E-05	1.305185	-	sensor histidine kinase protein
+1945874	3.83E-05	1.460636	engC	ribosome-associated GTPase
+1574286	3.84E-05	1.426455	-	sensor histidine kinase protein
+487562	3.88E-05	Inf	-	hypothetical protein
+1168809	3.91E-05	2.750457	gdh	glutamate dehydrogenase
+707998	3.91E-05	2.750457	pepN	lysyl-aminopeptidase
+1774218	3.92E-05	2.83792	-	GNAT family acetyltransferase
+685173	3.97E-05	2.312407	-	hypothetical protein
+1344615	4.01E-05	0.3629452	hemN	coproporphyrinogen III oxidase
+671874	4.01E-05	1.771353	-	helicase
+294220	4.08E-05	0.2248098	mraY	phospho-N-acetylmuramoyl-pentapeptide-transferase
+1151212	4.09E-05	0.4229726	intergenic	n/a
+339222	4.12E-05	0.8554028	gnd	6-phosphogluconate dehydrogenase
+817992	4.26E-05	20.75798	-	ABC transporter permease
+522779	4.26E-05	1.995271	-	hypothetical protein
+1678723	4.27E-05	0.5469735	fmt	methionyl-tRNA formyltransferase
+1829503	4.30E-05	4.566634	-	iron compound ABC transporter permease
+2089550	4.38E-05	0.6480562	-	hypothetical protein
+515351	4.42E-05	0.9767618	pnpA	polynucleotide phosphorylase/polyadenylase
+77727	4.44E-05	1.641419	-	sugar phosphotransferase system (PTS),mannose/fructose/sorbose family, IID component
+292079	4.50E-05	29.24547	pbpX	penicillin binding protein 2x
+1642155	4.61E-05	0.5102974	alr	alanine racemase
+1948982	4.67E-05	0.5595651	-	hypothetical protein
+527410	4.71E-05	1.351714	intergenic	n/a
+818299	4.72E-05	1.345841	-	ABC transporter permease
+702367	4.73E-05	0.5656172	-	hypothetical protein
+1972549	4.73E-05	1.310206	nusG	transcription antitermination protein NusG
+272167	4.74E-05	18.01914	-	glycosylhydrolase
+202351	4.74E-05	0.5067843	intergenic	n/a
+605117	4.78E-05	0.7208847	-	GTPase
+189590	4.80E-05	1.577298	nrdG	anaerobic ribonucleoside-triphosphate reductase activating protein
+1681362	4.80E-05	0.6531251	priA	primosome assembly protein PriA
+2040720	4.81E-05	0	-	ABC transporter ATP-binding protein
+426040	4.81E-05	Inf	-	ABC transporter ATP-binding protein
+291636	4.81E-05	Inf	ftsL	cell division protein
+1427204	4.81E-05	Inf	atpG	F0F1 ATP synthase subunit gamma
+534213	4.81E-05	Inf	-	glutamine-binding protein precursor
+104786	4.81E-05	Inf	-	glycosyl transferase
+966467	4.81E-05	Inf	obgE	GTPase ObgE
+1357004	4.81E-05	1.511243	-	hypothetical protein
+760443	4.81E-05	Inf	-	hypothetical protein
+1357015	4.81E-05	Inf	-	hypothetical protein
+1618160	4.81E-05	Inf	-	hypothetical protein
+1617672	4.81E-05	Inf	-	hypothetical protein
+643844	4.81E-05	0	-	metal transporting P-type ATPase
+295030	4.81E-05	Inf	mraY	phospho-N-acetylmuramoyl-pentapeptide-transferase
+427176	4.81E-05	Inf	-	transport protein
+426741	4.81E-05	Inf	-	transport protein
+427231	4.81E-05	Inf	-	transport protein
+427297	4.81E-05	Inf	-	transport protein
+1620771	4.81E-05	Inf	-	transport system permease
+1620528	4.81E-05	Inf	-	transport system permease
+1619940	4.81E-05	Inf	-	transport system permease
+529021	4.81E-05	Inf	-	two-component system, sensor histidine kinase
+529574	4.81E-05	Inf	intergenic	n/a
+1411723	4.81E-05	1.012218	intergenic	n/a
+671298	4.90E-05	1.171888	-	helicase
+629968	4.90E-05	0.1077527	lysS	lysyl-tRNA synthetase
+2100503	4.95E-05	2.422107	-	transketolase subunit
+1161924	5.00E-05	6.476046	-	phosphohydrolase
+1626253	5.05E-05	5.592254	-	oxidoreductase
+2056416	5.12E-05	0.5572755	gpsA	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+2206390	5.22E-05	0.6121373	intergenic	n/a
+755338	5.23E-05	0	parC	DNA topoisomerase IV subunit A
+1687636	5.31E-05	0.6316616	-	hypothetical protein
+1163775	5.41E-05	1.397694	rplS	50S ribosomal protein L19
+1677548	5.43E-05	1.021581	-	ribosomal RNA small subunit methyltransferase
+636769	5.46E-05	0.9092897	-	ABC transporter ATP-binding protein
+702456	5.65E-05	3.174212	fabG	3-ketoacyl-ACP reductase
+76580	5.87E-05	10.33322	-	sugar phosphotransferase system (PTS), sorbose subfamily, IIB component
+667727	5.90E-05	0.5549201	-	glucose-specific phosphotransferase system (PTS), IIABC component
+283761	5.90E-05	18.18987	ugl	unsaturated glucuronyl hydrolase
+679416	6.02E-05	0.4340943	-	ABC transporter ATP-binding protein
+1302404	6.03E-05	0.4097875	-	glycosyl transferase
+2201138	6.21E-05	0.2670166	pgsA	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+1679135	6.30E-05	1.05667	fmt	methionyl-tRNA formyltransferase
+172093	6.33E-05	0.9917414	-	carboxypeptidase
+400131	6.38E-05	0.6787655	alsS	acetolactate synthase catalytic subunit
+518951	6.52E-05	0.6247201	cysS	cysteinyl-tRNA synthetase
+736542	6.63E-05	5.532869	intergenic	n/a
+502240	6.74E-05	1.552405	-	beta-glucoside-specific phosphotransferase system (PTS), IIABC component
+1079216	6.88E-05	0.5282549	-	hemolysin-like protein
+1472816	7.15E-05	1.248086	fms	peptide deformylase
+507330	7.16E-05	1.122921	pheT	phenylalanyl-tRNA synthetase subunit beta
+801853	7.34E-05	3.043384	dnaE	DNA polymerase III DnaE
+872209	7.48E-05	0.6354101	rnr	exoribonuclease R
+1579951	7.50E-05	0.7432198	-	hypothetical protein
+1974475	7.52E-05	1.270362	pbp2A	penicillin-binding protein 2a
+1298719	7.55E-05	0.410146	mecA	adaptor protein
+385397	7.62E-05	7.640721	fabZ	(3R)-hydroxymyristoyl-ACP dehydratase
+175893	7.62E-05	1.789163	uvrA	excinuclease ABC subunit A
+618481	7.63E-05	0.8344755	murG	UDP diphospho-muramoyl pentapeptide beta-N acetylglucosaminyl transferase
+227386	7.69E-05	0.1776049	intergenic	n/a
+1948033	7.78E-05	1.015565	-	ABC transporter ATP-binding protein
+1947970	7.94E-05	0.9775772	-	ABC transporter ATP-binding protein
+399455	8.00E-05	2.455659	-	phosphatase
+1105243	8.07E-05	2.651213	-	hypothetical protein
+185944	8.11E-05	0.2840978	-	hypothetical protein
+1880585	8.26E-05	1.527968	-	NADP-dependent L-serine/L-allo-threonine dehydrogenase
+986960	8.27E-05	0.6901682	-	hypothetical protein
+2105840	8.51E-05	0.1804566	-	hypothetical protein
+281911	8.52E-05	20.04534	idnO	gluconate 5-dehydrogenase
+281161	8.52E-05	20.04534	-	hypothetical protein
+281398	8.52E-05	20.04534	intergenic	n/a
+810393	8.54E-05	0.6325725	-	hypothetical protein
+1670083	8.56E-05	1.974266	mvaA	3-hydroxy-3-methylglutaryl-coenzyme A reductase
+1550719	8.68E-05	Inf	pepQ	Xaa-Pro dipeptidase
+1550833	8.68E-05	Inf	pepQ	Xaa-Pro dipeptidase
+1551049	8.68E-05	Inf	pepQ	Xaa-Pro dipeptidase
+283202	8.73E-05	22.73047	ugl	unsaturated glucuronyl hydrolase
+202936	8.75E-05	0.2967213	adk	adenylate kinase
+281746	9.00E-05	20.04534	idnO	gluconate 5-dehydrogenase
+173340	9.00E-05	Inf	-	hypothetical protein
+2080305	9.04E-05	2.43523	malA	maltodextrose utilization protein MalA
+1022898	9.06E-05	0.6121373	-	hypothetical protein
+783861	9.09E-05	2.280175	-	cysteine desulfhydrase
+2090394	9.13E-05	2.143917	hisS	histidyl-tRNA synthetase
+537485	9.13E-05	0.9558875	-	phosphoesterase
+1308117	9.14E-05	Inf	aroA	3-phosphoshikimate 1-carboxyvinyltransferase
+1343556	9.14E-05	Inf	-	acyl-ACP thioesterase
+202596	9.14E-05	0.3149432	adk	adenylate kinase
+188122	9.14E-05	Inf	nrdD	anaerobic ribonucleoside triphosphate reductase
+1544030	9.14E-05	Inf	-	DEAD/DEAH box helicase
+1077722	9.14E-05	Inf	recN	DNA repair protein
+2121642	9.14E-05	Inf	-	fucosidase
+276519	9.14E-05	Inf	-	hyaluronate lyase
+1345498	9.14E-05	Inf	-	hypothetical protein
+280771	9.14E-05	Inf	-	hypothetical protein
+280947	9.14E-05	Inf	-	hypothetical protein
+1553073	9.14E-05	Inf	-	hypothetical protein
+579296	9.14E-05	Inf	-	hypothetical protein
+1542062	9.14E-05	Inf	-	isochorismatase family protein
+1680234	9.14E-05	3.334552	priA	primosome assembly protein PriA
+1542711	9.14E-05	Inf	codY	transcriptional repressor CodY
+1550749	9.14E-05	Inf	pepQ	Xaa-Pro dipeptidase
+1550773	9.14E-05	Inf	pepQ	Xaa-Pro dipeptidase
+911250	9.14E-05	Inf	intergenic	n/a
+2119358	9.14E-05	Inf	intergenic	n/a
+1136656	9.36E-05	0.6585893	-	LicB-family membrane protein
+236453	9.44E-05	0.4781401	glmS	glucosamine--fructose-6-phosphate aminotransferase
+98655	9.47E-05	1.668472	-	hypothetical protein
+437696	9.65E-05	0.4390743	-	endo-beta-N-acetylglucosaminidase
+2124871	9.66E-05	0	arcA	arginine deiminase
+1987512	9.66E-05	0	intergenic	n/a
+1046915	9.84E-05	1.374551	-	multidrug resistance protein
+2152059	9.86E-05	1.099148	-	MarR family transcriptional regulator
+894949	0.0001	1.405672	-	amino acid permease
+1805405	0.0001005	0.6351092	-	hypothetical protein
+812029	0.0001012	0.6725599	-	permease
+904467	0.0001013	0.6320375	pepT	peptidase T
+92542	0.0001028	Inf	rpsD	30S ribosomal protein S4
+1671678	0.0001028	Inf	mvaS	3-hydroxy-3-methylglutaryl coenzyme A synthase
+988702	0.0001028	Inf	rpmA	50S ribosomal protein L27
+1064834	1.03E-04	52.86516	lacG2	6-phospho-beta-galactosidase
+1064804	0.0001028	Inf	lacG2	6-phospho-beta-galactosidase
+1291736	0.0001028	Inf	-	ABC transporter ATP-binding protein
+1628927	0.0001028	Inf	-	ABC transporter permease
+1435098	0.0001028	Inf	-	aminodeoxychorismate lyase
+1434998	0.0001028	Inf	-	aminodeoxychorismate lyase
+1434961	0.0001028	Inf	-	aminodeoxychorismate lyase
+1434758	1.03E-04	Inf	-	aminodeoxychorismate lyase
+1434425	0.0001028	Inf	-	aminodeoxychorismate lyase
+1434179	0.0001028	Inf	-	aminodeoxychorismate lyase
+1433912	0.0001028	Inf	-	aminodeoxychorismate lyase
+1433744	0.0001028	Inf	-	aminodeoxychorismate lyase
+1433668	0.0001028	Inf	-	aminodeoxychorismate lyase
+1435203	0.0001028	Inf	-	aminodeoxychorismate lyase
+1442207	0.0001028	Inf	-	aminotransferase
+1148862	0.0001028	Inf	pyrB	aspartate carbamoyltransferase catalytic subunit
+210679	0.0001028	1.636186	-	ATP-binding component of ABC transporter
+1438305	0.0001028	Inf	-	ATP-binding protein
+1438111	0.0001028	Inf	-	ATP-binding protein
+1437871	0.0001028	Inf	-	ATP-binding protein
+727064	0.0001028	Inf	clpE	ATP-dependent Clp protease ATP-binding subunit
+974946	0.0001028	Inf	pcrA	ATP-dependent DNA helicase
+1020015	0.0001028	Inf	addA	ATP-dependent exonuclease subunit A
+1017078	0.0001028	Inf	addB	ATP-dependent exonuclease subunit B
+76101	0.0001028	Inf	-	beta-galactosidase
+235074	0.0001028	Inf	-	beta-glucosidase
+989858	0.0001028	Inf	ribC	bifunctional riboflavin kinase/FMN adenylyltransferase
+95009	0.0001028	Inf	-	binding-protein-dependent transport system membrane protein
+95255	0.0001028	Inf	-	binding-protein-dependent transport system membrane protein
+1787245	0.0001028	Inf	-	cation transporter
+2068515	0.0001028	Inf	-	cation transporting ATPase
+1602313	0.0001028	Inf	-	cell-division protein DivIVA
+1602061	0.0001028	Inf	-	cell-division protein DivIVA
+1602178	0.0001028	Inf	-	cell-division protein DivIVA
+1602271	0.0001028	Inf	-	cell-division protein DivIVA
+2220869	0.0001028	Inf	parB	chromosome partitioning protein ParB
+633199	0.0001028	Inf	-	coenzyme
+633111	0.0001028	0.5425908	-	coenzyme
+1930015	0.0001028	Inf	endA	competence associated endonuclease
+2010535	0.0001028	Inf	-	competence protein
+2011421	0.0001028	Inf	-	competence protein
+2011151	0.0001028	Inf	-	competence protein
+432895	0.0001028	Inf	pyrG	CTP synthetase
+1443255	0.0001028	Inf	-	cystathionine gamma-synthase
+1443282	0.0001028	Inf	-	cystathionine gamma-synthase
+1443072	0.0001028	Inf	-	cystathionine gamma-synthase
+1442910	0.0001028	Inf	-	cystathionine gamma-synthase
+1443137	0.0001028	Inf	-	cystathionine gamma-synthase
+1443705	0.0001028	Inf	-	cystathionine gamma-synthase
+1443654	0.0001028	Inf	-	cystathionine gamma-synthase
+2152607	0.0001028	Inf	dltD	D-alanyl-lipoteichoic acid biosynthesis protein
+910449	0.0001028	Inf	dapA	dihydrodipicolinate synthase
+548846	0.0001028	Inf	pepV	dipeptidase PepV
+40373	0.0001028	Inf	polA	DNA polymerase I
+800935	0.0001028	Inf	dnaE	DNA polymerase III DnaE
+413646	0.0001028	Inf	dinB	DNA polymerase IV
+1077566	0.0001028	Inf	recN	DNA repair protein
+1131717	0.0001028	Inf	topA	DNA topoisomerase I
+2167527	0.0001028	Inf	-	DNA-binding protein
+1921446	0.0001028	Inf	rpoC	DNA-directed RNA polymerase subunit beta'
+1581103	0.0001028	Inf	-	D-tyrosyl-tRNA(Tyr) deacylase
+864860	0.0001028	50.9523	lytB	endo-beta-N-acetylglucosaminidase
+864322	0.0001028	50.9523	lytB	endo-beta-N-acetylglucosaminidase
+1535239	0.0001028	Inf	-	exported choline-binding glycosyl hydrolase
+1332610	0.0001028	Inf	-	extracellular amino acid-binding protein
+1447378	0.0001028	Inf	-	extracellular oligopeptide-binding protein
+1447327	0.0001028	Inf	-	extracellular oligopeptide-binding protein
+1446169	0.0001028	Inf	-	extracellular oligopeptide-binding protein
+1429981	0.0001028	Inf	atpB	F0F1 ATP synthase subunit A
+1430744	0.0001028	Inf	atpE	F0F1 ATP synthase subunit C
+866533	0.0001028	45.27982	fbpS	fibronectin/fibrinogen-binding protein adherence and virulence protein A
+531022	1.03E-04	Inf	-	flavocytochrome
+2165986	0.0001028	Inf	glpK	glycerol kinase
+2165233	0.0001028	Inf	glpK	glycerol kinase
+2165104	0.0001028	Inf	glpK	glycerol kinase
+2165641	0.0001028	Inf	glpK	glycerol kinase
+2165608	0.0001028	Inf	glpK	glycerol kinase
+2165332	0.0001028	Inf	glpK	glycerol kinase
+2165311	0.0001028	Inf	glpK	glycerol kinase
+1008386	0.0001028	Inf	-	glycogen biosynthesis protein
+883879	0.0001028	Inf	-	glycosyl hydrolase
+964096	0.0001028	Inf	-	glycosyltransferase
+1396498	0.0001028	Inf	glyS	glycyl-tRNA synthetase subunit beta
+1551107	1.03E-04	Inf	-	GNAT family acetyltransferase
+1435744	0.0001028	Inf	-	GNAT family acetyltransferase
+1435588	0.0001028	Inf	-	GNAT family acetyltransferase
+1435573	0.0001028	Inf	-	GNAT family acetyltransferase
+1436174	0.0001028	Inf	-	GNAT family acetyltransferase. GNAT family acetyltransferase
+73395	0.0001028	Inf	-	GntR family transcriptional regulator
+1892070	0.0001028	Inf	-	hypothetical protein
+2009412	0.0001028	Inf	-	hypothetical protein
+2009350	0.0001028	Inf	-	hypothetical protein
+2009317	0.0001028	Inf	-	hypothetical protein
+2009049	0.0001028	Inf	-	hypothetical protein
+1452364	0.0001028	Inf	-	hypothetical protein
+1451794	0.0001028	Inf	-	hypothetical protein
+1451749	0.0001028	Inf	-	hypothetical protein
+1451709	0.0001028	Inf	-	hypothetical protein
+1451664	0.0001028	Inf	-	hypothetical protein
+1453818	0.0001028	Inf	-	hypothetical protein
+1453958	0.0001028	Inf	-	hypothetical protein
+1636677	0.0001028	Inf	-	hypothetical protein
+2006692	1.03E-04	Inf	-	hypothetical protein
+1329841	0.0001028	Inf	-	hypothetical protein
+1569983	0.0001028	Inf	-	hypothetical protein
+2012396	0.0001028	Inf	-	hypothetical protein
+1956459	0.0001028	Inf	-	hypothetical protein
+2007361	0.0001028	Inf	-	hypothetical protein
+2007241	0.0001028	Inf	-	hypothetical protein
+1602911	0.0001028	1.641065	-	hypothetical protein
+299315	0.0001028	Inf	-	hypothetical protein
+423812	0.0001028	Inf	-	hypothetical protein
+615097	0.0001028	Inf	-	hypothetical protein
+1683647	0.0001028	Inf	-	hypothetical protein
+2026175	0.0001028	Inf	-	hypothetical protein
+2026070	1.03E-04	Inf	-	hypothetical protein
+684240	0.0001028	Inf	-	hypothetical protein
+1150942	0.0001028	Inf	-	hypothetical protein
+1603209	0.0001028	1.406079	-	hypothetical protein
+615710	0.0001028	Inf	-	hypothetical protein
+1933149	0.0001028	Inf	-	hypothetical protein
+2027114	0.0001028	Inf	-	hypothetical protein
+1422488	0.0001028	Inf	-	hypothetical protein
+207073	0.0001028	Inf	-	hypothetical protein
+557591	0.0001028	Inf	-	hypothetical protein
+155867	0.0001028	Inf	-	hypothetical protein
+723653	0.0001028	Inf	-	hypothetical protein
+12061	0.0001028	Inf	hpt	hypoxanthine-guanine phosphoribosyltransferase
+1788640	0.0001028	Inf	-	inner membrane component of ABC transporter
+1067088	0.0001028	Inf	lacE2	lactose-specific phosphotransferase system (PTS), IIBC component 2
+2134388	0.0001028	Inf	fucI	L-fucose isomerase
+632059	0.0001028	Inf	lctO	L-lactate oxidase
+111118	0.0001028	Inf	sdhB	L-serine dehydratase, beta chain
+111618	0.0001028	Inf	sdhB	L-serine dehydratase, beta chain
+238254	0.0001028	Inf	-	luciferase-like monooxygenase
+238422	0.0001028	Inf	-	luciferase-like monooxygenase
+2078178	0.0001028	Inf	malC	maltose/maltodextrin ABC transport system permease protein
+1453157	0.0001028	Inf	ppaC	manganese-dependent inorganic pyrophosphatase
+1453355	0.0001028	Inf	ppaC	manganese-dependent inorganic pyrophosphatase
+1453601	0.0001028	Inf	ppaC	manganese-dependent inorganic pyrophosphatase
+1678600	0.0001028	Inf	fmt	methionyl-tRNA formyltransferase
+698564	0.0001028	Inf	metG	methionyl-tRNA synthetase
+870753	0.0001028	Inf	pmrA	multi-drug resistance efflux pump
+1741125	0.0001028	Inf	-	oligopeptidase
+1382451	0.0001028	Inf	def	peptide deformylase
+1295235	0.0001028	Inf	msrAB	peptide methionine sulfoxide reductase
+1142644	0.0001028	Inf	-	phosphotransferase LicD2
+515423	0.0001028	Inf	pnpA	polynucleotide phosphorylase/polyadenylase
+1141037	0.0001028	Inf	-	polysaccharide biosynthesis flippase
+1449119	0.0001028	Inf	-	polysaccharide biosynthesis protein
+1449078	0.0001028	Inf	-	polysaccharide biosynthesis protein
+1449015	0.0001028	Inf	-	polysaccharide biosynthesis protein
+1448760	1.03E-04	Inf	-	polysaccharide biosynthesis protein
+1448703	0.0001028	Inf	-	polysaccharide biosynthesis protein
+1448358	0.0001028	Inf	-	polysaccharide biosynthesis protein
+1448151	0.0001028	Inf	-	polysaccharide biosynthesis protein
+1310353	0.0001028	Inf	tyrA	prephenate dehydrogenase
+1654612	0.0001028	Inf	dnaI	primosomal protein DnaI
+233673	0.0001028	Inf	proS	prolyl-tRNA synthetase
+233973	0.0001028	Inf	proS	prolyl-tRNA synthetase
+233856	0.0001028	Inf	proS	prolyl-tRNA synthetase
+233721	0.0001028	Inf	proS	prolyl-tRNA synthetase
+233694	0.0001028	Inf	proS	prolyl-tRNA synthetase
+1001689	0.0001028	Inf	-	pullulanase
+90505	0.0001028	Inf	-	response regulator protein
+1678260	0.0001028	Inf	-	ribosomal RNA small subunit methyltransferase
+590345	0.0001028	Inf	-	sensor histidine kinase
+1096040	0.0001028	Inf	vicK	sensor histidine kinase
+1457565	0.0001028	Inf	ssb	single-stranded DNA-binding protein
+1441458	0.0001028	Inf	-	SNF-family helicase
+1440929	0.0001028	Inf	-	SNF-family helicase
+1438985	0.0001028	Inf	-	SNF-family helicase
+1438872	0.0001028	Inf	-	SNF-family helicase
+1438811	0.0001028	Inf	-	SNF-family helicase
+1438543	0.0001028	Inf	-	SNF-family helicase
+299092	0.0001028	3.580649	luxS	S-ribosylhomocysteinase
+1384337	0.0001028	Inf	-	thioredoxin reductase
+2025536	0.0001028	Inf	-	threonine synthase
+1067634	0.0001028	Inf	lacT2	transcription antiterminator LacT 2
+1433416	0.0001028	Inf	greA	transcription elongation factor GreA
+1433344	0.0001028	Inf	greA	transcription elongation factor GreA
+528488	0.0001028	Inf	-	two-component system, sensor histidine kinase
+229976	0.0001028	Inf	uppS	UDP pyrophosphate synthase
+1437698	0.0001028	Inf	murC	UDP-N-acetylmuramate--L-alanine ligase
+1437594	0.0001028	Inf	murC	UDP-N-acetylmuramate--L-alanine ligase
+1436844	0.0001028	Inf	murC	UDP-N-acetylmuramate--L-alanine ligase
+1436787	0.0001028	Inf	murC	UDP-N-acetylmuramate--L-alanine ligase
+1436430	0.0001028	Inf	murC	UDP-N-acetylmuramate--L-alanine ligase
+1450664	0.0001028	Inf	murE	UDP-N-acetylmuramoylalanyl-D-glutamate--L-lysine ligase
+1451012	0.0001028	Inf	murE	UDP-N-acetylmuramoylalanyl-D-glutamate--L-lysine ligase
+1450995	0.0001028	Inf	murE	UDP-N-acetylmuramoylalanyl-D-glutamate--L-lysine ligase
+1450766	0.0001028	Inf	murE	UDP-N-acetylmuramoylalanyl-D-glutamate--L-lysine ligase
+798496	0.0001028	Inf	pepXP	x-prolyl-dipeptidyl aminopeptidase
+2012936	1.03E-04	Inf	-	zinc-binding alcohol dehydrogenase
+2013293	0.0001028	Inf	-	zinc-binding alcohol dehydrogenase
+2013515	0.0001028	Inf	-	zinc-binding alcohol dehydrogenase
+2013527	0.0001028	Inf	-	zinc-binding alcohol dehydrogenase
+997478	0.0001028	Inf	intergenic	n/a
+1892464	0.0001028	Inf	intergenic	n/a
+1441519	0.0001028	Inf	intergenic	n/a
+1632666	0.0001028	Inf	intergenic	n/a
+1452728	0.0001028	Inf	intergenic	n/a
+2166430	1.03E-04	Inf	intergenic	n/a
+1636319	0.0001028	Inf	intergenic	n/a
+103814	0.0001028	3.462718	intergenic	n/a
+1448029	0.0001028	Inf	intergenic	n/a
+1388142	1.03E-04	Inf	intergenic	n/a
+1690156	0.0001028	Inf	intergenic	n/a
+126219	0.0001028	Inf	intergenic	n/a
+859006	1.03E-04	Inf	intergenic	n/a
+817072	0.0001028	Inf	intergenic	n/a
+2190957	0.0001028	Inf	intergenic	n/a
+1414093	0.0001028	Inf	intergenic	n/a
+1167059	0.0001028	Inf	intergenic	n/a
+1681788	0.0001028	Inf	intergenic	n/a
+1068538	0.0001028	Inf	intergenic	n/a
+138510	0.0001028	Inf	intergenic	n/a
+138333	0.0001028	Inf	intergenic	n/a
+137296	0.0001028	Inf	intergenic	n/a
+90035	0.0001028	Inf	intergenic	n/a
+93052	0.0001028	Inf	intergenic	n/a
+1894380	0.0001028	Inf	intergenic	n/a
+955980	0.0001028	Inf	intergenic	n/a
+37813	0.0001028	Inf	intergenic	n/a
+632616	0.0001028	Inf	intergenic	n/a
+1435400	0.0001028	Inf	intergenic	n/a
+1435342	0.0001028	Inf	intergenic	n/a
+111787	0.0001028	Inf	intergenic	n/a
+1583467	0.0001028	Inf	intergenic	n/a
+930998	0.0001028	Inf	intergenic	n/a
+776772	0.0001062	0.06202083	-	DeoR family regulatory protein
+766065	0.0001062	0	dnaH	DNA polymerase III subunits gamma/tau
+2068179	0.0001066	0.6812103	-	cation transporting ATPase
+155917	0.0001087	0.32696	-	hypothetical protein
+1399039	0.0001088	1.112002	glyQ	glycyl-tRNA synthetase subunit alpha
+2065881	0.0001094	0.8999847	tyrS	tyrosyl-tRNA synthetase
+1917486	0.0001096	4.4835	intergenic	n/a
+453960	0.0001101	0.6224594	-	hypothetical protein
+560838	0.0001116	1.243629	intergenic	n/a
+1778535	0.0001121	0.5273073	trpB	tryptophan synthase subunit beta
+876795	0.0001144	3.631114	pepB	oligopeptidase
+1976309	0.0001154	0.480239	-	RNA pseudouridylate synthase
+189464	0.0001162	0.2840978	-	GNAT family acetyltransferase
+484578	0.0001163	0.2051731	-	hypothetical protein
+1749975	0.0001166	0.3013295	intergenic	n/a
+1670945	0.0001167	0.5528318	mvaS	3-hydroxy-3-methylglutaryl coenzyme A synthase
+1837109	0.0001171	0.5243413	-	deoxyribonucleotide triphosphate pyrophosphatase/hypothetical protein
+176313	0.0001195	Inf	uvrA	excinuclease ABC subunit A
+654703	0.0001201	0.3243312	-	fatty-acid binding protein
+1561649	0.0001208	0.392814	-	FAD dependent oxidoreductase
+436799	0.0001218	0.5762937	-	endo-beta-N-acetylglucosaminidase
+1623271	0.0001218	1.78096	-	sugar phosphotransferase system (PTS), IIBC component
+766487	0.0001223	0.6806541	dnaH	DNA polymerase III subunits gamma/tau
+232458	0.0001235	2.077696	proS	prolyl-tRNA synthetase
+1450513	0.000124	0.3523839	murE	UDP-N-acetylmuramoylalanyl-D-glutamate--L-lysine ligase
+287382	0.0001283	2.096709	-	heparinase II/III-like protein
+290845	0.0001308	Inf	mraW	S-adenosyl-methyltransferase MraW
+1926440	0.0001312	2.948637	rpoB	DNA-directed RNA polymerase subunit beta
+1642305	0.0001325	0.2702507	acpS	4'-phosphopantetheinyl transferase
+173259	0.0001334	1.028561	-	hypothetical protein
+285460	0.0001334	Inf	agaD	N-acetylgalactosamine-specific phosphotransferase system (PTS), IID component
+296427	0.0001343	Inf	clpL	ATP-dependent protease ATP-binding subunit ClpL
+297255	0.0001343	Inf	clpL	ATP-dependent protease ATP-binding subunit ClpL
+297369	0.0001343	Inf	clpL	ATP-dependent protease ATP-binding subunit ClpL
+297567	0.0001343	5.559488	clpL	ATP-dependent protease ATP-binding subunit ClpL
+107574	0.0001343	0	-	polysaccharide biosynthesis protein
+543353	0.0001343	Inf	-	protease
+1798153	0.0001343	Inf	-	sortase-sorted surface anchored protein
+1571047	0.0001347	1.106315	-	hypothetical protein
+211640	0.000136	1.575172	intergenic	n/a
+1986775	0.0001365	1.185978	licC	PTS system, lichenan-specific IIc component
+703286	0.0001369	0.7331626	-	NUDIX family protein
+2051435	0.0001374	1.088596	-	lipoprotein
+442106	0.0001382	2.326054	-	hypothetical protein
+1975082	0.0001382	1.304516	pbp2A	penicillin-binding protein 2a
+454148	0.0001393	1.408236	-	hypothetical protein
+1937985	0.0001393	3.923261	-	OxaA-like protein precursor
+1672148	0.0001401	0.6884441	-	hypothetical protein
+1603128	0.0001411	2.080109	-	hypothetical protein
+1353785	0.0001425	8.437137	nadE	NAD synthetase
+519423	0.0001433	0.6095059	cysS	cysteinyl-tRNA synthetase
+2045946	0.0001453	1.229015	argS	arginyl-tRNA synthetase
+1047397	0.0001454	1.092443	-	multidrug resistance protein
+208002	0.000149	0.3296038	-	phosphoglycerate mutase family protein
+175927	0.0001502	6.459788	uvrA	excinuclease ABC subunit A
+1091862	0.0001513	0.4651189	ldh	L-lactate dehydrogenase
+1419909	0.0001528	0.4681953	-	amino acid ABC transporter ATP-binding protein
+339468	0.0001551	Inf	gnd	6-phosphogluconate dehydrogenase
+339189	0.0001551	Inf	gnd	6-phosphogluconate dehydrogenase
+1434524	0.0001551	Inf	-	aminodeoxychorismate lyase
+368473	0.0001551	Inf	-	bacteriocin production protein
+1754717	0.0001551	Inf	-	beta-fructofuranosidase
+235017	0.0001551	Inf	-	beta-glucosidase
+328477	0.0001551	Inf	-	cell wall surface anchored protein
+1837693	0.0001551	Inf	-	deoxyribonucleotide triphosphate pyrophosphatase/hypothetical protein
+369372	0.0001551	Inf	mutS2	DNA mismatch repair protein
+370947	0.0001551	Inf	mutS2	DNA mismatch repair protein
+369388	0.0001551	Inf	mutS2	DNA mismatch repair protein
+369492	0.0001551	Inf	mutS2	DNA mismatch repair protein
+370509	0.0001551	Inf	mutS2	DNA mismatch repair protein
+369243	0.0001551	Inf	mutS2	DNA mismatch repair protein
+370131	0.0001551	Inf	mutS2	DNA mismatch repair protein
+370065	0.0001551	Inf	mutS2	DNA mismatch repair protein
+370566	0.0001551	Inf	mutS2	DNA mismatch repair protein
+547384	0.0001551	Inf	-	extracellular solute-binding protein
+1838365	0.0001551	Inf	glr	glutamate racemase
+1436337	0.0001551	2.742339	-	GNAT family acetyltransferase. GNAT family acetyltransferase
+276723	0.0001551	Inf	-	hyaluronate lyase
+1602720	0.0001551	1.642708	-	hypothetical protein
+1454164	0.0001551	Inf	-	hypothetical protein
+352191	0.0001551	Inf	-	hypothetical protein
+367875	0.0001551	Inf	-	hypothetical protein
+367827	0.0001551	Inf	-	hypothetical protein
+349400	0.0001551	Inf	-	hypothetical protein
+365701	0.0001551	Inf	-	hypothetical protein
+337353	0.0001551	1.642708	-	hypothetical protein
+365041	0.0001551	Inf	-	hypothetical protein
+684205	0.0001551	Inf	-	hypothetical protein
+364363	0.0001551	Inf	-	hypothetical protein
+364147	0.0001551	Inf	-	hypothetical protein
+338127	0.0001551	Inf	-	hypothetical protein
+365365	0.0001551	Inf	-	hypothetical protein
+364045	0.0001551	Inf	-	hypothetical protein
+337080	0.0001551	Inf	-	hypothetical protein
+363606	0.0001551	Inf	-	hypothetical protein
+364011	0.0001551	Inf	-	hypothetical protein
+347936	0.0001551	Inf	fni	isopentenyl pyrophosphate isomerase
+1453310	0.0001551	Inf	ppaC	manganese-dependent inorganic pyrophosphatase
+345079	0.0001551	Inf	mvaK1	mevalonate kinase
+345310	0.0001551	Inf	mvaK1	mevalonate kinase
+345321	0.0001551	Inf	mvaK1	mevalonate kinase
+345841	0.0001551	Inf	mvaK1	mevalonate kinase
+345855	0.0001551	Inf	mvaK1	mevalonate kinase
+347100	0.0001551	Inf	mvaK2	phosphomevalonate kinase
+347112	0.0001551	Inf	mvaK2	phosphomevalonate kinase
+347255	0.0001551	Inf	mvaK2	phosphomevalonate kinase
+347586	0.0001551	Inf	mvaK2	phosphomevalonate kinase
+336135	0.0001551	Inf	-	RNA methylase family protein
+366453	0.0001551	Inf	spi	signal peptidase I
+366468	0.0001551	Inf	spi	signal peptidase I
+366327	0.0001551	Inf	spi	signal peptidase I
+366315	0.0001551	Inf	spi	signal peptidase I
+5377	0.0001551	Inf	trcF	transcription-repair coupling factor
+5170	0.0001551	Inf	trcF	transcription-repair coupling factor
+363295	0.0001551	Inf	tig	trigger factor
+2057713	0.0001551	0.5815632	hasC	UTP-glucose-1-phosphate uridylyltransferase
+1809114	0.0001551	Inf	pbuX	xanthine permease
+138666	0.0001551	Inf	intergenic	n/a
+227461	0.0001551	Inf	intergenic	n/a
+1124888	0.0001551	Inf	intergenic	n/a
+368673	0.0001551	Inf	intergenic	n/a
+608863	0.0001588	0.2460216	-	LysR family transcriptional regulator
+1955640	0.0001593	0.6873922	-	aminotransferase AlaT
+1557425	0.0001608	0.9342473	-	PhnA protein
+677011	0.0001614	4.103887	-	hypothetical protein
+715172	0.0001621	0.3365685	-	bifunctional ATP-dependent DNA helicase/DNA polymerase III subunit epsilon
+2065806	0.0001625	3.561301	tyrS	tyrosyl-tRNA synthetase
+167100	0.0001647	1.195235	ribA	riboflavin biosynthesis protein
+2020910	0.000165	1.277387	intergenic	n/a
+1478827	0.0001664	1.011179	-	ABC transporter ATP-binding protein
+2145915	0.0001682	6.880058	fucK	fuculokinase
+1822928	0.0001686	0.497528	-	glycine/betaine ABC transporter
+1761778	0.0001694	2.403475	-	transglycosylase
+812341	0.0001712	0.6725599	-	permease
+1022976	0.0001755	2.283251	-	hypothetical protein
+169800	0.0001766	Inf	ruvA	Holliday junction DNA helicase RuvA
+1354925	0.0001783	1.771892	-	nicotinate phosphoribosyltransferase
+635363	0.0001825	1.244522	intergenic	n/a
+425230	0.0001835	0.8100699	-	ABC transporter ATP-binding protein
+1485199	0.000184	0.7826869	-	hypothetical protein
+282532	0.0001842	20.55899	-	N-acetylgalactosamine-specific phosphotransferase system (PTS), IIA component
+146199	0.000188	1.522546	intergenic	n/a
+1402097	0.0001885	5.421472	-	polysaccharide deacetylase
+719762	0.000189	0.6035393	gyrB	DNA gyrase subunit B
+131133	0.0001893	10.34763	-	metallo-beta-lactamase superfamily protein
+6846	0.0001895	2.525985	trcF	transcription-repair coupling factor
+281335	1.91E-04	25.37339	-	hypothetical protein
+1020544	0.0001913	1.39471	addA	ATP-dependent exonuclease subunit A
+1020502	0.0001913	1.39471	addA	ATP-dependent exonuclease subunit A
+1560016	1.92E-04	0.6383663	-	membrane glycosyl transferase
+1559165	0.0001915	0.5982195	intergenic	n/a
+2054275	0.0001954	1.496943	pstB3	phosphate transporter ATP-binding protein
+1781455	0.0001966	2.416349	trpD	anthranilate phosphoribosyltransferase
+268588	0.0001975	2.388136	-	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+637180	0.0001975	1.186554	-	ABC transporter ATP-binding protein
+99990	0.0001986	2.209229	-	hypothetical protein
+515500	0.0002001	1.334045	pnpA	polynucleotide phosphorylase/polyadenylase
+1605107	0.0002013	2.517514	ftsZ	cell division protein FtsZ
+834443	0.0002013	2.517514	-	RNA pseudouridylate synthase
+214436	0.0002026	1.035637	-	DeoR family regulatory protein
+837038	0.0002044	0.2464483	proB	gamma-glutamyl kinase
+688089	0.000205	1.289313	intergenic	n/a
+2219758	0.0002051	1.108906	htrA	serine protease
+1075838	0.0002074	3.594993	lepA	GTP-binding protein LepA
+236438	0.0002078	0.4726807	glmS	glucosamine--fructose-6-phosphate aminotransferase
+1122675	0.000209	1.060116	-	hypothetical protein
+582324	0.0002099	1.830782	-	sodium hydrogen exchange transporter
+847429	0.0002102	21.87657	pyrH	uridylate kinase
+1975244	0.0002135	2.792605	pbp2A	penicillin-binding protein 2a
+638905	0.0002176	3.613413	-	coenzyme
+663604	0.0002179	1.253736	intergenic	n/a
+459452	0.0002182	2.053935	dnaJ	chaperone protein DnaJ
+2203272	0.0002183	0.1325639	-	protease
+737071	0.0002188	0.4806396	intergenic	n/a
+1822164	0.000229	0.2080794	-	glycine/betaine ABC transporter
+414502	0.0002314	0.8731095	intergenic	n/a
+1324506	0.0002315	0.1465321	potD	spermidine/putrescine extracellular binding protein
+2129135	0.000234	Inf	-	C4-dicarboxylate anaerobic carrier protein
+1786119	0.000234	Inf	-	hypothetical protein
+1791088	0.000234	Inf	-	iron ABC transporter, solute-binding protein
+1784889	2.34E-04	Inf	intergenic	n/a
+1019288	0.0002342	Inf	addA	ATP-dependent exonuclease subunit A
+369279	0.0002342	Inf	mutS2	DNA mismatch repair protein
+1137954	0.0002342	Inf	-	kinase
+1833331	0.0002342	Inf	rluB	ribosomal large subunit pseudouridine synthase B
+279115	0.0002362	32.47804	kgdA	keto-hydroxyglutarate-aldolase/keto-deoxy-phosphogluconate aldolase
+673512	0.0002431	11.79562	intergenic	n/a
+1428032	0.0002433	1.110887	atpA	F0F1 ATP synthase subunit alpha
+1108290	0.0002444	0	-	CAAX amino terminal protease family protein
+1109200	0.0002444	0	-	glutamine ABC transporter,glutamine-binding protein/permease protein
+1109185	0.0002444	0	-	glutamine ABC transporter,glutamine-binding protein/permease protein
+1108768	0.0002444	0	-	glutamine ABC transporter,glutamine-binding protein/permease protein
+1986792	0.0002444	0	licC	PTS system, lichenan-specific IIc component
+1988115	0.0002444	0	intergenic	n/a
+775836	0.0002508	1.34582	intergenic	n/a
+549524	0.0002516	0.5795143	pepV	dipeptidase PepV
+1977362	0.0002533	2.852489	plr	glyceraldehyde-3-phosphate dehydrogenase, plasmin receptor
+588195	0.0002542	0.6226873	-	response regulator protein
+1691114	0.0002544	4.103887	-	hypothetical protein
+446465	0.0002593	1.00819	-	type I restriction-modification system S protein
+333812	0.0002598	95.12806	recU	Holliday junction-specific endonuclease
+659247	0.0002635	1.126864	-	branched-chain amino acid ABC transporter, amino acid-binding protein
+1361136	0.0002657	1.370962	intergenic	n/a
+209634	0.0002699	1.3614	-	inner membrane component of ABC transporter
+1331309	0.0002771	0.552609	-	GntR family transcriptional regulator
+2059308	0.0002823	1.146949	-	5-formyltetrahydrofolate cyclo-ligase
+381183	0.0002833	0.3825296	fabK	enoyl-ACP reductase
+1642540	0.0002834	0.4049022	intergenic	n/a
+510170	2.84E-04	2.097122	-	hypothetical protein
+1544911	0.0002873	0.9100308	-	major facilitator superfamily protein
+2091767	0.0002892	0.1712799	-	Major Facilitator Superfamily protein
+868767	0.0002921	1.530953	fpg	formamidopyrimidine-DNA glycosylase
+868851	0.0002921	1.499705	fpg	formamidopyrimidine-DNA glycosylase
+836196	0.0002943	0.9370666	cbpE	choline binding protein E
+604553	2.94E-04	0.2594793	-	GTPase
+1080695	0.0002946	0.5583431	xseB	exodeoxyribonuclease VII small subunit
+1839813	0.0002978	0.4518961	treA	trehalose-6-phosphate hydrolase
+1384008	0.0003013	0.8060232	-	thioredoxin reductase
+1592217	0.0003054	0.82099	-	ABC transporter permease
+202840	0.0003059	1.154054	adk	adenylate kinase
+1803534	0.0003127	0.8620102	-	ABC transporter ATP-binding protein/permease
+1433254	0.0003129	0.1047451	greA	transcription elongation factor GreA
+1052171	0.0003131	0.4502677	-	haloacid dehalogenase-like hydrolase
+2216592	0.0003135	0.1319162	-	response regulator protein
+256365	0.0003149	0.5396927	pepC	aminopeptidase C
+2091858	0.0003196	0.1754617	-	Major Facilitator Superfamily protein
+562950	0.000327	2.097941	-	surface-anchored serine protease
+101902	0.0003299	0.2670166	-	hypothetical protein
+327388	0.0003338	0.03652396	-	cell wall surface anchored protein
+463962	0.0003345	2.455659	-	hypothetical protein
+401944	0.0003354	1.901037	intergenic	n/a
+1399057	0.0003374	1.438853	glyQ	glycyl-tRNA synthetase subunit alpha
+1471035	0.0003403	0.3571908	-	hypothetical protein
+1694004	0.0003457	1.033947	-	hydrolase
+543808	0.0003493	0.4108108	-	protease
+1530215	0.00035	0.08887752	engB	ribosome biogenesis GTP-binding protein YsxC
+1896370	0.0003507	2.982689	-	hypothetical protein
+2146235	0.0003508	20.75798	fucK	fuculokinase
+2146654	0.0003508	20.75798	intergenic	n/a
+330334	0.0003537	0.2543663	-	cell wall surface anchored protein
+2166763	0.0003537	Inf	-	DNA-binding protein
+2167065	0.0003537	Inf	-	DNA-binding protein
+1762069	0.0003537	Inf	-	hypothetical protein
+615865	0.0003537	Inf	-	hypothetical protein
+347379	0.0003537	Inf	mvaK2	phosphomevalonate kinase
+1069894	3.54E-04	Inf	lacC2	tagatose-6-phosphate kinase
+463580	0.0003603	0.9946098	-	ABC transporter
+1017074	0.000367	4.600925	addB	ATP-dependent exonuclease subunit B
+52766	0.0003701	1.021971	intergenic	n/a
+503271	0.0003721	0.3281075	-	6-phospho-beta-glucosidase
+1610969	0.0003755	Inf	ddl	D-alanyl-alanine synthetase A
+291807	0.0003861	21.87657	ftsL	cell division protein
+136460	0.0003872	11.39571	-	transposase
+859143	0.000389	1.810053	intergenic	n/a
+2216541	0.000395	0.1319162	-	response regulator protein
+2216576	0.000395	0.1213839	-	response regulator protein
+2216297	0.000395	0.1319162	-	response regulator protein
+1999303	0.0003973	1.159705	ulaD	3-keto-L-gulonate-6-phosphate decarboxylase
+1642672	0.0004019	0.8237814	aroF	phospho-2-dehydro-3-deoxyheptonate aldolase
+537248	0.0004024	1.533977	-	phosphoesterase
+1331561	0.0004143	0.9254278	-	GntR family transcriptional regulator
+2106363	0.0004145	0.4745178	rpmF	50S ribosomal protein L32
+2050943	0.0004201	0.0720211	-	lipoprotein
+1353297	0.0004245	1.248415	nadE	NAD synthetase
+172045	0.000426	Inf	-	carboxypeptidase
+1788575	0.0004275	0.6004849	-	inner membrane component of ABC transporter
+351264	0.0004288	0.7427685	intergenic	n/a
+280141	0.0004337	19.53458	-	PfkB family carbohydrate kinase
+279970	0.0004337	19.53458	-	PfkB family carbohydrate kinase
+2214860	0.0004339	3.371579	-	hypothetical protein
+1326451	0.0004351	2.371527	potB	spermidine/putrescine ABC transporter permease
+273803	0.0004355	12.60129	-	glycosylhydrolase
+715682	0.0004359	0	-	bifunctional ATP-dependent DNA helicase/DNA polymerase III subunit epsilon
+1297822	0.000437	1.200166	hom	homoserine dehydrogenase
+1939169	0.0004451	0.5889226	pflC	pyruvate formate-lyase activating enzyme
+812260	0.0004462	0.6910114	-	permease
+2072925	0.0004545	2.306122	glgP	glycogen phosphorylase
+1682563	0.000458	2.612168	gmk	guanylate kinase
+6618	0.0004584	0.6432333	trcF	transcription-repair coupling factor
+1613721	0.0004646	4.286244	penA	penicillin-binding protein 2b
+1886101	0.0004663	1.776127	intergenic	n/a
+53662	0.0004695	0.9356875	-	phosphoribosylformylglycinamidine synthase protein
+291376	4.74E-04	3.066946	mraW	S-adenosyl-methyltransferase MraW
+872107	0.0004794	0.7384043	rnr	exoribonuclease R
+2220471	0.0004806	0.8549062	htrA	serine protease
+605060	0.0004825	0.767379	-	GTPase
+246337	0.0004896	11.6	fus	elongation factor G
+246446	0.0004896	11.6	intergenic	n/a
+2052263	0.0004903	0.4068459	-	ABC transporter permease
+706984	0.0004919	1.305485	pepN	lysyl-aminopeptidase
+228052	0.0005008	1.23218	ruvB	Holliday junction DNA helicase RuvB
+179819	0.0005087	0.6442414	-	lipoprotein
+1641761	0.0005093	0.8866996	alr	alanine racemase
+1625098	0.0005103	0.2929788	-	N-acetylmannosamine-6-phosphate 2-epimerase
+1336144	0.0005111	2.981537	-	phosphate ABC transporter permease
+1294357	0.0005262	0.4176708	-	ABC transporter ATP-binding protein
+659988	0.0005277	1.713675	intergenic	n/a
+1434569	0.0005343	Inf	-	aminodeoxychorismate lyase
+1435672	0.0005343	Inf	-	GNAT family acetyltransferase
+337366	0.0005343	Inf	-	hypothetical protein
+1436403	5.34E-04	Inf	murC	UDP-N-acetylmuramate--L-alanine ligase
+88931	0.0005343	Inf	intergenic	n/a
+89387	0.0005343	Inf	intergenic	n/a
+89843	0.0005343	Inf	intergenic	n/a
+809857	0.0005382	0.6636521	intergenic	n/a
+176286	0.0005431	Inf	uvrA	excinuclease ABC subunit A
+1057767	0.0005487	0.6510345	pstI	phosphoenolpyruvate-protein phosphotransferase
+193785	0.000554	0.682069	rplB	50S ribosomal protein L2
+1400735	0.0005552	3.922561	-	aldo/keto reductase family protein
+1535028	0.0005601	2.342702	-	exported choline-binding glycosyl hydrolase
+273103	0.0005695	12.60129	-	glycosylhydrolase
+800735	0.0005714	0.61321	intergenic	n/a
+2130049	0.0005729	0.09394115	-	hypothetical protein
+440309	5.74E-04	0.3667817	-	endo-beta-N-acetylglucosaminidase
+1109329	0.0005765	0.6725599	-	glutamine ABC transporter,glutamine-binding protein/permease protein
+1543283	0.0005794	1.285155	-	DEAD/DEAH box helicase
+345594	0.0005844	2.99737	mvaK1	mevalonate kinase
+177009	0.0005884	Inf	uvrA	excinuclease ABC subunit A
+177024	0.0005884	Inf	uvrA	excinuclease ABC subunit A
+2126290	0.0005919	0	arcB	ornithine carbamoyltransferase
+1355223	0.0005998	6.756444	-	nicotinate phosphoribosyltransferase
+1575110	0.0006017	1.427122	intergenic	n/a
+1813236	0.0006042	0.7229968	-	thioesterase superfamily protein
+919222	0.0006134	1.017231	-	hypothetical protein
+527064	0.0006148	2.427851	-	ABC transporter permease
+2220248	0.000615	0.695624	htrA	serine protease
+1946776	0.000617	1.321202	ksgA	dimethyladenosine transferase
+227902	0.0006178	1.377013	ruvB	Holliday junction DNA helicase RuvB
+1595374	0.0006227	1.111066	-	hypothetical protein
+505050	0.0006255	1.424823	pheS	phenylalanyl-tRNA synthetase subunit alpha
+1313939	0.0006265	3.725334	aroD	3-dehydroquinate dehydratase
+339426	0.0006265	3.725334	gnd	6-phosphogluconate dehydrogenase
+399820	0.0006265	3.890846	alsS	acetolactate synthase catalytic subunit
+2195919	0.0006265	4.0572	-	amidase
+1132503	0.0006265	3.725334	topA	DNA topoisomerase I
+1813786	0.0006265	3.725334	galT	galactose-1-phosphate uridylyltransferase
+1603074	0.0006265	3.725334	-	hypothetical protein
+922552	0.0006265	0.9401074	-	hypothetical protein
+1161838	0.0006265	1.053945	-	phosphohydrolase
+923008	0.0006265	1.050457	-	regulatory protein
+920828	0.0006265	0.9235444	-	RNA methyltransferase
+1040243	0.0006265	3.725334	xerS	site-specific tyrosine recombinase XerS
+883091	0.0006265	0.8842421	intergenic	n/a
+1591979	0.0006266	1.396146	-	ABC transporter permease
+1937951	0.000631	0.4412073	-	OxaA-like protein precursor
+35400	0.0006311	2.514402	-	carbonic anhydrase
+1088039	0.0006341	0.9880723	intergenic	n/a
+1328445	0.0006403	2.07722	murB	UDP-N-acetylenolpyruvoylglucosamine reductase
+1444676	0.0006433	1.12098	-	ABC transporter ATP-binding protein
+762492	0.0006498	0.4896145	rpsA	30S ribosomal protein S1
+1129976	0.0006554	1.077173	intergenic	n/a
+475848	0.0006569	0.4277935	pncP	ABC transporter ATP-binding protein
+1959816	0.0006583	0.5160674	intergenic	n/a
+2020332	0.0006629	6.103866	-	hypothetical protein
+459007	0.0006669	0.7176164	intergenic	n/a
+376064	0.0006736	1.478631	-	hypothetical protein
+1043659	0.0006757	1.045667	acoC	dihydrolipoamide acetyltransferase
+1954801	0.0006784	0.9322011	rpmH	50S ribosomal protein L34
+900298	0.0006813	3.346765	phtE	pneumococcal histidine triad protein E (Bvh-3)
+1161744	0.0006814	1.42538	-	phosphohydrolase
+8151	0.0006844	0.6591222	trcF	transcription-repair coupling factor
+1070085	0.0006878	0.6029293	lacC2	tagatose-6-phosphate kinase
+681879	0.0006961	1.809534	-	cyclophilin type peptidyl-prolyl cis-trans isomerase
+2019317	0.0006995	1.692849	-	pyrrolidone-carboxylate peptidase
+467764	0.0007021	2.460476	blpB	ABC transporter
+717558	0.0007099	0.5370201	-	DJ-1/PfpI family protein
+2177445	0.00071	0	clpC	stress response-related Clp ATPase
+75597	0.000711	0.2831643	-	beta-galactosidase
+250295	0.0007268	7.902595	polC	DNA polymerase III PolC
+170898	0.0007349	Inf	tag	DNA-3-methyladenine glycosylase I
+1938431	0.0007373	2.10391	-	OxaA-like protein precursor
+805417	0.0007373	5.12217	pyk	pyruvate kinase
+178547	0.0007473	Inf	-	metallopeptidase
+178492	0.0007473	Inf	-	metallopeptidase
+177997	7.47E-04	Inf	-	metallopeptidase
+1976226	0.0007481	2.96058	-	RNA pseudouridylate synthase
+1561667	0.000752	0.3950395	-	FAD dependent oxidoreductase
+683465	0.0007558	0.4066863	intergenic	n/a
+661314	0.0007591	0.4459894	-	branched-chain amino acid transport system permease protein
+864071	0.0007607	1.557151	lytB	endo-beta-N-acetylglucosaminidase
+283683	0.0007629	1.34101	ugl	unsaturated glucuronyl hydrolase
+705281	0.0007909	0.6990534	-	hypothetical protein
+2089514	0.0007944	0.6777171	-	hypothetical protein
+176668	0.0007958	Inf	uvrA	excinuclease ABC subunit A
+2086212	0.0008042	2.289231	aspS	aspartyl-tRNA synthetase
+933342	0.0008061	0.7472603	-	hydrolase
+2145789	0.0008064	11.79562	fucK	fuculokinase
+275424	0.0008161	30.68782	-	hyaluronate lyase
+275198	0.0008161	30.68782	-	hyaluronate lyase
+275019	0.0008161	30.68782	-	hyaluronate lyase
+275712	0.0008161	30.68782	-	hyaluronate lyase
+275698	0.0008161	30.68782	-	hyaluronate lyase
+274903	0.0008161	30.68782	-	hyaluronate lyase
+275239	0.0008161	30.68782	-	hyaluronate lyase
+1389885	0.0008202	56.72326	-	pyridoxal biosynthesis lyase PdxS
+1080076	0.0008206	2.771299	fps	geranyltranstransferase
+1123471	0.0008207	0.9563355	-	endonuclease
+1972366	0.0008238	1.26317	nusG	transcription antitermination protein NusG
+810181	0.0008338	2.112089	-	hypothetical protein
+1319698	0.0008515	3.725334	-	cytoplasmic alpha-amylase
+1036824	0.0008515	3.725334	rnhB	ribonuclease HII
+2037920	0.0008515	3.890846	intergenic	n/a
+1136744	0.0008568	0.6768573	-	LicB-family membrane protein
+1696262	0.000863	1.093378	-	serine/threonine transporter SstT
+1136375	0.0008679	3.071983	-	LicB-family membrane protein
+293661	0.000875	5.223696	pbpX	penicillin binding protein 2x
+777153	0.0008774	Inf	-	DeoR family regulatory protein
+1995968	0.0008879	0.6018268	-	transcriptional antiterminator
+1165523	0.0008992	3.310504	intergenic	n/a
+1339123	0.000906	0.4141998	-	NOL1/NOP2/sun family protein
+412620	0.0009075	0.1825415	bacA	UDP pyrophosphate phosphatase
+100773	9.08E-04	Inf	-	hypothetical protein
+2104049	0.0009239	0.7595095	-	PTS multi-domain regulator
+860180	0.000937	0.4161585	rplT	50S ribosomal protein L20
+1336406	0.000951	2.981537	-	phosphate ABC transporter permease
+334771	0.0009531	3.943733	-	hypothetical protein
+298724	0.000965	3.282429	luxS	S-ribosylhomocysteinase
+298906	0.000965	3.142793	luxS	S-ribosylhomocysteinase
+1643216	0.0009695	0.4186706	aroF	phospho-2-dehydro-3-deoxyheptonate aldolase
+1860303	0.000972	0.1572121	msmE	multiple sugar-binding protein precursor
+2066382	0.0009839	Inf	tyrS	tyrosyl-tRNA synthetase
+1404829	0.0009901	0.6131696	-	RNA helicase
+1481423	0.0009904	0.632945	dapB	dihydrodipicolinate reductase
+1049625	0.0009945	3.188298	pyrC	dihydroorotase
+233974	0.001	0.123611	proS	prolyl-tRNA synthetase
+367028	0.001003	1.63943	-	ribonuclease HIII
+2018579	0.001006	1.074598	-	hypothetical protein
+1562675	0.001014	1.351114	-	NIF3 (NGG1p interacting factor 3) family protein
+90076	0.001021	23.62041	intergenic	n/a
+400298	0.001029	0.7753444	alsS	acetolactate synthase catalytic subunit
+402233	0.001029	0.7753444	ilvC	ketol-acid reductoisomerase
+1633664	0.001031	0.5419531	nanA	sialidase A (neuraminidase A)
+173987	0.001051	18.416	-	CorA-like Mg2+ transporter protein
+177501	0.001062	Inf	uvrA	excinuclease ABC subunit A
+1484364	0.001064	0	glmM	phosphoglucosamine mutase
+1558952	0.001068	25.37339	intergenic	n/a
+418422	0.001068	0.8551614	intergenic	n/a
+94212	0.001075	Inf	intergenic	n/a
+769963	0.001079	0.4779089	csdB	cysteine desulfurase
+83	0.00109	2.118505	intergenic	n/a
+868176	0.001092	2.986752	era	GTP-binding protein Era
+2164646	0.001098	4.769558	glpO	alpha-glycerophosphate oxidase
+35295	0.001112	2.039594	-	carbonic anhydrase
+35259	0.001112	2.092556	-	carbonic anhydrase
+2124454	0.001132	1.683304	arcA	arginine deiminase
+1899830	0.001139	0.5300473	-	drug/sodium antiporter
+1300998	0.00114	Inf	-	hypothetical protein
+167303	0.00114	Inf	ribA	riboflavin biosynthesis protein
+1152821	0.00114	Inf	intergenic	n/a
+451557	0.001161	0.1377772	-	type I restriction-modification system R protein
+170352	1.18E-03	Inf	ruvA	Holliday junction DNA helicase RuvA
+579156	1.18E-03	0.870761	-	hypothetical protein
+1591851	0.001183	0.5306222	-	ABC transporter permease
+163700	0.001189	Inf	mutL	DNA mismatch repair protein
+1954950	0.001192	1.134167	intergenic	n/a
+435867	0.001194	0.6349559	-	endo-beta-N-acetylglucosaminidase
+543350	0.0012	Inf	-	protease
+715232	0.001219	0.8900842	-	bifunctional ATP-dependent DNA helicase/DNA polymerase III subunit epsilon
+1615996	0.001229	25.42199	-	ROK family protein
+290959	0.001229	28.90702	mraW	S-adenosyl-methyltransferase MraW
+163783	0.001237	4.203327	mutL	DNA mismatch repair protein
+545553	0.001237	0.5889226	uvrC	excinuclease ABC subunit C
+545678	0.001237	0.5795143	uvrC	excinuclease ABC subunit C
+541106	0.001237	0.5889226	murM	peptidoglycan pentaglycine interpeptide biosynthesis protein
+1473726	0.00124	0	-	glutathione S-transferase YghU
+2035519	0.001248	1.568127	gltX	glutamyl-tRNA synthetase
+1880673	0.001248	1.64788	-	NADP-dependent L-serine/L-allo-threonine dehydrogenase
+1126230	0.001264	0.3965651	-	hypothetical protein
+2060753	0.001264	0.7227613	-	transferase
+99939	0.00127	Inf	-	hypothetical protein
+1741740	0.001287	0.2831643	-	oligopeptidase
+109759	0.001293	0.4130671	-	5'-nucleotidase
+507963	1.30E-03	0.8154288	pheT	phenylalanyl-tRNA synthetase subunit beta
+1487258	0.001317	0.610259	-	pyridine nucleotide-disulfide oxidoreductase family protein
+465395	0.001317	0.9457763	blpR	response regulator protein BlpR
+685120	0.001319	2.202263	-	hypothetical protein
+777869	0.001323	Inf	fruK	1-phosphofructokinase
+778115	0.001323	Inf	fruK	1-phosphofructokinase
+778133	0.001323	Inf	fruK	1-phosphofructokinase
+163576	0.001323	Inf	intergenic	n/a
+679077	0.001324	0.4489011	-	ABC transporter ATP-binding protein
+1346712	0.001327	0.528221	ptsK	HPr kinase/phosphorylase
+1375707	1.33E-03	0.9404489	intergenic	n/a
+2188369	0.00133	0.6732092	comFC	late competence protein
+507315	0.001331	0.959083	pheT	phenylalanyl-tRNA synthetase subunit beta
+919794	0.001344	0.3996632	-	hypothetical protein
+285342	0.00135	Inf	agaW	N-acetylgalactosamine-specific phosphotransferase system (PTS), IIC component
+214483	0.001359	1.00633	-	DeoR family regulatory protein
+1631061	0.001383	2.986752	-	ABC transporter substrate-binding protein
+1955983	0.001384	0.6878276	-	aminotransferase AlaT
+455554	0.001404	2.355336	hrcA	heat-inducible transcription repressor
+213269	0.001405	0.2463565	-	pyruvate formate-lyase activating enzyme
+171772	1.41E-03	Inf	-	carboxypeptidase
+662018	0.001413	0.4558008	-	branched-chain amino acid transport ATP-binding protein
+2025185	0.001429	0.2856148	-	threonine synthase
+812272	0.001432	0.7005704	-	permease
+1138527	0.00145	0.9796408	-	zinc-binding dehydrogenase
+112172	0.001451	0.6915343	-	peptidoglycan-binding protein
+1997469	0.001461	3.505675	-	transcriptional antiterminator
+179435	0.001478	0.7913196	-	lipoprotein
+922393	0.001498	0.8804847	intergenic	n/a
+99415	0.001519	1.802341	intergenic	n/a
+1010387	0.001532	1.455553	intergenic	n/a
+2181492	0.001551	2.293682	-	hypothetical protein
+1884831	0.001552	0.4021848	-	PAP2 superfamily membrane protein
+906078	0.001571	10.19977	hemH	ferrochelatase
+520269	0.001574	1.719481	-	leucine-rich protein
+1441991	0.001579	0.4525775	-	aminotransferase
+283869	0.001619	24.47907	ugl	unsaturated glucuronyl hydrolase
+2184940	0.001627	1.13652	intergenic	n/a
+722435	0.001656	3.556185	intergenic	n/a
+758567	0.001663	0.5898196	-	extracellular oligopeptide-binding protein
+254063	0.001669	0	pepS	aminopeptidase PepS
+253347	0.001669	0	pepS	aminopeptidase PepS
+1837298	0.001669	0	-	deoxyribonucleotide triphosphate pyrophosphatase/hypothetical protein
+152110	0.001669	0	-	peptidase
+255048	0.001669	0	-	ribosomal small subunit pseudouridine synthase B
+571812	0.001669	0	bgaA	surface anchored beta-galactosidase
+1957015	0.001669	0	-	universal stress protein
+1903547	0.001669	0	intergenic	n/a
+1320236	0.001686	1.148793	-	cytoplasmic alpha-amylase
+2204812	0.001698	0.6578985	intergenic	n/a
+904731	0.001704	9.607721	pepT	peptidase T
+1131447	0.001717	0.896401	topA	DNA topoisomerase I
+275115	0.00172	27.13556	-	hyaluronate lyase
+32972	0.001753	7.480109	dut	deoxyuridine 5'-triphosphate nucleotidohydrolase
+811987	0.001769	0.720396	-	permease
+270984	1.77E-03	0.5566731	intergenic	n/a
+374210	0.001771	Inf	-	C4-dicarboxylate transporter
+174963	0.001791	Inf	uvrA	excinuclease ABC subunit A
+1350031	0.001797	2.711009	intergenic	n/a
+2216948	0.001809	0.1319162	-	sensor histidine kinase
+2216887	0.001809	0.1378688	-	sensor histidine kinase
+2217863	0.001809	0.1378688	-	sensor histidine kinase
+1813263	1.82E-03	0.7710023	-	thioesterase superfamily protein
+779707	0.001821	1.679272	fruA	fructose-specific phosphotransferase system (PTS), IIABC component
+1997074	0.001826	1.454559	-	transcriptional antiterminator
+213085	0.001827	0.8244741	-	pyruvate formate-lyase activating enzyme
+467101	0.001841	1.259975	blpB	ABC transporter
+1342615	0.001848	0.6191054	-	haloacid dehalogenase-like hydrolase
+1852294	0.001856	1.035006	-	extracellular oligopeptide-binding protein
+2214598	0.001859	1.066858	-	hypothetical protein
+231660	0.001863	14.43469	eep	pheromone-processing membrane metalloprotease
+517258	0.001875	1.896138	cysE	serine acetyltransferase
+1044147	0.001876	1.312836	acoC	dihydrolipoamide acetyltransferase
+688211	0.001908	1.161592	-	BioY family membrane protein
+224081	0.001918	1.572219	leuS	leucyl-tRNA synthetase
+2115023	1.93E-03	0.179838	-	ROK family protein
+1598768	0.001945	0.5352625	ileS	isoleucyl-tRNA synthetase
+1657171	0.002012	2.206767	intergenic	n/a
+1597216	0.002032	2.209121	gpmA	phosphoglyceromutase
+1047211	0.002063	1.172666	-	multidrug resistance protein
+2070658	0.00208	0.8860816	-	hypothetical protein
+736184	0.002102	0.2019127	punA	purine nucleoside phosphorylase
+1630187	0.002139	1.082006	-	ABC transporter permease
+1882707	0.00215	0.4860586	intergenic	n/a
+974317	0.002162	0.5455812	pcrA	ATP-dependent DNA helicase
+1076048	0.002168	0.6029293	intergenic	n/a
+1419924	2.17E-03	0.6244957	-	amino acid ABC transporter ATP-binding protein
+56488	0.002198	0.8190009	-	phosphoribosylformylglycinamidine synthase protein
+808664	0.0022	0.6289804	-	lipoprotein
+1043911	0.002212	1.561553	acoC	dihydrolipoamide acetyltransferase
+1433236	0.002215	Inf	greA	transcription elongation factor GreA
+1946840	2.22E-03	0.5542013	ksgA	dimethyladenosine transferase
+1809617	0.002224	1.181651	pbuX	xanthine permease
+668759	0.002236	0.563534	-	glucose-specific phosphotransferase system (PTS), IIABC component
+560112	0.002253	0.6489625	-	hypothetical protein
+2065611	0.002272	1.234743	tyrS	tyrosyl-tRNA synthetase
+705702	0.002275	1.688785	intergenic	n/a
+1359418	0.002308	0.6482008	intergenic	n/a
+396640	0.002314	2.031183	-	glycosyl transferase
+1847632	0.002318	0.6212651	-	peptide ABC transporter ATP-binding protein
+68210	0.002395	0.9508127	purB	adenylosuccinate lyase
+177345	0.002425	Inf	uvrA	excinuclease ABC subunit A
+177548	0.002425	Inf	uvrA	excinuclease ABC subunit A
+177615	0.002425	Inf	uvrA	excinuclease ABC subunit A
+178216	0.002425	Inf	-	metallopeptidase
+177650	0.002425	Inf	-	metallopeptidase
+177772	0.002425	Inf	-	metallopeptidase
+1436260	0.002428	1.92124	-	GNAT family acetyltransferase. GNAT family acetyltransferase
+1438455	0.002428	Inf	-	SNF-family helicase
+1437558	0.002428	Inf	murC	UDP-N-acetylmuramate--L-alanine ligase
+1436994	0.002428	Inf	murC	UDP-N-acetylmuramate--L-alanine ligase
+1436595	0.002428	Inf	murC	UDP-N-acetylmuramate--L-alanine ligase
+1561682	0.002432	0.3947997	-	FAD dependent oxidoreductase
+446974	0.002439	1.755515	-	type I restriction-modification system S protein
+1749889	0.002456	0.7230761	intergenic	n/a
+1162806	0.002484	1.401368	-	haloacid dehalogenase-like hydrolase
+1162821	0.002484	1.424612	-	haloacid dehalogenase-like hydrolase
+1358040	0.002497	1.472373	intergenic	n/a
+1349131	0.002503	3.46144	queA	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+418444	0.002508	0.8367355	intergenic	n/a
+1642892	0.002511	1.549958	aroF	phospho-2-dehydro-3-deoxyheptonate aldolase
+1799073	0.002521	0.6467606	intergenic	n/a
+2049752	0.002569	Inf	phoR	alkaline phosphatase synthesis sensor protein
+172603	0.002569	Inf	-	carboxypeptidase
+172402	0.002569	Inf	-	carboxypeptidase
+172456	0.002569	Inf	-	carboxypeptidase
+13856	2.57E-03	Inf	ftsH	cell division protease FtsH
+1903510	0.002569	Inf	cinA	competence damage-inducible protein A
+1902742	2.57E-03	Inf	cinA	competence damage-inducible protein A
+1902874	0.002569	Inf	cinA	competence damage-inducible protein A
+174623	0.002569	Inf	-	CorA-like Mg2+ transporter protein
+173873	0.002569	Inf	-	CorA-like Mg2+ transporter protein
+776766	0.002569	Inf	-	DeoR family regulatory protein
+777111	0.002569	Inf	-	DeoR family regulatory protein
+777036	0.002569	Inf	-	DeoR family regulatory protein
+777249	0.002569	Inf	-	DeoR family regulatory protein
+1049203	0.002569	Inf	pyrC	dihydroorotase
+165250	0.002569	Inf	mutL	DNA mismatch repair protein
+164098	0.002569	Inf	mutL	DNA mismatch repair protein
+165143	0.002569	Inf	mutL	DNA mismatch repair protein
+164818	0.002569	Inf	mutL	DNA mismatch repair protein
+163882	0.002569	Inf	mutL	DNA mismatch repair protein
+164848	0.002569	Inf	mutL	DNA mismatch repair protein
+165112	0.002569	Inf	mutL	DNA mismatch repair protein
+165271	0.002569	Inf	mutL	DNA mismatch repair protein
+165196	0.002569	Inf	mutL	DNA mismatch repair protein
+165493	0.002569	Inf	mutL	DNA mismatch repair protein
+164350	0.002569	Inf	mutL	DNA mismatch repair protein
+177078	0.002569	Inf	uvrA	excinuclease ABC subunit A
+175677	0.002569	Inf	uvrA	excinuclease ABC subunit A
+97631	0.002569	Inf	-	extracellular solute-binding protein
+97671	0.002569	Inf	-	extracellular solute-binding protein
+531612	0.002569	Inf	-	flavocytochrome
+531478	0.002569	Inf	-	flavocytochrome
+531432	0.002569	Inf	-	flavocytochrome
+530928	2.57E-03	Inf	-	flavocytochrome
+530148	0.002569	Inf	fba	fructose-bisphosphate aldolase
+778495	0.002569	Inf	fruA	fructose-specific phosphotransferase system (PTS), IIABC component
+778894	0.002569	Inf	fruA	fructose-specific phosphotransferase system (PTS), IIABC component
+1004961	0.002569	Inf	glgB	glycogen branching enzyme
+101202	0.002569	Inf	-	hypothetical protein
+101123	0.002569	Inf	-	hypothetical protein
+99798	0.002569	Inf	-	hypothetical protein
+99978	0.002569	Inf	-	hypothetical protein
+102247	0.002569	Inf	-	hypothetical protein
+100428	0.002569	Inf	-	hypothetical protein
+173432	0.002569	Inf	-	hypothetical protein
+98730	0.002569	Inf	-	hypothetical protein
+98742	0.002569	Inf	-	hypothetical protein
+1903621	2.57E-03	Inf	-	LytR family transcriptional regulator
+178339	0.002569	Inf	-	metallopeptidase
+1821142	0.002569	Inf	-	nicotinamide mononucleotide transporter
+1050921	0.002569	Inf	intergenic	n/a
+776546	0.002569	Inf	intergenic	n/a
+1415154	0.002582	1.521956	intergenic	n/a
+986293	0.002602	0.4909557	-	hypothetical protein
+1674885	0.002662	0.5650651	stk1	serine/threonine-protein kinase
+769477	0.002691	1.461029	csdB	cysteine desulfurase
+765582	2.69E-03	1.461029	dnaH	DNA polymerase III subunits gamma/tau
+781697	0.002691	1.461029	-	DNA translocase FtsK
+780489	0.002691	1.461029	-	DNA translocase FtsK
+780264	0.002691	1.461029	intergenic	n/a
+1136621	0.00272	1.636117	-	LicB-family membrane protein
+151516	0.002734	0.952296	-	lipoprotein
+208638	0.002747	0.2697294	intergenic	n/a
+1402653	0.002748	3.029972	intergenic	n/a
+1555036	0.002749	0.6284652	intergenic	n/a
+272002	0.002751	12.67068	-	glycosylhydrolase
+137876	0.002756	1.408179	intergenic	n/a
+602356	0.002765	Inf	glkA	glucokinase
+1778547	0.002766	0.6818216	trpB	tryptophan synthase subunit beta
+798524	0.002766	0.5071478	pepXP	x-prolyl-dipeptidyl aminopeptidase
+35618	0.002779	1.192428	intergenic	n/a
+1403347	0.002782	2.854257	intergenic	n/a
+1546802	0.002789	0.7225948	-	pyridine nucleotide-disulfide oxidoreductase
+1433243	0.002808	0.1400485	greA	transcription elongation factor GreA
+400266	0.002814	0.07557032	alsS	acetolactate synthase catalytic subunit
+1483681	0.002817	0.5889226	glmM	phosphoglucosamine mutase
+1879352	0.00282	0.582219	groEL	chaperonin GroEL
+626323	0.00283	0.4382879	intergenic	n/a
+1927352	0.002835	0.5418435	rpoB	DNA-directed RNA polymerase subunit beta
+1643312	0.002851	2.034379	aroF	phospho-2-dehydro-3-deoxyheptonate aldolase
+1437528	2.89E-03	Inf	murC	UDP-N-acetylmuramate--L-alanine ligase
+1599594	0.002896	Inf	ileS	isoleucyl-tRNA synthetase
+262352	0.002904	6.165092	intergenic	n/a
+1331603	2.92E-03	1.09674	-	GntR family transcriptional regulator
+35310	0.002918	2.041166	-	carbonic anhydrase
+2049028	0.002926	4.600925	phoP	alkaline phosphatase synthesis transcriptional regulatory protein
+25336	0.002949	Inf	purA	adenylosuccinate synthetase
+25030	0.002949	Inf	purA	adenylosuccinate synthetase
+24697	0.002949	Inf	purA	adenylosuccinate synthetase
+25432	0.002949	Inf	purA	adenylosuccinate synthetase
+2196034	0.002949	0	-	amidase
+1549421	0.002949	Inf	-	aminotransferase
+1549181	0.002949	Inf	-	aminotransferase
+1549166	0.002949	Inf	-	aminotransferase
+1549313	0.002949	Inf	-	aminotransferase
+2183193	0.002949	0	cbpD	choline binding protein D
+1557796	0.002949	Inf	cmk	cytidylate kinase
+1558087	0.002949	Inf	cmk	cytidylate kinase
+1556725	0.002949	Inf	-	hypothetical protein
+2190011	0.002949	0	comFA	late competence protein
+2189247	0.002949	0	comFA	late competence protein
+1559886	2.95E-03	Inf	-	membrane glycosyl transferase
+1559514	0.002949	0.6747137	-	membrane glycosyl transferase
+1559545	0.002949	Inf	-	membrane glycosyl transferase
+1559424	0.002949	Inf	-	membrane glycosyl transferase
+1557438	0.002949	Inf	-	PhnA protein
+1557273	0.002949	0.7397059	-	PhnA protein
+1557500	0.002949	Inf	-	PhnA protein
+2190894	0.002949	0	intergenic	n/a
+2195613	0.002949	0	intergenic	n/a
+25563	0.002949	Inf	intergenic	n/a
+1826554	0.002968	3.561301	pepA	glutamyl-aminopeptidase
+1818097	0.002968	3.409799	-	zinc-binding dehydrogenase
+1633423	0.002971	Inf	nanA	sialidase A (neuraminidase A)
+577262	0.002971	Inf	bgaA	surface anchored beta-galactosidase
+456408	0.002991	1.668658	intergenic	n/a
+877064	0.003	0.7282368	pepB	oligopeptidase
+664104	0.003037	0.4953481	-	hypothetical protein
+1657865	0.003043	2.40291	-	ABC transporter ATP-binding protein
+463542	0.003062	0.8640984	-	ABC transporter
+1976367	0.003069	0.4058824	-	RNA pseudouridylate synthase
+212601	0.003072	1.931091	intergenic	n/a
+291884	0.003073	37.906	pbpX	penicillin binding protein 2x
+740483	0.003122	0.873467	coaA	pantothenate kinase
+1418744	0.003129	3.560691	-	amino acid ABC transporter substrate-binding protein
+272692	0.003133	11.79562	-	glycosylhydrolase
+272515	0.003133	12.67068	-	glycosylhydrolase
+284609	0.003134	12.31292	agaV	N-acetylgalactosamine-specific phosphotransferase system (PTS), IIB component
+710575	0.003136	Inf	ciaH	sensor histidine kinase
+143463	0.003159	0.4437771	-	acetyltransferase
+2155752	0.003165	0.9181901	dltA	D-alanine--poly(phosphoribitol) ligase subunit 1
+102601	0.003172	1.893157	-	hypothetical protein
+2155617	0.003207	0.1341171	dltA	D-alanine--poly(phosphoribitol) ligase subunit 1
+63154	0.003229	1.445175	purD	phosphoribosylamine--glycine ligase
+297453	0.003236	Inf	clpL	ATP-dependent protease ATP-binding subunit ClpL
+408736	0.003236	1.33669	-	glutamine ABC transporter, glutamine-binding protein/permease protein
+2155311	0.003237	0.9164356	dltA	D-alanine--poly(phosphoribitol) ligase subunit 1
+761989	0.003245	0.6334181	intergenic	n/a
+417867	0.003251	1.573161	-	hypothetical protein
+505442	0.003253	3.818902	-	GNAT family acetyltransferase
+1414742	0.00326	0.4755734	-	hypothetical protein
+1355042	0.003278	1.15119	-	nicotinate phosphoribosyltransferase
+1024758	0.003285	1.943022	zmpA	IgA-protease
+2149756	0.003294	0.6220161	adcA	zinc-binding protein AdcA precursor
+826923	0.003309	2.124669	-	carboxynorspermidine decarboxylase
+272056	0.003312	2.001891	-	glycosylhydrolase
+641501	0.003312	0.7318638	thiD	phosphomethylpyrimidine kinase
+668045	0.00335	0.7365096	-	glucose-specific phosphotransferase system (PTS), IIABC component
+1735695	0.00335	0.6509169	intergenic	n/a
+1415969	0.00335	0.6509169	intergenic	n/a
+398675	0.003353	0.6318946	-	phosphatase
+398943	0.003353	0.7418714	-	phosphatase
+2019217	0.003367	1.673658	-	hypothetical protein
+1670602	0.003415	0.5497812	mvaA	3-hydroxy-3-methylglutaryl-coenzyme A reductase
+393577	0.003424	0.8446514	gatA	aspartyl/glutamyl-tRNA amidotransferase subunit A
+819153	0.003451	1.647689	-	ABC transporter permease
+2147530	0.003461	1.043753	intergenic	n/a
+589205	0.00348	1.575722	-	sensor histidine kinase
+289931	0.003525	0.4408664	-	membrane protein
+2217812	0.003529	0.1325639	-	sensor histidine kinase
+669281	0.003541	0.8094936	-	glucose-specific phosphotransferase system (PTS), IIABC component
+561558	0.003543	0.5986088	intergenic	n/a
+758232	0.003548	0.593477	intergenic	n/a
+261446	0.003568	Inf	intergenic	n/a
+1354220	0.003571	3.409799	-	nicotinate phosphoribosyltransferase
+1959517	0.003578	0.7656141	asnB	L-asparaginase
+818250	0.003581	1.215106	-	ABC transporter permease
+1052070	0.003671	0.4502677	-	haloacid dehalogenase-like hydrolase
+1398684	0.003689	1.310352	glyQ	glycyl-tRNA synthetase subunit alpha
+263190	0.003693	4.573589	-	permease
+2149117	0.00371	0.4394993	adcA	zinc-binding protein AdcA precursor
+1594984	0.003729	0.3018226	-	hypothetical protein
+1322261	0.003734	Inf	alaS	alanyl-tRNA synthetase
+1903385	0.003734	Inf	cinA	competence damage-inducible protein A
+2162535	0.003734	Inf	glpF1	glycerol uptake facilitator protein 1
+102455	0.003734	Inf	-	hypothetical protein
+172989	0.003734	Inf	intergenic	n/a
+836233	0.003779	0.8667166	cbpE	choline binding protein E
+1560931	0.003785	1.662728	galE	UDP-glucose 4-epimerase
+1020795	0.003786	0.5950529	addA	ATP-dependent exonuclease subunit A
+890039	0.003786	9.018739	-	glycerophosphodiester phosphodiesterase
+887727	0.003786	9.607721	intergenic	n/a
+1736587	0.003795	1.885943	-	hypothetical protein
+171836	0.003799	0.1193849	-	carboxypeptidase
+1362074	0.003859	2.371527	intergenic	n/a
+1383222	0.00388	0.4987854	-	SpoU rRNA methylase family protein
+858390	0.003905	0	-	hypothetical protein
+289181	0.00391	2.201032	-	LacI family transcriptional regulator
+297303	0.003932	1.566367	clpL	ATP-dependent protease ATP-binding subunit ClpL
+173966	0.003942	Inf	-	CorA-like Mg2+ transporter protein
+835936	0.003963	0.667302	cbpE	choline binding protein E
+1596443	0.004011	6.637921	-	hypothetical protein
+1051742	0.004023	Inf	-	haloacid dehalogenase-like hydrolase
+644433	0.004059	1.722105	-	metal transporting P-type ATPase
+819642	4.08E-03	5.397607	-	ABC transporter permease
+2188614	0.004087	3.383256	comFC	late competence protein
+214028	0.004109	0.3784514	-	DeoR family regulatory protein
+1831790	0.004112	2.856145	intergenic	n/a
+1343919	0.004113	1.134025	hemN	coproporphyrinogen III oxidase
+1328642	4.11E-03	1.134025	murB	UDP-N-acetylenolpyruvoylglucosamine reductase
+1593600	0.004126	2.012593	-	ABC transporter ATP-binding protein
+370740	0.004126	1.178967	mutS2	DNA mismatch repair protein
+814097	0.004127	0.8479856	-	transcription accessory protein
+329392	0.004142	2.099171	-	cell wall surface anchored protein
+1586724	0.004165	0.935648	pepO	endopeptidase O
+220810	0.004174	0.7116287	fsaA	fructose-6-phosphate aldolase
+1069833	0.004187	0.5937531	lacC2	tagatose-6-phosphate kinase
+172841	0.004216	21.87657	intergenic	n/a
+348647	0.004223	0.2847782	fni	isopentenyl pyrophosphate isomerase
+2105093	0.00423	0.957062	-	hypothetical protein
+1384157	0.00425	1.883467	-	thioredoxin reductase
+1674499	0.004322	1.183281	stk1	serine/threonine-protein kinase
+2091575	0.004331	1.384193	-	Major Facilitator Superfamily protein
+2178699	0.004333	7.640721	intergenic	n/a
+714713	0.004342	1.061097	-	bifunctional ATP-dependent DNA helicase/DNA polymerase III subunit epsilon
+463560	0.004369	1.419492	-	ABC transporter
+233766	0.004374	Inf	proS	prolyl-tRNA synthetase
+233574	0.004374	Inf	proS	prolyl-tRNA synthetase
+527973	0.004381	0.415109	-	two-component system, response regulator
+206013	0.004399	2.173923	intergenic	n/a
+107660	0.004419	11.79562	-	polysaccharide biosynthesis protein
+847875	0.004463	0.8438186	frr	ribosome recycling factor
+1612212	0.004472	5.590648	recR	recombination protein RecR
+1817885	0.00448	1.494482	-	zinc-binding dehydrogenase
+1134161	0.004531	1.321708	intergenic	n/a
+209905	0.004567	1.005282	-	ABC transporter permease
+973119	0.004573	Inf	intergenic	n/a
+1885915	0.004607	0.3201858	intergenic	n/a
+476918	0.004632	0.8315213	-	phosphotransferase
+171423	0.004663	1.669255	-	protease
+1457277	0.004716	1.651006	ssb	single-stranded DNA-binding protein
+1696493	0.004724	0.925678	-	serine/threonine transporter SstT
+580576	0.004746	1.408236	intergenic	n/a
+1774664	0.004761	3.143838	-	type IV prepilin peptidase family protein
+1134175	0.00478	1.321708	intergenic	n/a
+345630	0.004783	2.816757	mvaK1	mevalonate kinase
+1774678	0.004801	3.143838	-	type IV prepilin peptidase family protein
+290995	0.004855	0.5168374	mraW	S-adenosyl-methyltransferase MraW
+1774626	0.004864	3.143838	intergenic	n/a
+1086686	0.004884	2.750457	intergenic	n/a
+1575055	0.004947	1.51007	intergenic	n/a
+2128050	0.005025	1.300592	-	C4-dicarboxylate anaerobic carrier protein
+351961	0.005029	1.081407	intergenic	n/a
+1804479	0.005101	1.120929	-	ABC transporter ATP-binding protein/permease
+558853	0.005124	0.608584	-	ABC transporter ATP-binding protein
+1143797	0.005219	6.756444	carB	carbamoyl phosphate synthase large subunit
+288610	0.005229	28.90702	-	LacI family transcriptional regulator
+981688	0.005268	1.650049	-	hypothetical protein
+104897	0.00527	0.1817282	-	glycosyl transferase
+1796800	0.00527	11.79562	-	sortase-sorted surface anchored protein
+2166632	0.005286	0.3814974	-	DNA-binding protein
+1557158	0.005365	1.376661	-	hypothetical protein
+802328	0.005378	12.67068	dnaE	DNA polymerase III DnaE
+585907	0.005408	0.7744504	ccdA	cytochrome c-type biogenesis protein CcdA
+285093	0.005431	Inf	agaW	N-acetylgalactosamine-specific phosphotransferase system (PTS), IIC component
+1677419	0.005431	Inf	-	ribosomal RNA small subunit methyltransferase
+2125975	5.48E-03	0.9727039	arcB	ornithine carbamoyltransferase
+966031	0.005486	1.07008	obgE	GTPase ObgE
+101502	0.005498	0.5269449	intergenic	n/a
+107454	0.00553	11.79562	-	polysaccharide biosynthesis protein
+110596	0.005552	11.79562	sdhA	L-serine dehydratase, alpha chain
+110560	0.005552	11.79562	sdhA	L-serine dehydratase, alpha chain
+1654527	0.005573	Inf	nfsA	oxygen-insensitive NADPH nitroreductase
+1662566	0.005654	Inf	intergenic	n/a
+262504	0.005699	3.310504	intergenic	n/a
+156358	0.005707	0.6342483	-	hypothetical protein
+1799921	0.005711	2.027153	-	DegT/DnrJ/EryC1/StrS family amino sugar synthetase
+1596520	0.005732	0.9686962	-	hypothetical protein
+363784	0.00575	Inf	-	hypothetical protein
+1161616	0.005751	1.372257	-	phosphohydrolase
+2045545	0.005755	0.2258274	intergenic	n/a
+290458	0.005773	0.4003413	intergenic	n/a
+110890	0.005822	3.798546	sdhA	L-serine dehydratase, alpha chain
+1384758	5.91E-03	1.132185	-	hypothetical protein
+1737361	0.005934	2.524733	-	7-cyano-7-deazaguanine reductase
+510805	0.005997	0.5926541	metE	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+276426	0.006002	25.37339	-	hyaluronate lyase
+277513	0.006002	25.37339	-	hyaluronate lyase
+277644	0.006002	25.37339	-	hyaluronate lyase
+276269	0.006002	27.13556	-	hyaluronate lyase
+276038	6.00E-03	27.13556	-	hyaluronate lyase
+275675	0.006002	25.37339	-	hyaluronate lyase
+275091	0.006002	27.13556	-	hyaluronate lyase
+507375	0.006002	1.084126	pheT	phenylalanyl-tRNA synthetase subunit beta
+503446	0.006033	12.28725	-	6-phospho-beta-glucosidase
+1289985	0.006216	1.045585	intergenic	n/a
+1143579	0.006256	1.862205	carB	carbamoyl phosphate synthase large subunit
+49380	6.26E-03	0.8811749	-	bacteriocin transport/processing ATP-binding protein
+42253	0.006262	0.8878636	-	CoA-binding protein
+966214	0.006262	0.9209371	obgE	GTPase ObgE
+566939	0.006317	1.089943	-	surface-anchored serine protease
+1379021	0.006341	1.024194	-	hypothetical protein
+95198	0.006349	1.813349	-	binding-protein-dependent transport system membrane protein
+1562596	0.006354	0.3730093	-	NIF3 (NGG1p interacting factor 3) family protein
+1679402	0.006383	2.391259	priA	primosome assembly protein PriA
+1802322	0.006424	0.7182386	-	ABC transporter ATP-binding protein/permease
+202808	0.006436	2.27948	adk	adenylate kinase
+1346550	0.006537	1.272709	ptsK	HPr kinase/phosphorylase
+2146669	0.006553	1.518781	intergenic	n/a
+1896706	0.006598	1.468958	-	hypothetical protein
+915999	0.006627	Inf	-	hypothetical protein
+79290	0.006653	1.900652	agaS	tagatose-6-phosphate aldose/ketose isomerase
+1349316	0.006707	3.413736	queA	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+1353282	0.006728	1.243697	nadE	NAD synthetase
+1295808	0.006734	2.663722	msrAB	peptide methionine sulfoxide reductase
+817904	0.006749	0.8983279	-	ABC transporter ATP-binding protein
+883569	0.006786	2.265135	-	glycosyl hydrolase
+285766	0.006875	10.92288	agaD	N-acetylgalactosamine-specific phosphotransferase system (PTS), IID component
+210696	0.006883	0.3568739	-	ATP-binding component of ABC transporter
+734361	0.006934	0.7888063	deoB	phosphopentomutase
+1826389	0.006956	0.9095411	-	hypothetical protein
+1985881	0.006993	0.6299182	licC	PTS system, lichenan-specific IIc component
+859272	0.007004	1.509671	infC	translation initiation factor IF-3
+2116273	0.007019	1.668462	-	glycosyl hydrolase
+284055	0.00703	15.67244	ugl	unsaturated glucuronyl hydrolase
+1878965	0.007145	0.6376284	groEL	chaperonin GroEL
+1062258	0.007159	1.88619	nrdF	ribonucleotide-diphosphate reductase subunit beta
+1097196	0.007179	0.1146049	mutY	A/G-specific adenine glycosylase
+571120	0.007201	0	-	sugar phosphotransferase system (PTS),galactitol-specific family, IIC component
+1946792	0.007202	1.381795	ksgA	dimethyladenosine transferase
+279553	0.007253	2.014294	kgdA	keto-hydroxyglutarate-aldolase/keto-deoxy-phosphogluconate aldolase
+505698	0.007319	1.357148	-	GNAT family acetyltransferase
+33929	0.007336	0.7149966	sms	DNA repair protein RadA
+452139	0.007375	0.6849176	-	type I restriction-modification system R protein
+817274	0.00752	1.018059	-	ABC transporter ATP-binding protein
+1059179	0.00754	0.6830681	-	ribonucleotide-diphosphate reductase subunit alpha
+670642	0.007618	0.3875927	-	helicase
+68751	0.007686	Inf	purB	adenylosuccinate lyase
+838095	0.007686	Inf	proA	gamma-glutamyl phosphate reductase
+560229	0.007686	Inf	-	hypothetical protein
+2105718	0.007686	0.305993	-	hypothetical protein
+629016	0.007686	Inf	lysS	lysyl-tRNA synthetase
+1416452	0.007686	Inf	pgmA	phosphomannomutase
+106584	0.007686	Inf	-	polysaccharide biosynthesis protein
+106944	0.007686	Inf	-	polysaccharide biosynthesis protein
+664397	0.007686	Inf	intergenic	n/a
+1532129	0.007726	0.9020188	-	hypothetical protein
+734008	0.007738	0.7545333	deoB	phosphopentomutase
+1314802	0.007781	0.4770089	-	hypothetical protein
+349810	0.007812	1.703576	-	sensor histidine kinase
+2021201	0.007819	1.230137	-	hypothetical protein
+2164924	0.007842	1.782181	glpK	glycerol kinase
+961253	0.00785	Inf	rpoD	RNA polymerase sigma factor RpoD
+1106115	0.007885	2.039509	uvrB	excinuclease ABC subunit B
+1549697	0.007888	2.059346	-	aminotransferase
+259588	0.007906	Inf	manL	mannose-specific phosphotransferase system (PTS), IIAB component
+1816900	0.007974	1.480096	galR	galactose operon repressor
+279768	0.008041	1.060116	-	PfkB family carbohydrate kinase
+1827819	0.008235	0.3677582	intergenic	n/a
+1557864	0.008289	Inf	cmk	cytidylate kinase
+1559117	0.008289	Inf	-	hypothetical protein
+1628148	0.008358	Inf	nanB	sialidase B precursor (neuraminidase B)
+226115	0.008366	1.026647	-	GNAT family acetyltransferase
+684680	0.008398	1.118344	intergenic	n/a
+279511	0.008435	25.40552	kgdA	keto-hydroxyglutarate-aldolase/keto-deoxy-phosphogluconate aldolase
+176041	0.008629	18.416	uvrA	excinuclease ABC subunit A
+1396844	0.008688	1.496814	glyS	glycyl-tRNA synthetase subunit beta
+1615519	0.008731	6.432998	-	transcription regulator
+980860	0.008781	1.010856	-	adenylate cyclase family protein
+979740	0.008894	2.981537	prsA2	ribose-phosphate pyrophosphokinase
+1540651	0.008905	1.220724	msmK	multiple sugar-binding transport ATP-binding protein
+1598120	0.009006	0.4782372	-	integral membrane protein
+883334	0.00905	0	-	glycosyl hydrolase
+1566318	0.009094	1.140209	-	cation-transporting ATPase
+1562494	0.009127	0.6832548	-	FAD dependent oxidoreductase
+1137076	0.009128	0.6872366	-	LicB-family membrane protein
+328666	0.009176	0.1073769	-	cell wall surface anchored protein
+1451307	0.009177	2.590957	-	CsbD-like protein
+230228	0.009189	1.654486	-	phosphatidate cytidylyltransferase
+1049827	0.009229	1.470731	mutX	mutator MutX protein (7,8-dihydro-8-oxoguanine-triphosphatase)
+542117	0.009282	0.6364038	murN	peptidoglycan branched peptide synthesis protein
+835678	0.009283	1.517517	cbpE	choline binding protein E
+1674447	0.009337	0.9607541	stk1	serine/threonine-protein kinase
+2042123	0.009343	0.5367111	-	ABC transporter ATP-binding protein
+1534695	0.009378	0.5473539	-	exported choline-binding glycosyl hydrolase
+275911	0.009412	1.213532	-	hyaluronate lyase
+391228	0.009414	1.088643	intergenic	n/a
+1933308	0.009423	0	-	hypothetical protein
+1549667	0.00946	Inf	-	aminotransferase
+1414514	0.009531	2.537913	intergenic	n/a
+543257	0.009747	Inf	-	protease
+2149888	0.009818	0.6129556	adcA	zinc-binding protein AdcA precursor
+455903	0.009871	0.8058633	grpE	heat shock protein GrpE
+107364	0.0099	9.018739	-	polysaccharide biosynthesis protein
+2163263	0.009902	1.568856	glpO	alpha-glycerophosphate oxidase
+540083	0.009932	1.123776	-	esterase
+556900	0.009998	2.294397	intergenic	n/a
+1349433	0.01006	3.484384	queA	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+208320	0.01009	1.301084	-	phosphoglycerate mutase family protein
+540097	0.01011	Inf	-	esterase
+241530	0.01013	0.1883379	-	surface-anchored pullulanase
+1853428	0.01015	3.090252	-	extracellular oligopeptide-binding protein
+1858392	0.01015	2.076078	msmG	multiple sugar-binding transport system permease protein
+1587337	0.0102	1.090972	mtsB	metal cation ABC transporter ATP-binding protein
+2167644	0.01028	0	-	DNA-binding protein
+570382	0.01028	0	-	sugar phosphotransferase system (PTS),galactitol-specific family, IIC component
+572100	1.03E-02	0	bgaA	surface anchored beta-galactosidase
+571850	0.01028	0	bgaA	surface anchored beta-galactosidase
+2174235	0.01028	0	-	two-component system, sensor histidine kinase
+1316204	0.01038	0.6609194	intergenic	n/a
+2103098	0.01042	1.389242	-	PTS multi-domain regulator
+2054661	0.01044	1.258128	-	phosphate transport system protein
+770560	0.01057	0.1597073	csdB	cysteine desulfurase
+1740069	0.01058	0.3996632	-	oligopeptidase
+2169917	0.01061	1.851634	-	tRNA-dihydrouridine synthase
+1316168	0.01062	0.5415887	intergenic	n/a
+2149024	0.01067	0.6384843	adcA	zinc-binding protein AdcA precursor
+1441212	0.01068	0.721511	-	SNF-family helicase
+492839	0.0107	2.293378	valS	valyl-tRNA synthetase
+295716	0.01079	4.478871	clpL	ATP-dependent protease ATP-binding subunit ClpL
+1778586	0.0108	0.9093072	trpB	tryptophan synthase subunit beta
+1389739	0.01084	1.634576	-	glutamine amidotransferase subunit PdxT
+1418337	0.01084	1.634576	-	hypothetical protein
+2078096	0.01084	1.634576	malC	maltose/maltodextrin ABC transport system permease protein
+799001	0.01094	0.5151184	pepXP	x-prolyl-dipeptidyl aminopeptidase
+545694	0.011	1.725762	uvrC	excinuclease ABC subunit C
+103523	0.01104	0.9797284	intergenic	n/a
+283602	0.01106	16.29668	ugl	unsaturated glucuronyl hydrolase
+1549502	0.0111	Inf	-	aminotransferase
+835306	0.01113	0.5504689	cbpE	choline binding protein E
+1576754	0.01116	1.084534	-	transcriptional regulator protein
+615762	0.01125	2.150948	-	hypothetical protein
+913056	0.01133	9.018739	intergenic	n/a
+127275	1.16E-02	4.364792	mnmA	tRNA-specific 2-thiouridylase MnmA
+339316	0.01165	0.5673022	gnd	6-phosphogluconate dehydrogenase
+1047643	0.01167	1.931879	-	multidrug resistance protein
+2084565	0.0117	Inf	-	hypothetical protein
+51750	0.01175	0.8446514	-	bacteriocin transport accessory protein
+328219	0.01176	1.993085	-	cell wall surface anchored protein
+337274	0.01181	8.33841	-	hypothetical protein
+758725	0.01194	0.430236	-	extracellular oligopeptide-binding protein
+2165515	0.01194	0.5343166	glpK	glycerol kinase
+286351	0.01196	9.965233	-	hypothetical protein
+2103339	0.01202	0.426565	-	PTS multi-domain regulator
+1848801	0.01204	1.218418	-	peptide ABC transporter ATP-binding protein
+2062738	0.01214	1.386575	pbp1B	penicillin-binding protein 1B
+1067386	0.0122	Inf	lacF	PTS system, lactose-specific IIA component
+875255	0.0122	0.846756	-	tellurite resistance protein TehB
+1068279	0.0122	Inf	lacT2	transcription antiterminator LacT 2
+1807135	0.0122	0.6755367	intergenic	n/a
+1990954	0.01234	1.078443	intergenic	n/a
+684518	0.01236	1.254841	intergenic	n/a
+208557	0.01243	2.008371	-	phosphoglycerate mutase family protein
+772774	0.01244	8.461594	-	D-alanyl-D-alanine carboxypeptidase
+340001	0.0125	0.7784256	csrR	response regulator protein
+177522	0.01264	1.400205	uvrA	excinuclease ABC subunit A
+1356578	0.01264	Inf	intergenic	n/a
+543194	0.01288	Inf	-	protease
+543269	0.01288	Inf	-	protease
+1573558	0.01291	3.492412	-	sensor histidine kinase protein
+2067749	0.013	0.2840978	-	cation transporting ATPase
+287222	0.01305	13.59963	-	heparinase II/III-like protein
+1449981	0.01309	0.7235532	murE	UDP-N-acetylmuramoylalanyl-D-glutamate--L-lysine ligase
+188530	0.01317	0	nrdD	anaerobic ribonucleoside triphosphate reductase
+439153	0.01317	0.6755367	-	endo-beta-N-acetylglucosaminidase
+382282	0.01317	0.6515989	fabD	malonyl CoA-acyl carrier protein transacylase
+430588	0.01317	0.6515989	intergenic	n/a
+618442	1.32E-02	0.9306839	murG	UDP diphospho-muramoyl pentapeptide beta-N acetylglucosaminyl transferase
+1563865	0.0132	0.3635882	-	hypothetical protein
+1056852	0.01325	0.3056999	pstI	phosphoenolpyruvate-protein phosphotransferase
+1682695	0.01329	2.900527	gmk	guanylate kinase
+2080963	0.01329	1.969916	malA	maltodextrose utilization protein MalA
+740131	0.01329	0.6809125	intergenic	n/a
+1356967	0.01337	1.253267	-	hypothetical protein
+396425	0.0134	0.7172784	intergenic	n/a
+2070494	0.01343	1.378293	intergenic	n/a
+1659188	0.01348	1.71161	intergenic	n/a
+1548828	0.01352	0.4551608	-	Mur ligase family protein
+873634	0.01353	0	rnr	exoribonuclease R
+863054	0.01395	1.263143	lytB	endo-beta-N-acetylglucosaminidase
+1543329	0.01398	0.3918666	-	DEAD/DEAH box helicase
+347644	0.01399	1.330286	mvaK2	phosphomevalonate kinase
+707909	0.01408	1.793692	pepN	lysyl-aminopeptidase
+123570	0.01436	Inf	intergenic	n/a
+215704	0.01442	0.5174945	intergenic	n/a
+912899	0.01443	9.607721	-	4-oxalocrotonate tautomerase
+1577813	0.01448	0.4424872	-	metallophosphoesterase protein
+1302014	0.01451	0.4387352	-	hypothetical protein
+561137	0.01462	0.88923	-	hypothetical protein
+1349737	0.01467	0.2695786	queA	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+2085822	0.01479	9.71098	aspS	aspartyl-tRNA synthetase
+1554912	0.01482	0.6072752	intergenic	n/a
+1658036	1.49E-02	1.203171	-	ABC transporter ATP-binding protein

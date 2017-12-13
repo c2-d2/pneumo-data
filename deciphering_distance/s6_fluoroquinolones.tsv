@@ -1,0 +1,6 @@
+SNP	BP	Gene	Product	P	Odds ratio
+snp_22098	625413	ccmA	heme exporter protein A (cytochrome C-type biogenesis protein)	1.92E-08	Inf
+snp_59694	1752427	-	recombination factor protein RarA	0.001011	0.4526252
+snp_59606	1750767	intergenic	n/a	0.001743	0.4872431
+snp_55286	1596143	-	hypothetical protein	0.005181	21.12182
+snp_59584	1750495	intergenic	n/a	0.009384	0.7811984
