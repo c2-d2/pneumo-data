@@ -19,8 +19,9 @@ function download_isolate ()
     echo $url1
 	set -x
 	curl -s $url1 | gzip -d > $fq1
+	test -s $fq1
 	curl -s $url2 | gzip -d > $fq2
-	test -s $fa
+	test -s $fq2
 }
 
 export -f download_isolate
